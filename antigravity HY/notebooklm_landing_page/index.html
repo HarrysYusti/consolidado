@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viaje del Pedido - Natura Logística</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>El Viaje del Pedido 📦</h1>
+            <p>De la Captación al Embarque: Una guía didáctica de nuestros sistemas.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="intro">
+            <h2>Ecosistema Digital</h2>
+            <div class="systems-legend">
+                <span class="badge lego">LEGO (Front-end)</span>
+                <span class="badge gera">GERA (Cerebro)</span>
+                <span class="badge sap">SAP (Logística/Contable)</span>
+            </div>
+            <p>Descubre cómo LEGO, GERA y SAP conversan para transformar un "clic" en una entrega exitosa.</p>
+        </div>
+
+        <div class="timeline">
+            <!-- Paso 1 -->
+            <div class="card" id="step1">
+                <div class="card-header">
+                    <div class="step-number">01</div>
+                    <h3>Captación y Reserva</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge lego">LEGO</span> <span class="arrow">⮕</span> <span class="badge gera">GERA</span>
+                    </div>
+                    <p>La Consultora confirma su pedido. <strong>LEGO</strong> envía los datos a <strong>GERA</strong>.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li><strong>Empeño:</strong> GERA reserva el stock ("Stock Comercial") para evitar sobreventas.</li>
+                            <li><strong>Validación:</strong> GERA verifica crédito, bloqueos y reglas comerciales.</li>
+                            <li>Si todo está bien ➝ Estado <strong>Aprobado</strong>.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Paso 2 -->
+            <div class="card" id="step2">
+                <div class="card-header">
+                    <div class="step-number">02</div>
+                    <h3>Liberación a Logística</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge gera">GERA</span> <span class="arrow">⮕</span> <span class="badge sap">SAP EWM</span>
+                    </div>
+                    <p>El pedido viaja al almacén virtualmente. GERA envía la información a SAP EWM.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li><strong>Ola de Pedidos:</strong> SAP EWM agrupa pedidos eficientemente para el picking.</li>
+                            <li>Se asignan recursos y rutas dentro del Centro de Distribución.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Paso 3 -->
+            <div class="card" id="step3">
+                <div class="card-header">
+                    <div class="step-number">03</div>
+                    <h3>Picking y Packing</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge sap">SAP EWM</span> <span class="arrow">⟷</span> <span>WCS (Knapp)</span>
+                    </div>
+                    <p>¡Manos a la obra! Se recogen los productos físicos y se arman las cajas.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li>El sistema de automatización (WCS) o los operarios ejecutan el armado.</li>
+                            <li>SAP EWM monitorea cada movimiento hasta que la caja está cerrada.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Paso 4 -->
+            <div class="card" id="step4">
+                <div class="card-header">
+                    <div class="step-number">04</div>
+                    <h3>Facturación</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge gera">GERA</span> <span class="arrow">⮕</span> <span>Fiscal</span>
+                    </div>
+                    <p>El pedido necesita documentos legales. GERA asume el control nuevamente.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li><strong>Factura Electrónica:</strong> GERA emite la factura ante la autoridad fiscal.</li>
+                            <li>Se imprime la documentación física que acompañará a la caja.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Paso 5 -->
+            <div class="card" id="step5">
+                <div class="card-header">
+                    <div class="step-number">05</div>
+                    <h3>Embarque y Baja</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge sap">SAP EWM</span> <span class="arrow">⮕</span> <span class="badge sap">SAP ECC</span>
+                    </div>
+                    <p>El pedido sale del almacén. Es el momento de la verdad para el inventario.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li><strong>Ship Confirm:</strong> EWM avisa a ECC que el producto salió (Status 3 ➝ Status 5).</li>
+                            <li><strong>Desempeño:</strong> SAP avisa a GERA, y el "Empeño" se convierte en baja real.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Paso 6 -->
+            <div class="card" id="step6">
+                <div class="card-header">
+                    <div class="step-number">06</div>
+                    <h3>Transporte (Entrega)</h3>
+                </div>
+                <div class="card-body">
+                    <div class="system-interaction">
+                        <span class="badge sap">SAP</span> <span class="arrow">⮕</span> <span>TMS / WebTracking</span>
+                    </div>
+                    <p>El pedido está en camino a la Consultora.</p>
+                    <div class="detail-box">
+                        <h4>🔍 Lo que ocurre internamente:</h4>
+                        <ul>
+                            <li>Se genera la minuta de transporte.</li>
+                            <li>El estado se actualiza en <strong>WebTracking</strong> para visibilidad del cliente.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Generado con asistencia de NotebookLM - Coordinación TD</p>
+        </div>
+    </footer>
+</body>
+</html>

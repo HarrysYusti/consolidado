@@ -1,0 +1,4 @@
+@echo off
+cd /d "C:\Users\331642\Desktop\harrys\Antigravity"
+python -m streamlit run app.py
+pause

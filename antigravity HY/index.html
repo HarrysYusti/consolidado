@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigravity Logistics Launcher</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 { color: #FF4B4B; }
+        p { line-height: 1.6; }
+        .btn {
+            display: inline-block;
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .btn:hover { background-color: #555; }
+        .instruction {
+            background-color: #e9ecef;
+            padding: 15px;
+            border-left: 5px solid #FF4B4B;
+            text-align: left;
+            margin-top: 20px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📦 Gestión Logística SFTP</h1>
+        <p>Esta es la página de información local del proyecto.</p>
+        <p>La aplicación principal está construida en <strong>Python Streamlit</strong> para procesar grandes volúmenes de datos vía SFTP.</p>
+        
+        <div class="instruction">
+            <strong>Cómo ejecutar la aplicación:</strong><br>
+            Opción 1: Haz doble clic en el archivo <code>run_app.bat</code> en esta misma carpeta.<br>
+            Opción 2: Abre la terminal y escribe <code>streamlit run app.py</code>
+        </div>
+
+        <a href="GUIA_USO.md" class="btn">Ver Guía de Uso (Markdown)</a>
+    </div>
+</body>
+</html>

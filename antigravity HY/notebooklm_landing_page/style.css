@@ -1,0 +1,307 @@
+:root {
+    --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
+    --text-color: #f3f4f6;
+    --card-bg: rgba(255, 255, 255, 0.1);
+    --card-border: rgba(255, 255, 255, 0.1);
+    --card-hover: rgba(255, 255, 255, 0.2);
+    --text-muted: #9ca3af;
+    --accent-color: #818cf8;
+    --lego-color: #fbbf24;
+    --gera-color: #3b82f6;
+    --sap-color: #94a3b8;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg-gradient);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 40px 40px 40px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    padding: 30px 0 20px 0;
+    animation: fadeInDown 0.8s ease-out;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0 0 10px 0;
+    font-weight: 800;
+    background: linear-gradient(to right, #818cf8, #c084fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 30px;
+    animation: fadeIn 1s ease-out;
+}
+
+.systems-legend {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.badge {
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.badge.lego {
+    background-color: var(--lego-color);
+    color: #111;
+}
+
+.badge.gera {
+    background-color: var(--gera-color);
+    color: white;
+}
+
+.badge.sap {
+    background-color: var(--sap-color);
+    color: #111;
+}
+
+/* GRID LAYOUT FOR COMPACTNESS */
+.timeline {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    padding: 20px;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    animation: fadeInUp 0.5s ease-out backwards;
+}
+
+/* Staggered animation for cards */
+.card:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+.card:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.card:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+.card:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+.card:nth-child(5) {
+    animation-delay: 0.5s;
+}
+
+.card:nth-child(6) {
+    animation-delay: 0.6s;
+}
+
+.card:hover {
+    transform: translateY(-5px) scale(1.02);
+    background: var(--card-hover);
+    border-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.step-number {
+    background: linear-gradient(135deg, #6366f1, #a855f7);
+    color: white;
+    font-weight: 800;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.card h3 {
+    margin: 0;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.system-interaction {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 8px;
+    border-radius: 8px;
+    width: fit-content;
+    font-size: 0.85rem;
+}
+
+.system-interaction .arrow {
+    color: #9ca3af;
+}
+
+.card-body p {
+    font-size: 0.95rem;
+    color: #d1d5db;
+    margin: 0 0 10px 0;
+}
+
+/* HOVER REVEAL EFFECT */
+.detail-box {
+    background-color: rgba(59, 130, 246, 0.1);
+    border-left: 3px solid var(--gera-color);
+    padding: 12px;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.85rem;
+    margin-top: auto;
+    /* Push to bottom */
+
+    /* Initially Hidden/Collapsed */
+    opacity: 0;
+    max-height: 0;
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+.card:hover .detail-box {
+    opacity: 1;
+    max-height: 200px;
+    /* Adjust as needed */
+    margin-top: 10px;
+}
+
+.detail-box h4 {
+    margin: 0 0 5px 0;
+    color: #93c5fd;
+    font-size: 0.9rem;
+}
+
+.detail-box ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #e5e7eb;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 0.8rem;
+}
+
+/* ANIMATIONS */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* RESPONSIVE */
+@media (max-width: 1024px) {
+    .timeline {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .timeline {
+        grid-template-columns: 1fr;
+    }
+
+    .card:hover .detail-box {
+        max-height: none;
+        /* Always show or expand fully on mobile tap */
+    }
+
+    .detail-box {
+        opacity: 1;
+        /* Always visible on mobile for usability */
+        max-height: none;
+        background: rgba(255, 255, 255, 0.05);
+    }
+}
