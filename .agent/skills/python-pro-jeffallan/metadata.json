@@ -1,0 +1,6 @@
+{
+  "name": "python-pro-jeffallan",
+  "description": "Senior Python developer guidance specializing in type-safe, async-first, production-ready Python 3.11+ code.",
+  "version": "1.0.0",
+  "tags": ["python", "pro", "async", "typing", "pytest", "poetry", "modern"]
+}

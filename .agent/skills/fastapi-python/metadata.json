@@ -1,0 +1,6 @@
+{
+  "name": "fastapi-python",
+  "description": "Expert guidelines for FastAPI and Python backend development, focusing on concise, functional, and performant code.",
+  "version": "1.0.0",
+  "tags": ["python", "fastapi", "backend", "async", "pydantic", "api"]
+}

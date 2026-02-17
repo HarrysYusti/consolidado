@@ -1,0 +1,6 @@
+{
+  "name": "python-type-safety",
+  "description": "Leverage Python's type system to catch errors at static analysis time. Use annotations, generics, and protocols for robust code.",
+  "version": "1.0.0",
+  "tags": ["python", "typing", "mypy", "pyright", "generics", "protocols"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "python-error-handling",
+  "description": "Build robust Python applications with proper input validation, meaningful exceptions, and graceful failure handling.",
+  "version": "1.0.0",
+  "tags": ["python", "error-handling", "exceptions", "validation", "pydantic", "robustness"]
+}

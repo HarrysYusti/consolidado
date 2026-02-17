@@ -1,0 +1,6 @@
+{
+  "name": "n8n-workflow-documentation",
+  "description": "Estándares para documentar flujos de n8n con notas adhesivas y nombres descriptivos.",
+  "version": "1.0.0",
+  "tags": ["n8n", "documentacion", "best-practices", "workflows"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "n8n-mcp-tools-expert",
+  "description": "Master guide for using n8n-mcp MCP server tools to build workflows, discover nodes, and validate configuration.",
+  "version": "1.0.0",
+  "tags": ["n8n", "mcp", "tools", "automation", "workflow"]
+}

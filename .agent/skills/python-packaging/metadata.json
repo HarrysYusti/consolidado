@@ -1,0 +1,6 @@
+{
+  "name": "python-packaging",
+  "description": "Comprehensive guide to creating, building, and publishing Python packages using modern standards (pyproject.toml) and best practices.",
+  "version": "1.0.0",
+  "tags": ["python", "packaging", "pypi", "poetry", "setuptools", "distribution"]
+}

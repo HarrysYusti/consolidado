@@ -1,0 +1,6 @@
+{
+  "name": "pandas-data-analysis",
+  "description": "Master data analysis with Pandas. Learn to clean, transform, analyze, and visualize data effectively.",
+  "version": "1.0.0",
+  "tags": ["python", "pandas", "data-analysis", "visualization", "dataframe"]
+}

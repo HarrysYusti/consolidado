@@ -1,0 +1,6 @@
+{
+  "name": "python-configuration",
+  "description": "Externalize configuration from code using environment variables and typed settings (Pydantic).",
+  "version": "1.0.0",
+  "tags": ["python", "configuration", "pydantic", "environment-variables", "settings", "12-factor"]
+}

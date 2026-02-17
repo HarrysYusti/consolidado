@@ -1,0 +1,6 @@
+{
+  "name": "python-code-style",
+  "description": "Consistent code style and clear documentation make codebases maintainable and collaborative. Covers modern Python tooling, naming conventions, and documentation standards.",
+  "version": "1.0.0",
+  "tags": ["python", "style", "linting", "formatting", "documentation", "pep8"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "find-skills",
+  "description": "Discover and install new agent skills using the npx skills CLI.",
+  "version": "1.0.0",
+  "tags": ["skills", "discovery", "cli", "package-manager"]
+}

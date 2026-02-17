@@ -1,0 +1,6 @@
+{
+  "name": "skill-organizer",
+  "description": "Master skill for recommending, organizing, and documenting the usage of other agent skills in projects.",
+  "version": "1.0.0",
+  "tags": ["master", "organization", "documentation", "assistant"]
+}

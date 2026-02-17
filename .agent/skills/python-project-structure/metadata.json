@@ -1,0 +1,6 @@
+{
+  "name": "python-project-structure",
+  "description": "Design well-organized Python projects with clear module boundaries, explicit public interfaces, and maintainable directory structures.",
+  "version": "1.0.0",
+  "tags": ["python", "structure", "module", "architecture", "best-practices"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "n8n-node-configuration",
+  "description": "Expert guidance for operation-aware node configuration with property dependencies in n8n.",
+  "version": "1.0.0",
+  "tags": ["n8n", "configuration", "nodes", "automation"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "n8n-code-python",
+  "description": "Expert guidance for writing Python code in n8n Code nodes (Beta). Covers limitations, data access patterns, and best practices.",
+  "version": "1.0.0",
+  "tags": ["n8n", "python", "automation", "workflow", "code-node"]
+}

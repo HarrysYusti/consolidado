@@ -1,0 +1,6 @@
+{
+  "name": "mcp-builder",
+  "description": "Guide for building Model Context Protocol (MCP) servers to enable LLM interaction with external services.",
+  "version": "1.0.0",
+  "tags": ["mcp", "ai", "llm", "tools", "server"]
+}

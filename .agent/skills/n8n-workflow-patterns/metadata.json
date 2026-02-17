@@ -1,0 +1,6 @@
+{
+  "name": "n8n-workflow-patterns",
+  "description": "Proven architectural patterns (Webhook, API, DB, AI, Scheduled) for building robust n8n workflows.",
+  "version": "1.0.0",
+  "tags": ["n8n", "workflows", "patterns", "architecture"]
+}

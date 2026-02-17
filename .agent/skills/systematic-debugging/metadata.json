@@ -1,0 +1,6 @@
+{
+  "name": "systematic-debugging",
+  "description": "A tailored process for systematic debugging: Root Cause -> Pattern Analysis -> Hypothesis -> Fix.",
+  "version": "1.0.0",
+  "tags": ["debugging", "troubleshooting", "process", "quality"]
+}

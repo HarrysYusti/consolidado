@@ -1,0 +1,189 @@
+{
+  "name": "Análisis de Email con Gemini (Documentado)",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "## PROYECTO: Análisis de Emails con IA\n**OBJETIVO**: Analizar correos de ayer para detectar tareas y responsables.\n**DISPARADOR**: Diario a las 8:00 AM.\n**RESPONSABLE**: Harry\n**NOTAS**: Requiere credenciales de Gmail, Drive y Gemini.",
+        "height": 220,
+        "width": 380,
+        "color": 2
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -440,
+        -100
+      ],
+      "id": "intro-note",
+      "name": "Nota Inicial"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 8 * * *"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "schedule-trigger",
+      "name": "Disparador Diario (8 AM)"
+    },
+    {
+      "parameters": {
+        "resource": "message",
+        "operation": "getAll",
+        "limit": 50,
+        "filters": {
+          "q": "=after:{{ $today.minus({days: 1}).format('yyyy/MM/dd') }} before:{{ $today.format('yyyy/MM/dd') }}"
+        }
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2,
+      "position": [
+        220,
+        0
+      ],
+      "id": "gmail-read",
+      "name": "Leer Correos de Ayer (Gmail)",
+      "credentials": {
+        "googleApi": {
+          "id": "YOUR_CREDENTIAL_ID",
+          "name": "Google account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "batchSize": 1,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        440,
+        0
+      ],
+      "id": "split-batches",
+      "name": "Dividir Correos por Lotes (1x1)"
+    },
+    {
+      "parameters": {
+        "model": "gemini-pro",
+        "prompt": "=Analiza el siguiente correo:\n\nAsunto: {{ $json.snippet }}\nCuerpo: {{ $json.body }}\n\nEres un asistente ejecutivo. Tu tarea es extraer la siguiente información en formato JSON:\n1. \"summary\": Un resumen de una oración.\n2. \"actionRequired\": true si requiere acción, false si no.\n3. \"owner\": Quién debería encargarse (o \"N/A\").\n\nResponde SOLO con el JSON."
+      },
+      "type": "n8n-nodes-base.googleGemini",
+      "typeVersion": 1,
+      "position": [
+        660,
+        0
+      ],
+      "id": "gemini-analysis",
+      "name": "Extraer Tareas con IA (Gemini)",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "YOUR_GEMINI_CREDENTIAL_ID",
+          "name": "Google Gemini account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// TRANSFORMACIÓN: Convierte las respuestas individuales de la IA en un reporte Markdown unificado.\n// Se filtran los correos que requieren acción (actionRequired = true).\n\nconst allItems = $input.all();\nlet report = \"# Reporte de Emails con Tareas Pendientes\\n\\n\";\nreport += `Fecha de generación: ${new Date().toLocaleDateString()}\\n\\n`;\n\nfor (const item of allItems) {\n  const analysis = item.json.text;\n  try {\n     const data = JSON.parse(analysis);\n     if (data.actionRequired) {\n       report += `## Asunto: ${item.json.snippet}\\n`;\n       report += `**Resumen**: ${data.summary}\\n`;\n       report += `**Responsable**: ${data.owner}\\n\\n`;\n     }\n  } catch (e) {\n     // Error en parseo de JSON o respuesta inesperada de la IA\n  }\n}\n\nreturn [{json: {report}}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        880,
+        0
+      ],
+      "id": "format-report",
+      "name": "Generar Lista de Tareas (Markdown)"
+    },
+    {
+      "parameters": {
+        "title": "=Resumen Emails con Tareas - {{ $today.format('yyyy-MM-dd') }}",
+        "content": "={{ $json.report }}"
+      },
+      "type": "n8n-nodes-base.googleDocs",
+      "typeVersion": 2,
+      "position": [
+        1100,
+        0
+      ],
+      "id": "create-doc",
+      "name": "Crear Documento en Google Docs",
+      "credentials": {
+        "googleApi": {
+          "id": "YOUR_CREDENTIAL_ID",
+          "name": "Google account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Disparador Diario (8 AM)": {
+      "main": [
+        [
+          {
+            "node": "Leer Correos de Ayer (Gmail)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Leer Correos de Ayer (Gmail)": {
+      "main": [
+        [
+          {
+            "node": "Dividir Correos por Lotes (1x1)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dividir Correos por Lotes (1x1)": {
+      "main": [
+        [
+          {
+            "node": "Extraer Tareas con IA (Gemini)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extraer Tareas con IA (Gemini)": {
+      "main": [
+        [
+          {
+            "node": "Generar Lista de Tareas (Markdown)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generar Lista de Tareas (Markdown)": {
+      "main": [
+        [
+          {
+            "node": "Crear Documento en Google Docs",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "n8n-code-javascript",
+  "description": "Expert guidance for writing JavaScript code in n8n Code nodes. Covers data access, patterns, and helpers.",
+  "version": "1.0.0",
+  "tags": ["n8n", "javascript", "code-node", "automation"]
+}
