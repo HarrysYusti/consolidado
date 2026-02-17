@@ -1,0 +1,39 @@
+etl:
+  process_name: 'cubos'
+  logging_level: 'DEBUG'
+  scheduled_minute: 15
+
+
+# DB Connection
+
+mssql_params:
+  server:
+  username:
+  password:
+  database:
+
+databricks_params:
+  host:
+  http_path:
+  api_key:
+
+# Tables
+
+mssql_tables:
+  grupo: "dbo.cubo_grupo"
+  sector: "dbo.cubo_sector"
+
+databricks_tables:
+  grupo: "sandbox.td_sql_chile.cubo_grupo"
+  sector: "sandbox.td_sql_chile.cubo_sector"
+
+codigo_column:
+  grupo: "Código Grupo"
+  sector: "Código Sector"
+
+# File data
+
+files:
+  host:
+  source_root_dir: 'Areas/Publico/RPA/Cubo'
+  processed_root_dir: 'Areas/Publico/RPA/Cubo/Procesado'
