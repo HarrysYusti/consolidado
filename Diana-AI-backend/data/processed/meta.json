@@ -1,0 +1,2032 @@
+{
+  "meta": {
+    "total_items": 288,
+    "sheets": {
+      "FAQ": 129,
+      "Accesos": 21,
+      "Glosario": 125,
+      "Utilidad": 4,
+      "Links Frecuentes": 9
+    },
+    "problems": [],
+    "vector_dim": 768
+  },
+  "items": [
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo recupero mi contraseña?",
+      "respuesta": "Debes ingresar al portal de autoservicio y seguir los pasos indicados.",
+      "text": "¿Cómo recupero mi contraseña? — Debes ingresar al portal de autoservicio y seguir los pasos indicados. (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Qué es Databricks?",
+      "respuesta": "Es una plataforma de análisis de datos en la nube que combina SQL, Python y más.",
+      "text": "¿Qué es Databricks? — Es una plataforma de análisis de datos en la nube que combina SQL, Python y más. (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Como abro un ticket de soporte TI?",
+      "respuesta": "En portal TI, puedes aperturar un requerimiento o un incidente",
+      "text": "¿Como abro un ticket de soporte TI? — En portal TI, puedes aperturar un requerimiento o un incidente (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Donde consulto el estado de mi ticket?",
+      "respuesta": "en el portal TI, Haz click en “Mis solicitudes”, pantalla principal arriba a la derecha, para visualizar tus solicitudes y incidentes con el estado de cada ticket creado. En caso de poseer acceso al https://portalti.natura.net/now puedes verlo en el buscador con el ID de ticket",
+      "text": "¿Donde consulto el estado de mi ticket? — en el portal TI, Haz click en “Mis solicitudes”, pantalla principal arriba a la derecha, para visualizar tus solicitudes y incidentes con el estado de cada ticket creado. En caso de poseer acceso al https://portalti.natura.net/now puedes verlo en el buscador con el ID de ticket (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Como solicito usuario de red y correo?",
+      "respuesta": "Para internos esta gestión es automatica desde el alta de WorkDay por parte de RRHH, para externos es el gestor directo quien debe solicitar estos accesos (lo hace abriendo tickets desde portal TI Service Now)",
+      "text": "¿Como solicito usuario de red y correo? — Para internos esta gestión es automatica desde el alta de WorkDay por parte de RRHH, para externos es el gestor directo quien debe solicitar estos accesos (lo hace abriendo tickets desde portal TI Service Now) (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Como solicito acceso a GERA?",
+      "respuesta": "Se solicita por portal TI, indicar El usuario (codigo de consultor) y cuales accesos necesita, pide los accesos con otro usuario espejo, es mas rapido de obtener asi, para solicitarlo ve al portal y en el buscador escribe Gera, selecciona la opcion de request",
+      "text": "¿Como solicito acceso a GERA? — Se solicita por portal TI, indicar El usuario (codigo de consultor) y cuales accesos necesita, pide los accesos con otro usuario espejo, es mas rapido de obtener asi, para solicitarlo ve al portal y en el buscador escribe Gera, selecciona la opcion de request (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Como solicito acceso a SAP (ECC-eWM-ARIBA)?",
+      "respuesta": "Se solicita por portal TI, Recuerda incluir las transacciones que necesitas para trabajar, y tener claro si necesitas EWM o ECC. Para solicitarlo ve al portal y en el buscador escribe SAP, selecciona la opcion de ACCESO. Para usar SAP fuera del entorno de la oficina debes tener activa la VPN",
+      "text": "¿Como solicito acceso a SAP (ECC-eWM-ARIBA)? — Se solicita por portal TI, Recuerda incluir las transacciones que necesitas para trabajar, y tener claro si necesitas EWM o ECC. Para solicitarlo ve al portal y en el buscador escribe SAP, selecciona la opcion de ACCESO. Para usar SAP fuera del entorno de la oficina debes tener activa la VPN (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Cual es la politica de asignacion de equipo corporativo?",
+      "respuesta": "Los equipos se renuevan cada 60 meses, todos los colaboradores Natura tienen derecho a la asignacion de un equipo y sus accesorios, durante el periodo informado el colaborador es el resposnable del equipo y su cuidado. Mas detalles consulta el documento \"Politica de microinformática\"",
+      "text": "¿Cual es la politica de asignacion de equipo corporativo? — Los equipos se renuevan cada 60 meses, todos los colaboradores Natura tienen derecho a la asignacion de un equipo y sus accesorios, durante el periodo informado el colaborador es el resposnable del equipo y su cuidado. Mas detalles consulta el documento \"Politica de microinformática\" (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Cual es la politica de asignación de linea telefonica corporativa?",
+      "respuesta": "Para Gestores se asigna una linea telefonica, cargos de coordinador, analista o Asistente tambíen cuenta con una línea, en caso que se determine como cargo critico, esto es si el cargo soporta algún servicio de continuidad operativa, lo anterior esta a mas detalle en el documento de politica de asignación de telefonía movíl",
+      "text": "¿Cual es la politica de asignación de linea telefonica corporativa? — Para Gestores se asigna una linea telefonica, cargos de coordinador, analista o Asistente tambíen cuenta con una línea, en caso que se determine como cargo critico, esto es si el cargo soporta algún servicio de continuidad operativa, lo anterior esta a mas detalle en el documento de politica de asignación de telefonía movíl (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Cual es el link de acceso para sistema GERA CHILE?",
+      "respuesta": "http://naturacl.geravd.com.br/",
+      "text": "¿Cual es el link de acceso para sistema GERA CHILE? — http://naturacl.geravd.com.br/ (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿cual es el portal TI o Service Now?",
+      "respuesta": "la pagina web eshttps://portalti.natura.net/nco y es un portal de natura para abrir tickets de requerimientos e incidencias",
+      "text": "¿cual es el portal TI o Service Now? — la pagina web eshttps://portalti.natura.net/nco y es un portal de natura para abrir tickets de requerimientos e incidencias (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿cual es la pagina de Grafana?",
+      "respuesta": "https://monitoring-grafana.mgt.naturacloud.com/",
+      "text": "¿cual es la pagina de Grafana? — https://monitoring-grafana.mgt.naturacloud.com/ (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿Como solicito acceso a Grafana?",
+      "respuesta": "Hispana solicita el acceso a Gera para el usuario. Marina orozco es la persona a la fecha de hoy que es analista de hispana marinaorozco.tsoft@natura.net",
+      "text": "¿Como solicito acceso a Grafana? — Hispana solicita el acceso a Gera para el usuario. Marina orozco es la persona a la fecha de hoy que es analista de hispana marinaorozco.tsoft@natura.net (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Plataforma",
+      "titulo": "¿como creo un incidente?",
+      "respuesta": "en el portal TI, en la ruta inicio - natura - tengo un problema - Se puede abrir un ticket para ti o para otra persona, selecciona el nombre del usuario que deseas. Selecciona las opciones en todos los campos obligatorios. Selecciona el sistema Lego, SAP, etc que deseas informar el problema (haz la búsqueda por la palabra) Para cada sistema serán exhibidas sus funcionalidades. Selecciona la opción que se identificó el problema. Selecciona la opción de acuerdo al impacto.    Atención a Hypercare “Sí”, solamente si el país de impacto seleccionado estuviera en Hypercare. En caso de dudas, consultar el líder de soporte (SLT). Describa el problema con lo máximo de detalles sobre como llegaron al problema y adjunta las evidencias para agilizar el análisis.",
+      "text": "¿como creo un incidente? — en el portal TI, en la ruta inicio - natura - tengo un problema - Se puede abrir un ticket para ti o para otra persona, selecciona el nombre del usuario que deseas. Selecciona las opciones en todos los campos obligatorios. Selecciona el sistema Lego, SAP, etc que deseas informar el problema (haz la búsqueda por la palabra) Para cada sistema serán exhibidas sus funcionalidades. Selecciona la opción que se identificó el problema. Selecciona la opción de acuerdo al impacto.    Atención a Hypercare “Sí”, solamente si el país de impacto seleccionado estuviera en Hypercare. En caso de dudas, consultar el líder de soporte (SLT). Describa el problema con lo máximo de detalles sobre como llegaron al problema y adjunta las evidencias para agilizar el análisis. (Categoría: Plataforma, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Como solicito un cambio de equipo?",
+      "respuesta": "El cambio o actualización de equipo puedes solicitar via ticket en nuestro portal de atención, esto queda para validación de tecnología local según politica y aprobación del gestor directo",
+      "text": "¿Como solicito un cambio de equipo? — El cambio o actualización de equipo puedes solicitar via ticket en nuestro portal de atención, esto queda para validación de tecnología local según politica y aprobación del gestor directo (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Como solicito un prestamo de equipo?",
+      "respuesta": "El prestamo de equipo debes solicitar en nuestro portal de atención en la ruta  https://portalti.natura.net/nco?id=sc_cat_item&sys_id=4771b5b41bc45250761176295b4bcb18&table=sc_cat_item&searchTerm=prestamo",
+      "text": "¿Como solicito un prestamo de equipo? — El prestamo de equipo debes solicitar en nuestro portal de atención en la ruta  https://portalti.natura.net/nco?id=sc_cat_item&sys_id=4771b5b41bc45250761176295b4bcb18&table=sc_cat_item&searchTerm=prestamo (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Como solicito Headphone, mouse, teclado y otros accesorios?",
+      "respuesta": "El prestamo de accesorios puedes realizar a https://portalti.natura.net/nco?id=sc_cat_item&sys_id=f304ac7b87065510b65eec240cbb3522&table=sc_cat_item&searchTerm=prestamo%20de%20teclado",
+      "text": "¿Como solicito Headphone, mouse, teclado y otros accesorios? — El prestamo de accesorios puedes realizar a https://portalti.natura.net/nco?id=sc_cat_item&sys_id=f304ac7b87065510b65eec240cbb3522&table=sc_cat_item&searchTerm=prestamo%20de%20teclado (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consultas",
+      "titulo": "¿Como solicito acceso a red Guess/Invitados?",
+      "respuesta": "",
+      "text": "¿Como solicito acceso a red Guess/Invitados? —  (Categoría: Consultas, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "Soy nuevo colaborador, cuales son los pasos para poder tener los accesos a Sistemas principales?",
+      "respuesta": "Se entiende como Colaborador a quien tiene contrato directo con Natura Chile, siendo así, puedes consultar con tu Gestor directamente para que pueda guiar como solicitar acceso a los sistemas principales, es el Colaborador quien solicita vía tickets los accesos según lo requiera. Si tienes más dudas puedes consultar con Mesa de Ayuda o con punto de contacto de TI\n\nHRBP orientará a Gestor con los pasos que debe realizar previo a la llegada de Colaborador (Alta de Cuenta, preparación de computador, etc). \nUna vez que Colaborador ingresa a Compañía. Y teniendo acceso a Service Now, podrá él mismo solicitar acceso a los distintos sistemas. \nIMPORTANTE: Los requerimientos, por workflow una vez abiertos llegan a Gestor para Aprobación, una vez que eso ocurra, ticket llegará al grupo que atiende ticket propiamente tal, como por ejemplo Gestión de Accesos LATAM. \nMás detalle consultar a Mesa de Ayuda",
+      "text": "Soy nuevo colaborador, cuales son los pasos para poder tener los accesos a Sistemas principales? — Se entiende como Colaborador a quien tiene contrato directo con Natura Chile, siendo así, puedes consultar con tu Gestor directamente para que pueda guiar como solicitar acceso a los sistemas principales, es el Colaborador quien solicita vía tickets los accesos según lo requiera. Si tienes más dudas puedes consultar con Mesa de Ayuda o con punto de contacto de TI\n\nHRBP orientará a Gestor con los pasos que debe realizar previo a la llegada de Colaborador (Alta de Cuenta, preparación de computador, etc). \nUna vez que Colaborador ingresa a Compañía. Y teniendo acceso a Service Now, podrá él mismo solicitar acceso a los distintos sistemas. \nIMPORTANTE: Los requerimientos, por workflow una vez abiertos llegan a Gestor para Aprobación, una vez que eso ocurra, ticket llegará al grupo que atiende ticket propiamente tal, como por ejemplo Gestión de Accesos LATAM. \nMás detalle consultar a Mesa de Ayuda (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "LEGO",
+      "titulo": "¿Qué debo hacer para poder disfrutar de Beneficio de Colaborador para hacer pedido desde MI NEGOCIO?",
+      "respuesta": "Esta solicitud se compone de 2 partes: \nPrimero, se entiende como Colaborador a quien tiene contrato directo con Natura Chile, siendo así, al momento de Solicitar acceso a Sistema GERA, el área de Gestión de accesos de Hispana, otorgará acceso a ROL COLABORADOR.\n\nSegundo, para acceder a MI NEGOCIO, es requisito que estés registrado como Consultor(a) de Belleza, para eso puedes acceder a: https://accounts.natura-avon.com/document?country=cl&company=natura\n\nY una vez que lo hagas puedes tomar contacto con Punto de contacto de TI de Venta Directa, para solicitar internamente, transferencia a GERENCIA COLABORADOR (Modelos comerciales administra eso hoy). \n\nTeniendo rol de COLABORADOR + Consultor(a) de Belleza, ya podrás acceder a MI NEGOCIO, y realizar pedido eligiendo si hacerlo como COLABORADOR (accedes al 40% de descuento en los 5 productos de mayor valor) o si quieres hacer pedido de Venta Directa. Si quieres ser un(a) CB real, importante no transferir a GERENCIA COLABORADOR.",
+      "text": "¿Qué debo hacer para poder disfrutar de Beneficio de Colaborador para hacer pedido desde MI NEGOCIO? — Esta solicitud se compone de 2 partes: \nPrimero, se entiende como Colaborador a quien tiene contrato directo con Natura Chile, siendo así, al momento de Solicitar acceso a Sistema GERA, el área de Gestión de accesos de Hispana, otorgará acceso a ROL COLABORADOR.\n\nSegundo, para acceder a MI NEGOCIO, es requisito que estés registrado como Consultor(a) de Belleza, para eso puedes acceder a: https://accounts.natura-avon.com/document?country=cl&company=natura\n\nY una vez que lo hagas puedes tomar contacto con Punto de contacto de TI de Venta Directa, para solicitar internamente, transferencia a GERENCIA COLABORADOR (Modelos comerciales administra eso hoy). \n\nTeniendo rol de COLABORADOR + Consultor(a) de Belleza, ya podrás acceder a MI NEGOCIO, y realizar pedido eligiendo si hacerlo como COLABORADOR (accedes al 40% de descuento en los 5 productos de mayor valor) o si quieres hacer pedido de Venta Directa. Si quieres ser un(a) CB real, importante no transferir a GERENCIA COLABORADOR. (Categoría: LEGO, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "LEGO",
+      "titulo": "Hice un pedido de Consumo Interno, pero este no migra a GERA, qué debo hacer?",
+      "respuesta": "Puedes consultar en Informe y ver si quedó con error o con cual mensaje para con eso poder buscar a contacto de TI local y mirar qué pasó, siempre y cuando hayas realizado el check previo de requisitos, Stock de productos, descripción de productos, persona para la cual se está haciendo pedido está con Rol Administrativo ok, eso principalmente",
+      "text": "Hice un pedido de Consumo Interno, pero este no migra a GERA, qué debo hacer? — Puedes consultar en Informe y ver si quedó con error o con cual mensaje para con eso poder buscar a contacto de TI local y mirar qué pasó, siempre y cuando hayas realizado el check previo de requisitos, Stock de productos, descripción de productos, persona para la cual se está haciendo pedido está con Rol Administrativo ok, eso principalmente (Categoría: LEGO, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Mesa de Ayuda",
+      "titulo": "No tengo acceso a un sistema, al que antes si tenía, ¿qué debo hacer?",
+      "respuesta": "Importante verificar que sólo tú tienes problema, y que no es un problema generalizado del Sistema que pueda estar afectando a más compañeros.\nSi eres sólo tú, identifica cuando fue la última vez que si pudiste acceder a sistema, toma una imagen del error o pantalla que te aparece; y toma contacto con Mesa de Ayuda o con tu punto de referencia en TI.",
+      "text": "No tengo acceso a un sistema, al que antes si tenía, ¿qué debo hacer? — Importante verificar que sólo tú tienes problema, y que no es un problema generalizado del Sistema que pueda estar afectando a más compañeros.\nSi eres sólo tú, identifica cuando fue la última vez que si pudiste acceder a sistema, toma una imagen del error o pantalla que te aparece; y toma contacto con Mesa de Ayuda o con tu punto de referencia en TI. (Categoría: Mesa de Ayuda, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo se resuelve el error \"Error al Abrir archivo en modo exclusivo [PIK_DET_001_...]\"?",
+      "respuesta": "Se deben reprocesar los archivos en el disco T.",
+      "text": "¿Cómo se resuelve el error \"Error al Abrir archivo en modo exclusivo [PIK_DET_001_...]\"? — Se deben reprocesar los archivos en el disco T. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué acción se toma para el error \"ErroCpfCnpjDestinatarioNaoDefinido\"?",
+      "respuesta": "Se debe identificar el pedido y sacarlo de la wave correspondiente.",
+      "text": "¿Qué acción se toma para el error \"ErroCpfCnpjDestinatarioNaoDefinido\"? — Se debe identificar el pedido y sacarlo de la wave correspondiente. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué verificaciones previas son necesarias antes de realizar la conciliación?",
+      "respuesta": "Antes de la conciliación, se debe verificar desde SEPARACIÓN que NO HAYAN PEDIDOS EN MONTAJE, LIBERACIÓN Y EN EMBARQUE.",
+      "text": "¿Qué verificaciones previas son necesarias antes de realizar la conciliación? — Antes de la conciliación, se debe verificar desde SEPARACIÓN que NO HAYAN PEDIDOS EN MONTAJE, LIBERACIÓN Y EN EMBARQUE. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se debe revisar en los procesos relacionados con la Interfaz Contable 3?",
+      "respuesta": "Se debe verificar que la Interfaz 3 esté funcionando correctamente.",
+      "text": "¿Qué se debe revisar en los procesos relacionados con la Interfaz Contable 3? — Se debe verificar que la Interfaz 3 esté funcionando correctamente. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿A quiénes se puede contactar por problemas de cadastro?",
+      "respuesta": "Se puede contactar a brendosousa@natura.net y raquel.goncalves@natura.net.",
+      "text": "¿A quiénes se puede contactar por problemas de cadastro? — Se puede contactar a brendosousa@natura.net y raquel.goncalves@natura.net. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es el contacto para tickets de GERA?",
+      "respuesta": "Para tickets de GERA, el correo es servicedesk@gera.com.br.",
+      "text": "¿Cuál es el contacto para tickets de GERA? — Para tickets de GERA, el correo es servicedesk@gera.com.br. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es la información de acceso a la Base de Datos Postgres?",
+      "respuesta": "El Hostname es cadastro-workflow-db-rr.prd.naturacloud.com, Puerto 5432, Base de Datos cadwf, Usuario 334878, y Password 8Tihc9G1.",
+      "text": "¿Cuál es la información de acceso a la Base de Datos Postgres? — El Hostname es cadastro-workflow-db-rr.prd.naturacloud.com, Puerto 5432, Base de Datos cadwf, Usuario 334878, y Password 8Tihc9G1. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los motivos posibles si una fase no llega a Nuvera, no envía el archivo a Xerox o hay un problema de cartoning?",
+      "respuesta": "Los motivos posibles incluyen pedidos anulados, pedidos con ítem cero en la facturación, problemas de cadastro por caracteres especiales, o pedidos que estaban procesados previamente y se incluyeron.",
+      "text": "¿Cuáles son los motivos posibles si una fase no llega a Nuvera, no envía el archivo a Xerox o hay un problema de cartoning? — Los motivos posibles incluyen pedidos anulados, pedidos con ítem cero en la facturación, problemas de cadastro por caracteres especiales, o pedidos que estaban procesados previamente y se incluyeron. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué acciones se deben tomar si una fase no llega a Nuvera o hay un problema de cartoning?",
+      "respuesta": "Se debe buscar la fase en el SFTP en la carpeta de wave confirm, descargar los outbound de EWM a Gera para validar si alguno ya pasó (y quitar los pedidos anulados), y siempre validar que la fase pasó a Nuvera aunque el archivo se mueva de T a U en el escritorio remoto. Si un pedido ya pasó en el U del servidor, también debe quitarse porque ya se procesó.",
+      "text": "¿Qué acciones se deben tomar si una fase no llega a Nuvera o hay un problema de cartoning? — Se debe buscar la fase en el SFTP en la carpeta de wave confirm, descargar los outbound de EWM a Gera para validar si alguno ya pasó (y quitar los pedidos anulados), y siempre validar que la fase pasó a Nuvera aunque el archivo se mueva de T a U en el escritorio remoto. Si un pedido ya pasó en el U del servidor, también debe quitarse porque ya se procesó. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo se procesa una corrección de pedido donde se ajustó la cantidad de cero a 1 para emitir una boleta?",
+      "respuesta": "Se puede colocar cualquier número en la fase con el formato correcto, manteniendo el folio, y siempre debe quedar una línea en blanco al final del archivo TXT. Se pasa al transfer del waveconfirm. El cartoning ya está procesado, solo falta la wave para la boleta. Se modifica el nombre del archivo wave y se carga nuevamente, siempre dejando un espacio en blanco al final. Adicionalmente, se debe enviar un correo a Gera para que arreglen las cantidades, explicando que el pedido figura con cantidad cero en Gera pero con cantidad 1 en los ítems, lo que causa trabas en la cola de procesamiento de fases.",
+      "text": "¿Cómo se procesa una corrección de pedido donde se ajustó la cantidad de cero a 1 para emitir una boleta? — Se puede colocar cualquier número en la fase con el formato correcto, manteniendo el folio, y siempre debe quedar una línea en blanco al final del archivo TXT. Se pasa al transfer del waveconfirm. El cartoning ya está procesado, solo falta la wave para la boleta. Se modifica el nombre del archivo wave y se carga nuevamente, siempre dejando un espacio en blanco al final. Adicionalmente, se debe enviar un correo a Gera para que arreglen las cantidades, explicando que el pedido figura con cantidad cero en Gera pero con cantidad 1 en los ítems, lo que causa trabas en la cola de procesamiento de fases. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Quiénes son los contactos para levantar tickets de SAP?",
+      "respuesta": "Renata Luchiari es la intermediaria con Accenture (Emerson Lima, Evandro, Jarbas, Henrique Silva). Los tickets se levantan por Service Now o MDO.",
+      "text": "¿Quiénes son los contactos para levantar tickets de SAP? — Renata Luchiari es la intermediaria con Accenture (Emerson Lima, Evandro, Jarbas, Henrique Silva). Los tickets se levantan por Service Now o MDO. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "SAP",
+      "titulo": "¿Quién es el contacto principal para temas de cadastro y volumetría SAP (MDM)?",
+      "respuesta": "Aline Fragoso es la responsable y se escala con Leandro Raponi.",
+      "text": "¿Quién es el contacto principal para temas de cadastro y volumetría SAP (MDM)? — Aline Fragoso es la responsable y se escala con Leandro Raponi. (Categoría: SAP, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo es la visión de la integración SAP GERA y la revisión de fases?",
+      "respuesta": "El SFTP contiene el wave_confirm, que incluye el pedido, la fase y más. En GERA, el pedido debe estar en separación o liberación. Existe un retraso de 1 a 20 minutos entre EWM Cliente e Impresión. Los errores se registran en el disco U.",
+      "text": "¿Cómo es la visión de la integración SAP GERA y la revisión de fases? — El SFTP contiene el wave_confirm, que incluye el pedido, la fase y más. En GERA, el pedido debe estar en separación o liberación. Existe un retraso de 1 a 20 minutos entre EWM Cliente e Impresión. Los errores se registran en el disco U. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es el propósito de la política de microinformática de Natura Chile?",
+      "respuesta": "El propósito es establecer un marco claro y unificado que regule la gestión, el cuidado y el uso de todos los equipos informáticos (notebooks y desktops) asignados a los colaboradores.",
+      "text": "¿Cuál es el propósito de la política de microinformática de Natura Chile? — El propósito es establecer un marco claro y unificado que regule la gestión, el cuidado y el uso de todos los equipos informáticos (notebooks y desktops) asignados a los colaboradores. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los principales objetivos de la política de microinformática?",
+      "respuesta": "Los objetivos son garantizar la seguridad, maximizar la eficiencia, estandarizar con otras operaciones, y mitigar riesgos.",
+      "text": "¿Cuáles son los principales objetivos de la política de microinformática? — Los objetivos son garantizar la seguridad, maximizar la eficiencia, estandarizar con otras operaciones, y mitigar riesgos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Quiénes son elegibles para la asignación de equipos informáticos?",
+      "respuesta": "Gerentes, Gerentes de Ventas, Coordinadores, Analistas y Pasantes son elegibles.",
+      "text": "¿Quiénes son elegibles para la asignación de equipos informáticos? — Gerentes, Gerentes de Ventas, Coordinadores, Analistas y Pasantes son elegibles. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué sucede en caso de robo de un equipo asignado?",
+      "respuesta": "El colaborador debe generar una denuncia en carabineros y compartirla con TD dentro de las primeras 24 horas. La responsabilidad del costo de reposición varía: el área cubre el 100% en el primer evento, 50% en el segundo evento (colaborador 50%), y el colaborador cubre el 100% en el tercer evento.",
+      "text": "¿Qué sucede en caso de robo de un equipo asignado? — El colaborador debe generar una denuncia en carabineros y compartirla con TD dentro de las primeras 24 horas. La responsabilidad del costo de reposición varía: el área cubre el 100% en el primer evento, 50% en el segundo evento (colaborador 50%), y el colaborador cubre el 100% en el tercer evento. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es la Ambición de Tecnología para el 2025?",
+      "respuesta": "Impulsar a Natura en una organización orientada a datos y ágil, que utilice tecnologías que permitan el crecimiento del negocio, mejorar la eficiencia operativa y facilitar a los colaboradores la toma de decisiones.",
+      "text": "¿Cuál es la Ambición de Tecnología para el 2025? — Impulsar a Natura en una organización orientada a datos y ágil, que utilice tecnologías que permitan el crecimiento del negocio, mejorar la eficiencia operativa y facilitar a los colaboradores la toma de decisiones. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los pilares de la Ambición de Tecnología 2025?",
+      "respuesta": "Los pilares son Cultura de Datos, Optimización Operacional y Experimentación.",
+      "text": "¿Cuáles son los pilares de la Ambición de Tecnología 2025? — Los pilares son Cultura de Datos, Optimización Operacional y Experimentación. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los objetivos clave de resultados (OKR) de Tecnología?",
+      "respuesta": "A. Disponibilizar la ingesta y reportería del 80% de la información relevante para la gestión de operación. B. Automatizar el 80% de los procesos críticos y manuales de mayor impacto. C. Aumentar al menos el 50% de las áreas a un nivel 3 de madurez de datos. D. Evaluar e implementar al menos 4 iniciativas experimentales con una tasa de éxito de al menos el 50%.",
+      "text": "¿Cuáles son los objetivos clave de resultados (OKR) de Tecnología? — A. Disponibilizar la ingesta y reportería del 80% de la información relevante para la gestión de operación. B. Automatizar el 80% de los procesos críticos y manuales de mayor impacto. C. Aumentar al menos el 50% de las áreas a un nivel 3 de madurez de datos. D. Evaluar e implementar al menos 4 iniciativas experimentales con una tasa de éxito de al menos el 50%. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se identificó en la revisión de los 73 procesos macro para buscar oportunidades de automatización?",
+      "respuesta": "Se identificaron 55 oportunidades de optimización (27 de automatización, 28 de reportes), y adicionalmente 57 del backlog existente (36 de automatización, 17 de reportes, 4 de IA/otros).",
+      "text": "¿Qué se identificó en la revisión de los 73 procesos macro para buscar oportunidades de automatización? — Se identificaron 55 oportunidades de optimización (27 de automatización, 28 de reportes), y adicionalmente 57 del backlog existente (36 de automatización, 17 de reportes, 4 de IA/otros). (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Quiénes forman parte del equipo de Tecnología de Natura Chile para 2025?",
+      "respuesta": "Sergio Ahumada es el Gerente. El equipo incluye coordinadores y analistas en áreas como BackOffice (Harrys, Paula, Emerson, Erwin, Cofelis), Datos y Procesos (Lucas, Javier), e Infraestructura (Andrés Garrido, Patricio Nuñez).",
+      "text": "¿Quiénes forman parte del equipo de Tecnología de Natura Chile para 2025? — Sergio Ahumada es el Gerente. El equipo incluye coordinadores y analistas en áreas como BackOffice (Harrys, Paula, Emerson, Erwin, Cofelis), Datos y Procesos (Lucas, Javier), e Infraestructura (Andrés Garrido, Patricio Nuñez). (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál fue la causa principal y solución para la lentitud en el procesamiento de stock en GSP en abril?",
+      "respuesta": "La causa fue un ajuste en la configuración de \"concurrencia\" de las lambdas utilizadas en los flujos de disponibilidad de los productos.",
+      "text": "¿Cuál fue la causa principal y solución para la lentitud en el procesamiento de stock en GSP en abril? — La causa fue un ajuste en la configuración de \"concurrencia\" de las lambdas utilizadas en los flujos de disponibilidad de los productos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo funciona el flujo de soporte técnico para incidentes de la Fuerza de Ventas (FV)?",
+      "respuesta": "La FV reporta incidentes a ExpCN (N1), que identifica, apoya y soluciona. Si no hay solución en N1, se escala a Soporte (N2), y si requiere solución estructural, a Plataforma (N3). TD centraliza los temas administrativos de escalamiento y prioridades.",
+      "text": "¿Cómo funciona el flujo de soporte técnico para incidentes de la Fuerza de Ventas (FV)? — La FV reporta incidentes a ExpCN (N1), que identifica, apoya y soluciona. Si no hay solución en N1, se escala a Soporte (N2), y si requiere solución estructural, a Plataforma (N3). TD centraliza los temas administrativos de escalamiento y prioridades. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles fueron las 3 tecnologías más impactadas por incidentes en 2025 (hasta abril)?",
+      "respuesta": "CAPTA (20.20%), SAP ECC (10.10%) y E-commerce (9.09%).",
+      "text": "¿Cuáles fueron las 3 tecnologías más impactadas por incidentes en 2025 (hasta abril)? — CAPTA (20.20%), SAP ECC (10.10%) y E-commerce (9.09%). (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles fueron los 3 ofensores principales de incidentes en 2025 (hasta abril)?",
+      "respuesta": "Mudança (17.17%), Funcional (12.12%) y JOB (9.09%).",
+      "text": "¿Cuáles fueron los 3 ofensores principales de incidentes en 2025 (hasta abril)? — Mudança (17.17%), Funcional (12.12%) y JOB (9.09%). (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es el propósito de la Comunidad datAI?",
+      "respuesta": "Fomentar la cultura data-driven, democratizar los datos y fortalecer la gobernanza de los datos para mejorar la toma de decisiones estratégicas y operativas, generando un motor de transformación dentro de los equipos.",
+      "text": "¿Cuál es el propósito de la Comunidad datAI? — Fomentar la cultura data-driven, democratizar los datos y fortalecer la gobernanza de los datos para mejorar la toma de decisiones estratégicas y operativas, generando un motor de transformación dentro de los equipos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué dashboards se han desarrollado hasta la fecha?",
+      "respuesta": "Se han desarrollado 12 Dashboards, incluyendo IAP, Performance Marketing, Performance Líderes, Omnicanalidad CI y One Page Estratégico.",
+      "text": "¿Qué dashboards se han desarrollado hasta la fecha? — Se han desarrollado 12 Dashboards, incluyendo IAP, Performance Marketing, Performance Líderes, Omnicanalidad CI y One Page Estratégico. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son algunos de los desafíos en la estrategia de migración de Excel a Google Sheets?",
+      "respuesta": "Se identificó un bajo uso de archivos migrados (34% de usuarios, 21% de archivos), archivos no migrados (84 archivos, la mayoría sin plan), y fricción de usuarios por dejar Excel debido a poco interés, bajo conocimiento de Sheets, alta dependencia de Excel y poco tiempo para el cambio.",
+      "text": "¿Cuáles son algunos de los desafíos en la estrategia de migración de Excel a Google Sheets? — Se identificó un bajo uso de archivos migrados (34% de usuarios, 21% de archivos), archivos no migrados (84 archivos, la mayoría sin plan), y fricción de usuarios por dejar Excel debido a poco interés, bajo conocimiento de Sheets, alta dependencia de Excel y poco tiempo para el cambio. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué implica la Automatización Operacional en la estrategia de Tecnología 2025?",
+      "respuesta": "Implica la eliminación de tareas manuales críticas mediante RPA y scripts en áreas como Transporte, Customer Care y Planeamiento, así como la optimización de procesos internos y cálculos sensibles.",
+      "text": "¿Qué implica la Automatización Operacional en la estrategia de Tecnología 2025? — Implica la eliminación de tareas manuales críticas mediante RPA y scripts en áreas como Transporte, Customer Care y Planeamiento, así como la optimización de procesos internos y cálculos sensibles. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los problemas identificados en la conexión de red en el área WeWork?",
+      "respuesta": "Se reportó mala experiencia en llamadas de Google Meet (microcortes), inestabilidad en la conexión inalámbrica Wi-Fi, pérdida constante de señal en el área \"AVON\" y fallas generales en el piso 7.",
+      "text": "¿Cuáles son los problemas identificados en la conexión de red en el área WeWork? — Se reportó mala experiencia en llamadas de Google Meet (microcortes), inestabilidad en la conexión inalámbrica Wi-Fi, pérdida constante de señal en el área \"AVON\" y fallas generales en el piso 7. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué acciones se han realizado para abordar los problemas de red en WeWork?",
+      "respuesta": "Se ajustó la velocidad de conexión de los equipos, se regularizó el uso de la red local, se ejecutó un site survey, se abrieron tickets para grupos de conexión móvil, se ajustó la señal en el área AVON, y se realizaron cambios en la configuración de la red.",
+      "text": "¿Qué acciones se han realizado para abordar los problemas de red en WeWork? — Se ajustó la velocidad de conexión de los equipos, se regularizó el uso de la red local, se ejecutó un site survey, se abrieron tickets para grupos de conexión móvil, se ajustó la señal en el área AVON, y se realizaron cambios en la configuración de la red. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué problemas se identificaron en el Centro de Distribución (CD) relacionados con el cuarto de comunicaciones?",
+      "respuesta": "Se observó un alto riesgo debido al mal estado del cuarto de comunicaciones, y el rack de comunicaciones en el primer piso estaba en condiciones incorrectas. Los problemas específicos fueron: UPS sin monitoreo adecuado y Sensor de Temperatura sin monitoreo adecuado.",
+      "text": "¿Qué problemas se identificaron en el Centro de Distribución (CD) relacionados con el cuarto de comunicaciones? — Se observó un alto riesgo debido al mal estado del cuarto de comunicaciones, y el rack de comunicaciones en el primer piso estaba en condiciones incorrectas. Los problemas específicos fueron: UPS sin monitoreo adecuado y Sensor de Temperatura sin monitoreo adecuado. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo solicita un nuevo colaborador acceso a los sistemas de Venta Directa?",
+      "respuesta": "Una vez que el colaborador ingresa a la Compañía y tiene acceso a Service Now, puede solicitar acceso a los distintos sistemas. Los requerimientos llegan al Gestor para aprobación y luego al grupo que atiende el ticket, como Gestión de Accesos LATAM.",
+      "text": "¿Cómo solicita un nuevo colaborador acceso a los sistemas de Venta Directa? — Una vez que el colaborador ingresa a la Compañía y tiene acceso a Service Now, puede solicitar acceso a los distintos sistemas. Los requerimientos llegan al Gestor para aprobación y luego al grupo que atiende el ticket, como Gestión de Accesos LATAM. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué tipo de información es importante proporcionar al levantar un ticket en Service Now?",
+      "respuesta": "Es fundamental brindar la mayor cantidad de información posible, incluyendo el código con el cual se da el error, el paso a paso hasta que aparece el problema, y toda evidencia que sea fundamental para que el analista pueda revisar sin necesidad de iterar más de lo necesario.",
+      "text": "¿Qué tipo de información es importante proporcionar al levantar un ticket en Service Now? — Es fundamental brindar la mayor cantidad de información posible, incluyendo el código con el cual se da el error, el paso a paso hasta que aparece el problema, y toda evidencia que sea fundamental para que el analista pueda revisar sin necesidad de iterar más de lo necesario. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué significa la \"Operación sin fricciones\" como directriz tecnológica?",
+      "respuesta": "Asegurar la correcta operación de forma sistematizada, sistémica y con el mínimo de dedicación manual de personas. Se busca que sea automatizable y exista control de la sustentación.",
+      "text": "¿Qué significa la \"Operación sin fricciones\" como directriz tecnológica? — Asegurar la correcta operación de forma sistematizada, sistémica y con el mínimo de dedicación manual de personas. Se busca que sea automatizable y exista control de la sustentación. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se hace ante un error \"ErroValorCCResidualInvalido\" en el proceso de cartoning?",
+      "respuesta": "Se debe realizar un ticket a Gera, ya que el problema es que el consultor tiene un saldo a favor. Después, se reprocesa el cartoning y la wave del pedido.",
+      "text": "¿Qué se hace ante un error \"ErroValorCCResidualInvalido\" en el proceso de cartoning? — Se debe realizar un ticket a Gera, ya que el problema es que el consultor tiene un saldo a favor. Después, se reprocesa el cartoning y la wave del pedido. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuándo se pueden anular pedidos en GERA?",
+      "respuesta": "Si el pedido está en estado aprobado, se puede anular directamente. Si el pedido está en separación (que abarca montaje, liberación, picking, packing, embarque), se debe pedir a GERA la anulación por API. Si están en transporte, se pueden anular por bot (a cargo del equipo de transporte). Es importante saber que los pedidos no se pueden anular por API mientras están en estado de separación.",
+      "text": "¿Cuándo se pueden anular pedidos en GERA? — Si el pedido está en estado aprobado, se puede anular directamente. Si el pedido está en separación (que abarca montaje, liberación, picking, packing, embarque), se debe pedir a GERA la anulación por API. Si están en transporte, se pueden anular por bot (a cargo del equipo de transporte). Es importante saber que los pedidos no se pueden anular por API mientras están en estado de separación. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué verificación se debe realizar antes de la conciliación?",
+      "respuesta": "Antes de la conciliación, se debe verificar desde SEPARACIÓN que NO HAYAN PEDIDOS EN MONTAJE, LIBERACIÓN Y EN EMBARQUE.",
+      "text": "¿Qué verificación se debe realizar antes de la conciliación? — Antes de la conciliación, se debe verificar desde SEPARACIÓN que NO HAYAN PEDIDOS EN MONTAJE, LIBERACIÓN Y EN EMBARQUE. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se debe verificar en relación con la Interfaz Contable 3?",
+      "respuesta": "Se debe verificar que la Interfaz 3 esté funcionando correctamente.",
+      "text": "¿Qué se debe verificar en relación con la Interfaz Contable 3? — Se debe verificar que la Interfaz 3 esté funcionando correctamente. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué transacciones de SAP se utilizan para consultar materiales?",
+      "respuesta": "Para consultar información de materiales en SAP, se pueden usar las transacciones MM60, MB51 y ME23N por código de material.",
+      "text": "¿Qué transacciones de SAP se utilizan para consultar materiales? — Para consultar información de materiales en SAP, se pueden usar las transacciones MM60, MB51 y ME23N por código de material. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo se revisa una diferencia de stock entre Grafana y GERA?",
+      "respuesta": "Se debe realizar una revisión en Grafana (GSP - Availability) y en GERA, utilizando la Interfaz 15 por CV.",
+      "text": "¿Cómo se revisa una diferencia de stock entre Grafana y GERA? — Se debe realizar una revisión en Grafana (GSP - Availability) y en GERA, utilizando la Interfaz 15 por CV. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se debe revisar para investigar la desaparición de stock?",
+      "respuesta": "Para investigar la desaparición de stock, se debe revisar la Interfaz 29 - ExportEstoqueMatDeltaOut (consultando por el código de material, por ejemplo: 50439476) y también el LOG de GERA.",
+      "text": "¿Qué se debe revisar para investigar la desaparición de stock? — Para investigar la desaparición de stock, se debe revisar la Interfaz 29 - ExportEstoqueMatDeltaOut (consultando por el código de material, por ejemplo: 50439476) y también el LOG de GERA. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál fue la causa de la lentitud en el procesamiento de stock en GSP en abril?",
+      "respuesta": "La causa principal fue un ajuste en la configuración de \"concurrencia\" de las lambdas utilizadas en los flujos de disponibilidad de los productos.",
+      "text": "¿Cuál fue la causa de la lentitud en el procesamiento de stock en GSP en abril? — La causa principal fue un ajuste en la configuración de \"concurrencia\" de las lambdas utilizadas en los flujos de disponibilidad de los productos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es la ambición de Tecnología para 2025?",
+      "respuesta": "La ambición de Tecnología para 2025 es impulsar a Natura como una organización orientada a datos y ágil, utilizando tecnologías que permitan el crecimiento del negocio, mejoren la eficiencia operativa y faciliten la toma de decisiones a los colaboradores.",
+      "text": "¿Cuál es la ambición de Tecnología para 2025? — La ambición de Tecnología para 2025 es impulsar a Natura como una organización orientada a datos y ágil, utilizando tecnologías que permitan el crecimiento del negocio, mejoren la eficiencia operativa y faciliten la toma de decisiones a los colaboradores. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los pilares de la ambición tecnológica 2025?",
+      "respuesta": "Los pilares de esta ambición son la Cultura de Datos, la Optimización Operacional y la Experimentación.",
+      "text": "¿Cuáles son los pilares de la ambición tecnológica 2025? — Los pilares de esta ambición son la Cultura de Datos, la Optimización Operacional y la Experimentación. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuál es uno de los Objetivos Clave de Resultados (OKR) de Tecnología para 2025?",
+      "respuesta": "Uno de los OKR principales es automatizar el 80% de los procesos identificados como críticos y manuales de mayor impacto en tareas operativas.",
+      "text": "¿Cuál es uno de los Objetivos Clave de Resultados (OKR) de Tecnología para 2025? — Uno de los OKR principales es automatizar el 80% de los procesos identificados como críticos y manuales de mayor impacto en tareas operativas. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuántas oportunidades de automatización se identificaron?",
+      "respuesta": "Se revisaron 73 procesos macro en 18 áreas, identificando 55 oportunidades de optimización (27 de automatización, 28 de reportes) y adicionalmente 57 del backlog existente (36 de automatización, 17 de reportes, 4 de IA/otros).",
+      "text": "¿Cuántas oportunidades de automatización se identificaron? — Se revisaron 73 procesos macro en 18 áreas, identificando 55 oportunidades de optimización (27 de automatización, 28 de reportes) y adicionalmente 57 del backlog existente (36 de automatización, 17 de reportes, 4 de IA/otros). (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué iniciativas de automatización se incluyen en el Q1/Q2?",
+      "respuesta": "Las iniciativas de automatización incluyen la Minuta de Transporte, BOT SAP, Bot Cubo Sector y Grupo, Bot Madres 2.0, Actualización de Datos V2, Envío de Correos de Vacaciones, Bot de Reclamos de Customer Care, Cálculo SPP - Reclamos Customer Care, y Entrega de facturas - Correos - Xerox.",
+      "text": "¿Qué iniciativas de automatización se incluyen en el Q1/Q2? — Las iniciativas de automatización incluyen la Minuta de Transporte, BOT SAP, Bot Cubo Sector y Grupo, Bot Madres 2.0, Actualización de Datos V2, Envío de Correos de Vacaciones, Bot de Reclamos de Customer Care, Cálculo SPP - Reclamos Customer Care, y Entrega de facturas - Correos - Xerox. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué implica la automatización operacional según la visión de Tecnología 2025?",
+      "respuesta": "La automatización operacional implica la eliminación de tareas manuales críticas mediante RPA y scripts en áreas como Transporte, Customer Care y Planeamiento, así como la optimización de procesos internos y cálculos sensibles. La filosofía es una \"Operación sin fricciones\" que asegura la correcta operación de forma sistematizada, sistémica y con el mínimo de dedicación manual de personas, siendo automatizable y con control de sustentación. Si un proceso requiere trabajo manual, probablemente está mal.",
+      "text": "¿Qué implica la automatización operacional según la visión de Tecnología 2025? — La automatización operacional implica la eliminación de tareas manuales críticas mediante RPA y scripts en áreas como Transporte, Customer Care y Planeamiento, así como la optimización de procesos internos y cálculos sensibles. La filosofía es una \"Operación sin fricciones\" que asegura la correcta operación de forma sistematizada, sistémica y con el mínimo de dedicación manual de personas, siendo automatizable y con control de sustentación. Si un proceso requiere trabajo manual, probablemente está mal. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo solicita un nuevo colaborador acceso a los sistemas?",
+      "respuesta": "Una vez que un nuevo colaborador ingresa a la compañía y tiene acceso a Service Now, puede solicitar acceso a los distintos sistemas. Los requerimientos, por workflow, llegan al Gestor para aprobación y luego al grupo que atiende el ticket, como Gestión de Accesos LATAM.",
+      "text": "¿Cómo solicita un nuevo colaborador acceso a los sistemas? — Una vez que un nuevo colaborador ingresa a la compañía y tiene acceso a Service Now, puede solicitar acceso a los distintos sistemas. Los requerimientos, por workflow, llegan al Gestor para aprobación y luego al grupo que atiende el ticket, como Gestión de Accesos LATAM. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué información es fundamental brindar al levantar un ticket en Service Now?",
+      "respuesta": "Es fundamental brindar la mayor cantidad de información posible, incluyendo el código con el cual se da el error, el paso a paso hasta que aparece el problema, y toda evidencia que sea fundamental para que el analista pueda revisar sin necesidad de iterar más de lo necesario. Las prioridades 1 y 2 para incidentes están reservadas para caídas totales de sistema/plataforma.",
+      "text": "¿Qué información es fundamental brindar al levantar un ticket en Service Now? — Es fundamental brindar la mayor cantidad de información posible, incluyendo el código con el cual se da el error, el paso a paso hasta que aparece el problema, y toda evidencia que sea fundamental para que el analista pueda revisar sin necesidad de iterar más de lo necesario. Las prioridades 1 y 2 para incidentes están reservadas para caídas totales de sistema/plataforma. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los requisitos para realizar un Consumo Interno?",
+      "respuesta": "Se requiere tener el rol de Administrativo/Colaborador en GPP LEGO con estado Aprobado, registro de Cuenta Contable en GERA para el modelo Administrativo (modelo comercial 11), asociación de cuenta contable a modelo comercial, revisión de la dirección de entrega en GPP para el destinatario, revisión de stock de CVs en GSP (Grafana) y que cada CV esté completo en GSP ADMIN.",
+      "text": "¿Cuáles son los requisitos para realizar un Consumo Interno? — Se requiere tener el rol de Administrativo/Colaborador en GPP LEGO con estado Aprobado, registro de Cuenta Contable en GERA para el modelo Administrativo (modelo comercial 11), asociación de cuenta contable a modelo comercial, revisión de la dirección de entrega en GPP para el destinatario, revisión de stock de CVs en GSP (Grafana) y que cada CV esté completo en GSP ADMIN. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué requisitos previos son necesarios para gestionar \"Malotes\"?",
+      "respuesta": "Los requisitos previos son los mismos que para el Consumo Interno en cuanto al rol, stock y cadastro completo de CV.",
+      "text": "¿Qué requisitos previos son necesarios para gestionar \"Malotes\"? — Los requisitos previos son los mismos que para el Consumo Interno en cuanto al rol, stock y cadastro completo de CV. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué sucede con un colaborador CB que cesa por inactividad y cómo se puede gestionar una excepción?",
+      "respuesta": "Aunque no hay una regla específica para colaboradores, se puede registrar una excepción en BRM para no cesar el sector por 99 ciclos. La regla general de negocio de Natura cesa a la Consultora después de seis ciclos de inactividad.",
+      "text": "¿Qué sucede con un colaborador CB que cesa por inactividad y cómo se puede gestionar una excepción? — Aunque no hay una regla específica para colaboradores, se puede registrar una excepción en BRM para no cesar el sector por 99 ciclos. La regla general de negocio de Natura cesa a la Consultora después de seis ciclos de inactividad. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué problemas de conexión de red se identificaron en WeWork y qué acciones se tomaron?",
+      "respuesta": "Se identificaron problemas como mala experiencia en llamadas de Google Meet (microcortes), inestabilidad en la conexión inalámbrica Wi-Fi, pérdida constante de señal en el área \"AVON\" y fallas generales en el piso 7. Las acciones realizadas incluyen ajustar la velocidad de conexión de los equipos, regularizar el uso de la red local, ejecutar un site survey, abrir tickets para grupos de conexión móvil, ajustar la señal en el área AVON y realizar cambios en la configuración de la red.",
+      "text": "¿Qué problemas de conexión de red se identificaron en WeWork y qué acciones se tomaron? — Se identificaron problemas como mala experiencia en llamadas de Google Meet (microcortes), inestabilidad en la conexión inalámbrica Wi-Fi, pérdida constante de señal en el área \"AVON\" y fallas generales en el piso 7. Las acciones realizadas incluyen ajustar la velocidad de conexión de los equipos, regularizar el uso de la red local, ejecutar un site survey, abrir tickets para grupos de conexión móvil, ajustar la señal en el área AVON y realizar cambios en la configuración de la red. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué es la política de Microinformática Natura Chile?",
+      "respuesta": "Es un documento que establece un marco claro y unificado que regula la gestión, el cuidado y el uso de todos los equipos informáticos (notebooks y desktops) asignados a los colaboradores.",
+      "text": "¿Qué es la política de Microinformática Natura Chile? — Es un documento que establece un marco claro y unificado que regula la gestión, el cuidado y el uso de todos los equipos informáticos (notebooks y desktops) asignados a los colaboradores. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los objetivos de la política de Microinformática?",
+      "respuesta": "Los objetivos son: garantizar la seguridad, maximizar la eficiencia, estandarizar con otras operaciones y mitigar riesgos.",
+      "text": "¿Cuáles son los objetivos de la política de Microinformática? — Los objetivos son: garantizar la seguridad, maximizar la eficiencia, estandarizar con otras operaciones y mitigar riesgos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Quiénes son elegibles para la asignación de equipos según la política de Microinformática?",
+      "respuesta": "Gerentes, Gerentes de Ventas, Coordinadores, Analistas y Pasantes son elegibles. La política no tiene alcance para terceros in house, pero puede ser un marco referencial para terceros con equipos Natura.",
+      "text": "¿Quiénes son elegibles para la asignación de equipos según la política de Microinformática? — Gerentes, Gerentes de Ventas, Coordinadores, Analistas y Pasantes son elegibles. La política no tiene alcance para terceros in house, pero puede ser un marco referencial para terceros con equipos Natura. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Qué se debe hacer en caso de robo de un equipo asignado?",
+      "respuesta": "El colaborador debe generar una denuncia en carabineros y compartirla con TD dentro de las primeras 24 horas. Para un segundo evento, el área cubre el 50% del costo de reposición y el colaborador el 50% restante",
+      "text": "¿Qué se debe hacer en caso de robo de un equipo asignado? — El colaborador debe generar una denuncia en carabineros y compartirla con TD dentro de las primeras 24 horas. Para un segundo evento, el área cubre el 50% del costo de reposición y el colaborador el 50% restante (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cómo se gestionan los equipos durante las vacaciones y licencias médicas?",
+      "respuesta": "En período de vacaciones, el colaborador puede conservar el equipo bajo su custodia, pero no debe hacer uso del mismo. En licencias médicas extendidas, el colaborador debe entregar el equipo para resguardo en TD o reasignación según decisión del gestor responsable.",
+      "text": "¿Cómo se gestionan los equipos durante las vacaciones y licencias médicas? — En período de vacaciones, el colaborador puede conservar el equipo bajo su custodia, pero no debe hacer uso del mismo. En licencias médicas extendidas, el colaborador debe entregar el equipo para resguardo en TD o reasignación según decisión del gestor responsable. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "¿Cuáles son los próximos pasos para la política de Microinformática?",
+      "respuesta": "Se debe incluir esta Política en el Reglamento Interno de Higiene y Seguridad a través de un anexo para la autorización expresa de descuento en caso de deterioro o segunda pérdida. También se debe publicar la política en el POC Natura para colaboradores y gestionar con Hispana el presupuesto para la renovación de porcentaje del parque de equipos.",
+      "text": "¿Cuáles son los próximos pasos para la política de Microinformática? — Se debe incluir esta Política en el Reglamento Interno de Higiene y Seguridad a través de un anexo para la autorización expresa de descuento en caso de deterioro o segunda pérdida. También se debe publicar la política en el POC Natura para colaboradores y gestionar con Hispana el presupuesto para la renovación de porcentaje del parque de equipos. (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "",
+      "titulo": "Anulaciones de Pedidos en GERA, ¿Cuando se puede? ¿Cuando no?",
+      "respuesta": "Info Estados de Pedido en GERA:\nAprobado\nEn Montaje\nEn Liberación\nPicking\nPacking\nEmbarque\nTransporte \nEntregado\n \nPedido en Separación, abarca estos estados: (armando caja de pedido)\nEn Montaje\nEn Liberación\nPicking\nPacking\nEmbarque\n\nNota: Mientras Pedido está en este estado nadie puede Anular pedidos por API\n\nSi están en transporte  se pueden anular por bot (los chicos de transporte)\nSi están en separación, tenemos que pedir a GERA anulación por API\nSi están en estado aprobado, podemos anular nosotros\npero lo pueden anular por bot aunque este en reparto, luego vuelve a base",
+      "text": "Anulaciones de Pedidos en GERA, ¿Cuando se puede? ¿Cuando no? — Info Estados de Pedido en GERA:\nAprobado\nEn Montaje\nEn Liberación\nPicking\nPacking\nEmbarque\nTransporte \nEntregado\n \nPedido en Separación, abarca estos estados: (armando caja de pedido)\nEn Montaje\nEn Liberación\nPicking\nPacking\nEmbarque\n\nNota: Mientras Pedido está en este estado nadie puede Anular pedidos por API\n\nSi están en transporte  se pueden anular por bot (los chicos de transporte)\nSi están en separación, tenemos que pedir a GERA anulación por API\nSi están en estado aprobado, podemos anular nosotros\npero lo pueden anular por bot aunque este en reparto, luego vuelve a base (Categoría: , Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "A través de cual link puedo solicitar acceso a uno de los sistemas de LEGO?",
+      "respuesta": "En Solicitud debes seleccionar \"Solicitar acceso a la plataforma\", tipo de Solicitud= \"Solicitar acceso\"\nNota: Por cada Módulo de Plataforma comercial, GCP, se debe abrir un ticket, debe estar alineado el módulo para el cual se pide acceso con la descripción y Justificación del acceso",
+      "text": "A través de cual link puedo solicitar acceso a uno de los sistemas de LEGO? — En Solicitud debes seleccionar \"Solicitar acceso a la plataforma\", tipo de Solicitud= \"Solicitar acceso\"\nNota: Por cada Módulo de Plataforma comercial, GCP, se debe abrir un ticket, debe estar alineado el módulo para el cual se pide acceso con la descripción y Justificación del acceso (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "Cómo solicitar acceso para GDP?",
+      "respuesta": "Debes acceder a portal TI Service Now, hacer click en Quiero Pedir algo: \n\nComo referencia, en los campos de formulario, completar con información similar: \n¿En qué sitio quiere recibir el servicio?: Santiago (Natura, Chile)\n\nPaís: Chile\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar acceso\n\nPlataforma: GDP - https://gdp.natura.com\n\nFuncionalidad: LEGO-GDP-Reporte-CL (visão reportes Chile)\n\nInicio de sesión del beneficiario: (Acá Ingresas tu Id Empleado)\n\nPosition / Function: \n\nÁrea beneficiada: \n\nJustificación de la necesidad: Hola! Solicito por favor acceso a plataforma GDP- Chile. Muchas gracias",
+      "text": "Cómo solicitar acceso para GDP? — Debes acceder a portal TI Service Now, hacer click en Quiero Pedir algo: \n\nComo referencia, en los campos de formulario, completar con información similar: \n¿En qué sitio quiere recibir el servicio?: Santiago (Natura, Chile)\n\nPaís: Chile\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar acceso\n\nPlataforma: GDP - https://gdp.natura.com\n\nFuncionalidad: LEGO-GDP-Reporte-CL (visão reportes Chile)\n\nInicio de sesión del beneficiario: (Acá Ingresas tu Id Empleado)\n\nPosition / Function: \n\nÁrea beneficiada: \n\nJustificación de la necesidad: Hola! Solicito por favor acceso a plataforma GDP- Chile. Muchas gracias (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicito acceso a ACCESO SIMULADO en MI NEGOCIO?",
+      "respuesta": "Acceso a ACCESO SIMULADO de MI NEGOCIO\nPara solicitar el perfil simulado si el usuario ya tiene acceso a GERA solamente esta opción \"Modificar acceso\".",
+      "text": "¿Cómo solicito acceso a ACCESO SIMULADO en MI NEGOCIO? — Acceso a ACCESO SIMULADO de MI NEGOCIO\nPara solicitar el perfil simulado si el usuario ya tiene acceso a GERA solamente esta opción \"Modificar acceso\". (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo otorgar permisos para impersonar Pedidos de Venta Directa en GSP? (realizar pedidos en nombre de otra persona)",
+      "respuesta": "Solicitar vía ticket con GAC (Gestión de Accesos LATAM)\nhttps://itsmnatura.service-now.com/nco?id=sc_cat_item&sys_id=922ec5d63bdc92900b26b9d355e45aa0",
+      "text": "¿Cómo otorgar permisos para impersonar Pedidos de Venta Directa en GSP? (realizar pedidos en nombre de otra persona) — Solicitar vía ticket con GAC (Gestión de Accesos LATAM)\nhttps://itsmnatura.service-now.com/nco?id=sc_cat_item&sys_id=922ec5d63bdc92900b26b9d355e45aa0 (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicitar acceso a Perfil de Prueba en GSP (GSP ADMIN)?",
+      "respuesta": "Debes acceder a portal TI Service Now, hacer click en Quiero Pedir algo: \n\nComo referencia, en los campos de formulario, completar con información similar: \n¿En qué sitio quiere recibir el servicio?: Santiago (Natura, Chile)\n\nPaís: Chile\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar acceso\n\nPlataforma: GSP admin -  https://gsp.prd.naturacloud.com/\n\nFuncionalidad: GSP Admin\n\nInicio de sesión del beneficiario: (Acá Ingresas tu Id Empleado)\n\nPosition / Function: \n\nÁrea beneficiada: \n\nJustificación de la necesidad: Hola! Solicito por favor acceso a plataforma GSP Admin. Muchas gracias",
+      "text": "¿Cómo solicitar acceso a Perfil de Prueba en GSP (GSP ADMIN)? — Debes acceder a portal TI Service Now, hacer click en Quiero Pedir algo: \n\nComo referencia, en los campos de formulario, completar con información similar: \n¿En qué sitio quiere recibir el servicio?: Santiago (Natura, Chile)\n\nPaís: Chile\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar acceso\n\nPlataforma: GSP admin -  https://gsp.prd.naturacloud.com/\n\nFuncionalidad: GSP Admin\n\nInicio de sesión del beneficiario: (Acá Ingresas tu Id Empleado)\n\nPosition / Function: \n\nÁrea beneficiada: \n\nJustificación de la necesidad: Hola! Solicito por favor acceso a plataforma GSP Admin. Muchas gracias (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicitar acceso a GRAFANA?",
+      "respuesta": "Acceso a GRAFANA\nLink de acceso (Consulta general): GSP EXP CN - Grafana\nRevisar Filtros y ajustar para Chile. \nMovimiento con Tecla TAB",
+      "text": "¿Cómo solicitar acceso a GRAFANA? — Acceso a GRAFANA\nLink de acceso (Consulta general): GSP EXP CN - Grafana\nRevisar Filtros y ajustar para Chile. \nMovimiento con Tecla TAB (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "Tengo dudas o solicitud para GRAFANA cómo debo proceder?",
+      "respuesta": "para dudas o solicitudes con GRAFANA desde Portal TI Service Now",
+      "text": "Tengo dudas o solicitud para GRAFANA cómo debo proceder? — para dudas o solicitudes con GRAFANA desde Portal TI Service Now (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Cambio de Gestor en TI Service Now",
+      "titulo": "Cómo puedo solicitar cambio de Gestor en Service Now?",
+      "respuesta": "Cambio de Gestor en Service Now, El equipo de ITSM se encarga de su resolución.",
+      "text": "Cómo puedo solicitar cambio de Gestor en Service Now? — Cambio de Gestor en Service Now, El equipo de ITSM se encarga de su resolución. (Categoría: Cambio de Gestor en TI Service Now, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Aprobaciones",
+      "titulo": "Como gestor saldré de vacaciones, cómo puedo dejar delegadas las Aprobaciones de Tickets en Portal TI Service Now?",
+      "respuesta": "Desde página de Inicio de Service Now, puedes dirigirte a Menú: \"Mis delegaciones\" y desde esa página hacer click en [NUEVO], completas los campos DELEGADO - FECHA DE INICIO, FECHA DE TÉRMINO de esta acción de delegar, marca o desmarca las funciones según lo necesites, y has click en GUARDAR.",
+      "text": "Como gestor saldré de vacaciones, cómo puedo dejar delegadas las Aprobaciones de Tickets en Portal TI Service Now? — Desde página de Inicio de Service Now, puedes dirigirte a Menú: \"Mis delegaciones\" y desde esa página hacer click en [NUEVO], completas los campos DELEGADO - FECHA DE INICIO, FECHA DE TÉRMINO de esta acción de delegar, marca o desmarca las funciones según lo necesites, y has click en GUARDAR. (Categoría: Aprobaciones, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Cómo puedo conocer cual es mi código de Consultor(a) de belleza?",
+      "respuesta": "Quiero conocer cual es mi código.\nTanto Colaborador como Consultor, tiene 3 opciones de Login en MI NEGOCIO. \nRut, Email o Código. \n\nTanto en perfil como el ícono cuando ingresa en MI NEGOCIO puede tener esa información.",
+      "text": "¿Cómo puedo conocer cual es mi código de Consultor(a) de belleza? — Quiero conocer cual es mi código.\nTanto Colaborador como Consultor, tiene 3 opciones de Login en MI NEGOCIO. \nRut, Email o Código. \n\nTanto en perfil como el ícono cuando ingresa en MI NEGOCIO puede tener esa información. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Solicitud",
+      "titulo": "Necesito solicitar modificación de Dirección de Entrega para Pedido de Consumo Interno - Administrativo",
+      "respuesta": "Puedes solicitarlo a punto de Contacto de TI, puede ser Venta Directa, o e-commerce. \nLa edición de Dirección se realizar desde Sito GPP BACKOFFICE, editando sólo Dirección de Entrega, que es la que Consumo Interno - Administrativo captura para pedidos de Consumo Interno- Administrativo",
+      "text": "Necesito solicitar modificación de Dirección de Entrega para Pedido de Consumo Interno - Administrativo — Puedes solicitarlo a punto de Contacto de TI, puede ser Venta Directa, o e-commerce. \nLa edición de Dirección se realizar desde Sito GPP BACKOFFICE, editando sólo Dirección de Entrega, que es la que Consumo Interno - Administrativo captura para pedidos de Consumo Interno- Administrativo (Categoría: Solicitud, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Requisitos para asegurar el éxito de un Pedido de Consumo interno y que termine migrando a GERA como Pedido",
+      "respuesta": "REQUISITOS: \n\n1. En GPP LEGO Tener papel de Administrativo – Colaborador – Colaborador en LEGO con Estado: Aprobado\nBackoffice (V2, Abril 2025) - Consultar por Código o Rut. \n2. Para el destinatario de Pedido de Consumo Interno, revisar en GPP dirección de Entrega (esta es la que se captura desde CONSUMO INTERNO) para que etiqueta del pedido salga lista con esa información. \n3. Revisión de Stock de los CVs GSP - Availability - Grafana. Puedes consultar Link de Consulta de Stock en GRAFANA acá: https://monitoring-grafana.mgt.naturacloud.com/d/OwY17Tx7z/gsp-availability?orgId=1&var-pais=CL&var-company_code=1&var-distribution_center_code=4100&var-inventory_type_code=1&var-product_code=73575&var-material_code=0\n\n4. Revisión en GSP ADMIN de cada CV, completo con su Descripción (Módulo Gestión de la cartera de productos), todos los campos con (*) deben tener información.\nEsto lo puedes revisar internamente con equipo de Monitoreo, o si tienes acceso de Lectura puedes hacerlo directamente. \n\n5. La cuenta contable bajo la cual se hará pedido de consumo interno debe estar registrada en GERA para realizar pedido Consumo Interno – Modelo Administrativo (modelo comercial 11) y debe estar asociada esta Cuenta Contable a Modelo Comercial – 11 en el caso de Consumo Interno ADMINISTRATIVO\nEn caso de que no, puedes consultar con punto de Contacto de TI o con equipo de Contabilidad si se trata de una cuenta contable nueva.",
+      "text": "Requisitos para asegurar el éxito de un Pedido de Consumo interno y que termine migrando a GERA como Pedido — REQUISITOS: \n\n1. En GPP LEGO Tener papel de Administrativo – Colaborador – Colaborador en LEGO con Estado: Aprobado\nBackoffice (V2, Abril 2025) - Consultar por Código o Rut. \n2. Para el destinatario de Pedido de Consumo Interno, revisar en GPP dirección de Entrega (esta es la que se captura desde CONSUMO INTERNO) para que etiqueta del pedido salga lista con esa información. \n3. Revisión de Stock de los CVs GSP - Availability - Grafana. Puedes consultar Link de Consulta de Stock en GRAFANA acá: https://monitoring-grafana.mgt.naturacloud.com/d/OwY17Tx7z/gsp-availability?orgId=1&var-pais=CL&var-company_code=1&var-distribution_center_code=4100&var-inventory_type_code=1&var-product_code=73575&var-material_code=0\n\n4. Revisión en GSP ADMIN de cada CV, completo con su Descripción (Módulo Gestión de la cartera de productos), todos los campos con (*) deben tener información.\nEsto lo puedes revisar internamente con equipo de Monitoreo, o si tienes acceso de Lectura puedes hacerlo directamente. \n\n5. La cuenta contable bajo la cual se hará pedido de consumo interno debe estar registrada en GERA para realizar pedido Consumo Interno – Modelo Administrativo (modelo comercial 11) y debe estar asociada esta Cuenta Contable a Modelo Comercial – 11 en el caso de Consumo Interno ADMINISTRATIVO\nEn caso de que no, puedes consultar con punto de Contacto de TI o con equipo de Contabilidad si se trata de una cuenta contable nueva. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Problema, las Pendencias o Incorporaciones que se cargan en GERA no se ven reflejadas en GSP, plataforma de captación al momento de hacer pedido",
+      "respuesta": "Causas conocidas:\nError de Time Out por el lado de GSP\nNo hay alcance comercial configurado para el CV en GSP ADMIN. \n\nLa revisión de Pendencias es así:\n1° Carga en GERA de pendencias (CVs para CBs).\n2° Integración de Pendencias GERA --> GSP para captación (Interfaz 19, se consulta por CB y puedes ver resultado de Integración), si integró OK, en fecha y CVs, queda revisar -->\n3° Alcance comercial (para ver si por esta causa no es posible captar o añadir Pendencia al carrito).\n\nEn caso de duda, puedes contactar a punto de Contacto de equipo TI, o abrir directo un Ticket INCIDENTE en Portal TI Service Now, si la revisión dio OK, y se cumplen los puntos, adjuntando evidencia, detalle, la mayor cantidad de información posible para que Analista de GSP pueda revisar",
+      "text": "Problema, las Pendencias o Incorporaciones que se cargan en GERA no se ven reflejadas en GSP, plataforma de captación al momento de hacer pedido — Causas conocidas:\nError de Time Out por el lado de GSP\nNo hay alcance comercial configurado para el CV en GSP ADMIN. \n\nLa revisión de Pendencias es así:\n1° Carga en GERA de pendencias (CVs para CBs).\n2° Integración de Pendencias GERA --> GSP para captación (Interfaz 19, se consulta por CB y puedes ver resultado de Integración), si integró OK, en fecha y CVs, queda revisar -->\n3° Alcance comercial (para ver si por esta causa no es posible captar o añadir Pendencia al carrito).\n\nEn caso de duda, puedes contactar a punto de Contacto de equipo TI, o abrir directo un Ticket INCIDENTE en Portal TI Service Now, si la revisión dio OK, y se cumplen los puntos, adjuntando evidencia, detalle, la mayor cantidad de información posible para que Analista de GSP pueda revisar (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Tengo problemas con MALOTES",
+      "respuesta": "Problema con Malotes\nREQUISITOS: MALOTES se digita para FV, requisitos previos los mismos que para Consumo interno, en cuanto al Rol, stock, cadastro completo de CV.\n\n1. En GPP LEGO Tener papel de Administrativo – Colaborador – Colaborador en LEGO con Estado: Aprobado\n Consultar por Código o Rut. \n\n2. Revisión de Stock de los CVs GSP - Availability - Grafana (naturacloud.com)\n\n\n3. Revisión en GSP ADMIN de cada CV, completo con su Descripción (Módulo Gestión de la cartera de productos), todos los campos con (*) deben tener información.\nProduct Admin (naturacloud.com)",
+      "text": "Tengo problemas con MALOTES — Problema con Malotes\nREQUISITOS: MALOTES se digita para FV, requisitos previos los mismos que para Consumo interno, en cuanto al Rol, stock, cadastro completo de CV.\n\n1. En GPP LEGO Tener papel de Administrativo – Colaborador – Colaborador en LEGO con Estado: Aprobado\n Consultar por Código o Rut. \n\n2. Revisión de Stock de los CVs GSP - Availability - Grafana (naturacloud.com)\n\n\n3. Revisión en GSP ADMIN de cada CV, completo con su Descripción (Módulo Gestión de la cartera de productos), todos los campos con (*) deben tener información.\nProduct Admin (naturacloud.com) (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Problema de Colaborador CB que cesa por Inactividad.",
+      "respuesta": "Hasta 2024 No existía una regla para colaborador\nSin embargo se registró en Septiembre de 2024 una expeción en BRM para no cessar el sector por 99 ciclos\nPantallas para crear excepicion - https://commercial.natura.com/brm/parameters\n\nMáximo de ciclos inactivos\nSerá posible incluir, editar y excluir excepciones para el nivel jerárquico de las estructuras comerciales en las que se indique la desconcentración de ciclos en el CMM (Modelo de Gestión Comercial).\n\nSi no se incluye ninguna excepción para la estructura, se tendrá en cuenta el valor por defecto establecido para el resto de estructuras. Este valor será visible en esta pantalla.\n\nActualmente, la regla general de negocio de Natura mantiene la relación comercial de la Consultora por hasta seis ciclos de inactividad, cesando automáticamente cuando se inicia el séptimo ciclo inactivo.\n\nACCIÓN: \nlevantar todos los sectores colaboradores y añadar la regra de 99",
+      "text": "Problema de Colaborador CB que cesa por Inactividad. — Hasta 2024 No existía una regla para colaborador\nSin embargo se registró en Septiembre de 2024 una expeción en BRM para no cessar el sector por 99 ciclos\nPantallas para crear excepicion - https://commercial.natura.com/brm/parameters\n\nMáximo de ciclos inactivos\nSerá posible incluir, editar y excluir excepciones para el nivel jerárquico de las estructuras comerciales en las que se indique la desconcentración de ciclos en el CMM (Modelo de Gestión Comercial).\n\nSi no se incluye ninguna excepción para la estructura, se tendrá en cuenta el valor por defecto establecido para el resto de estructuras. Este valor será visible en esta pantalla.\n\nActualmente, la regla general de negocio de Natura mantiene la relación comercial de la Consultora por hasta seis ciclos de inactividad, cesando automáticamente cuando se inicia el séptimo ciclo inactivo.\n\nACCIÓN: \nlevantar todos los sectores colaboradores y añadar la regra de 99 (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Tengo Problemas con MATERIALES no registrado, o registros incompletos en GERA.",
+      "respuesta": "Puedes tomar contacto con TI local, y así poder revisar GERA, en particular, Consultas Interfaz 2 GERA- SAP-GERA",
+      "text": "Tengo Problemas con MATERIALES no registrado, o registros incompletos en GERA. — Puedes tomar contacto con TI local, y así poder revisar GERA, en particular, Consultas Interfaz 2 GERA- SAP-GERA (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Desaparición de Stock",
+      "respuesta": "Se puede revisar tanto GRAFANA, como para ver movimientos de materiales:\nhttps://monitoring-grafana.mgt.naturacloud.com/d/DwmRr9vGz/gsp-exp-cn?orgId=1&var-pessoa=&var-personid=&var-pedido=&var-produto=&var-created=&var-promo=&var-cart=&var-claimid=&var-pais=CL&var-codigo=152&var-cd=4100&var-timezone=America%2FSantiago&var-a=All&var-b=All&var-c=All&var-egeo=&var-ID=&var-material=50439476&var-copy_of_material=&viewPanel=225\n\nComo consultar GERA, y ver si hubo alguna reserva que se hizo por error por ej para e-commerce: \nRevisión Interfaz 29 - ExportEstoqueMatDeltaOut\nConsulta por Código de Material\nRevisión en GERA, LOG ⇒",
+      "text": "Desaparición de Stock — Se puede revisar tanto GRAFANA, como para ver movimientos de materiales:\nhttps://monitoring-grafana.mgt.naturacloud.com/d/DwmRr9vGz/gsp-exp-cn?orgId=1&var-pessoa=&var-personid=&var-pedido=&var-produto=&var-created=&var-promo=&var-cart=&var-claimid=&var-pais=CL&var-codigo=152&var-cd=4100&var-timezone=America%2FSantiago&var-a=All&var-b=All&var-c=All&var-egeo=&var-ID=&var-material=50439476&var-copy_of_material=&viewPanel=225\n\nComo consultar GERA, y ver si hubo alguna reserva que se hizo por error por ej para e-commerce: \nRevisión Interfaz 29 - ExportEstoqueMatDeltaOut\nConsulta por Código de Material\nRevisión en GERA, LOG ⇒ (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "ACCESOS",
+      "titulo": "¿Cómo solicito acceso a GPP Backffice?",
+      "respuesta": "Desde Portal TI Service Now, accedes a opción: [QUIERO PEDIR ALGO] --> Opción:\nLego\nAccesos y solicitudes Lego\n\nA continuación completas formulario:  (algunos campos importantes que completar)\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar Acceso\n\nPlataforma: GPP - Backoffice https://gpp-backoffice.prd.naturacloud.com/\n\nFuncionalidad: GPP Backoffice\n\nInicio de sesión del beneficiario: (xxxxxxxx)\n\nPosition / Function: (xxxxxxxx)\n\nÁrea beneficiada: (xxxxxxxx)\n\nJustificación de la necesidad: Indicar acá brevemente, por qué necesitas acceso a esta plataforma",
+      "text": "¿Cómo solicito acceso a GPP Backffice? — Desde Portal TI Service Now, accedes a opción: [QUIERO PEDIR ALGO] --> Opción:\nLego\nAccesos y solicitudes Lego\n\nA continuación completas formulario:  (algunos campos importantes que completar)\n\nSolicitud: Solicitar acceso a la plataforma\n\nTipo de solicitud: Solicitar Acceso\n\nPlataforma: GPP - Backoffice https://gpp-backoffice.prd.naturacloud.com/\n\nFuncionalidad: GPP Backoffice\n\nInicio de sesión del beneficiario: (xxxxxxxx)\n\nPosition / Function: (xxxxxxxx)\n\nÁrea beneficiada: (xxxxxxxx)\n\nJustificación de la necesidad: Indicar acá brevemente, por qué necesitas acceso a esta plataforma (Categoría: ACCESOS, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Reprocesamiento de Pedidos de hoy, presenta registros de pedidos con error \"No reprocesado\", qué debo hacer?",
+      "respuesta": "Si correo que envía equipo de Soporte GSP (NATURA-SS-GSP-REPROCESSAMENTO@accenture.com) de Brasil presenta problemas, el equipo TI local y Operación (Reprocesamiento-Pedidos-Chile@natura.net), revisará y según error, tiene claro a cual área contactar de Operación o al mismo equipo de Soporte según naturaleza del error. \nPor ej si hay pedidos que no migran por error con alguna política de Transporte, equipo de Transporte de Chile, ya forma parte de los destinatarios que reciben ese email, por lo cual reciben ese correo de forma diaria por la mañana y al revisar pueden ver si hay alguna acción de su parte que realizar.",
+      "text": "Reprocesamiento de Pedidos de hoy, presenta registros de pedidos con error \"No reprocesado\", qué debo hacer? — Si correo que envía equipo de Soporte GSP (NATURA-SS-GSP-REPROCESSAMENTO@accenture.com) de Brasil presenta problemas, el equipo TI local y Operación (Reprocesamiento-Pedidos-Chile@natura.net), revisará y según error, tiene claro a cual área contactar de Operación o al mismo equipo de Soporte según naturaleza del error. \nPor ej si hay pedidos que no migran por error con alguna política de Transporte, equipo de Transporte de Chile, ya forma parte de los destinatarios que reciben ese email, por lo cual reciben ese correo de forma diaria por la mañana y al revisar pueden ver si hay alguna acción de su parte que realizar. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cómo puedo solicitar que me agreguen o eliminen a alguien de una lista de distribución de correos?",
+      "respuesta": "Se puede solicitar desde Portal TI Service Now, en Opción de Menú [Quiero Pedir Algo], luego haces click en: \nServicio de correo electrónico - Natura IT\n\nPuedes aprovechar de guardar Link en Favoritos, haciendo click en el corazón🖤 así quien necesite formar parte de alguna Lista de distribución como quien necesite ser removido por cambio de Rol/actividades puede con mismo Link solicitar especificando de forma clara. \nCompletas el formulario según lo que necesites, lee bien cada campo.",
+      "text": "Cómo puedo solicitar que me agreguen o eliminen a alguien de una lista de distribución de correos? — Se puede solicitar desde Portal TI Service Now, en Opción de Menú [Quiero Pedir Algo], luego haces click en: \nServicio de correo electrónico - Natura IT\n\nPuedes aprovechar de guardar Link en Favoritos, haciendo click en el corazón🖤 así quien necesite formar parte de alguna Lista de distribución como quien necesite ser removido por cambio de Rol/actividades puede con mismo Link solicitar especificando de forma clara. \nCompletas el formulario según lo que necesites, lee bien cada campo. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Soy Gerente de un área de Natura, cómo puedo saber si tengo Beneficio como Gerente para poder pasar pedido como Colaborador?",
+      "respuesta": "Puedes consultar directamente con el área de Beneficios de RRHH, quien habrá notificado al momento de tu ingreso a Natura a equipo TI local para agregar Rol GERENTE - Colaborador en PLATAFORMA DE REGISTROS de LEGO",
+      "text": "Soy Gerente de un área de Natura, cómo puedo saber si tengo Beneficio como Gerente para poder pasar pedido como Colaborador? — Puedes consultar directamente con el área de Beneficios de RRHH, quien habrá notificado al momento de tu ingreso a Natura a equipo TI local para agregar Rol GERENTE - Colaborador en PLATAFORMA DE REGISTROS de LEGO (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Tengo un problema, no veo la actualización de Dirección de Entrega actualiza al momento de hacer una Solicitud de Pedido de Consumo Interno Administrativo",
+      "respuesta": "Puedes abrir un ticket Incidente para Sistema LEGO, Plataforma comercial, indicando que no se ve dirección de entrega actualizada en GPP desde CONSUMO INTERNO",
+      "text": "Tengo un problema, no veo la actualización de Dirección de Entrega actualiza al momento de hacer una Solicitud de Pedido de Consumo Interno Administrativo — Puedes abrir un ticket Incidente para Sistema LEGO, Plataforma comercial, indicando que no se ve dirección de entrega actualizada en GPP desde CONSUMO INTERNO (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cómo solicitar acceso para DEPLOY IMÁGENES GSP- AKAMAI?",
+      "respuesta": "Puedes abrir ticket de Solicitud de acceso: \n\n\nReferenciaAyuda con solicitud RITM0174243 - Acceso a DEPLOY IMÁGENES GSP\nSólo Mile de Monitoreo tiene acceso, y pese a que Cami, Javi y Cata gestionaron acceso no logran ingresar.",
+      "text": "Cómo solicitar acceso para DEPLOY IMÁGENES GSP- AKAMAI? — Puedes abrir ticket de Solicitud de acceso: \n\n\nReferenciaAyuda con solicitud RITM0174243 - Acceso a DEPLOY IMÁGENES GSP\nSólo Mile de Monitoreo tiene acceso, y pese a que Cami, Javi y Cata gestionaron acceso no logran ingresar. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cómo puedo saber si un Pedido de Consumo interno resultó exitoso migrando a GERA?",
+      "respuesta": "Consultando desde GERA, por número de pedido.\nPuedes hacerlo desde Menú: FV, opción Pedido\nComo el pedido proviene de LEGO (venta Directa), debes ingresar el número en campo [Pedido Venta Online], agregando 2 ceros al final del Formato LEGO, para así tener asertividad.",
+      "text": "Cómo puedo saber si un Pedido de Consumo interno resultó exitoso migrando a GERA? — Consultando desde GERA, por número de pedido.\nPuedes hacerlo desde Menú: FV, opción Pedido\nComo el pedido proviene de LEGO (venta Directa), debes ingresar el número en campo [Pedido Venta Online], agregando 2 ceros al final del Formato LEGO, para así tener asertividad. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cómo puedo conocer estado de un Ticket? Incidente o requerimiento de Service Now?",
+      "respuesta": "Desde la página principal de Portal TI Service Now, https://portalti.natura.net/nco\nSección: Búsqueda, puedes digitar, o pegar el Número de ticket que quieres consultar",
+      "text": "Cómo puedo conocer estado de un Ticket? Incidente o requerimiento de Service Now? — Desde la página principal de Portal TI Service Now, https://portalti.natura.net/nco\nSección: Búsqueda, puedes digitar, o pegar el Número de ticket que quieres consultar (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "quiero pedir la licencia de visualización para tableau",
+      "respuesta": "",
+      "text": "quiero pedir la licencia de visualización para tableau —  (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Pedí acceso a PLATAFORMA COMERCIAL con ticket, y Gestión de accesos me confirmó que estaban otorgados y que debía esperar horas para que se replicaran, pero no consigo ingresar",
+      "respuesta": "Si ya probaste esto que te informó Gestión de accesos (GAC), pídeles que te quiten el acceso y que lo vuelvan a otorgar.\n\nEl mismo puede demorar en replicar hasta 24hs. Probar accediento de la siguiente forma y con su contraseña de red:\n\n- TU USUARIO\n- naturabr\\TU USUARIO\n- natura\\TU USUARIO\n- natura.ntco.natura\\TU USUARIO\n\nIntentar acceder tambien desde modo incógnito. En caso de no funcionar la clave puede canalizar el blanqueo con mesa de ayuda. Contactar a gestiondeaccesoslatam@natura.net por cualquier consulta.",
+      "text": "Pedí acceso a PLATAFORMA COMERCIAL con ticket, y Gestión de accesos me confirmó que estaban otorgados y que debía esperar horas para que se replicaran, pero no consigo ingresar — Si ya probaste esto que te informó Gestión de accesos (GAC), pídeles que te quiten el acceso y que lo vuelvan a otorgar.\n\nEl mismo puede demorar en replicar hasta 24hs. Probar accediento de la siguiente forma y con su contraseña de red:\n\n- TU USUARIO\n- naturabr\\TU USUARIO\n- natura\\TU USUARIO\n- natura.ntco.natura\\TU USUARIO\n\nIntentar acceder tambien desde modo incógnito. En caso de no funcionar la clave puede canalizar el blanqueo con mesa de ayuda. Contactar a gestiondeaccesoslatam@natura.net por cualquier consulta. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cuanto es el tiempo de permanencia del carrito activo en plataforma de captación de venta Directa, GSP?",
+      "respuesta": "Al 25 de Julio de 2025, el tiempo para que carrito de plataforma de captación de Venta Directa se libere es de 6 horas. \n\nTiempo de Inactivación de Carrito 🛒🛒🛒 - GSP - Venta Directa\nSituación actual: \nConfiguración de carrito en 6 horas para Chile dentro de GSP ADMIN, si funciona OK; y entra a proceso de cola para desactivar luego de estas horas, con tiempo hoy como máximo de 6 horas. \nLos carritos inactivos se cierran después de 6 horas, liberando el stock empeñado mediante un proceso que puede tener un retraso de aproximadamente un minuto a un minuto y medio debido a la comunicación entre sistemas. Este retraso en la inactivación y liberación del stock puede generar la percepción de que un carrito sigue activo por un breve periodo después de las 6 horas.                                            \nEn 6 horas, te reserva stock/carrito empeñado; Luego, por experiencia te ofrece recuperar carrito bajo nuevas condiciones (podrían haber quiebres de stock) (pero sin advertirlo). Entonces, se presta para confusión pensar que Consultora puede recuperar carrito con las mismas condiciones de disponibilidad de productos.",
+      "text": "Cuanto es el tiempo de permanencia del carrito activo en plataforma de captación de venta Directa, GSP? — Al 25 de Julio de 2025, el tiempo para que carrito de plataforma de captación de Venta Directa se libere es de 6 horas. \n\nTiempo de Inactivación de Carrito 🛒🛒🛒 - GSP - Venta Directa\nSituación actual: \nConfiguración de carrito en 6 horas para Chile dentro de GSP ADMIN, si funciona OK; y entra a proceso de cola para desactivar luego de estas horas, con tiempo hoy como máximo de 6 horas. \nLos carritos inactivos se cierran después de 6 horas, liberando el stock empeñado mediante un proceso que puede tener un retraso de aproximadamente un minuto a un minuto y medio debido a la comunicación entre sistemas. Este retraso en la inactivación y liberación del stock puede generar la percepción de que un carrito sigue activo por un breve periodo después de las 6 horas.                                            \nEn 6 horas, te reserva stock/carrito empeñado; Luego, por experiencia te ofrece recuperar carrito bajo nuevas condiciones (podrían haber quiebres de stock) (pero sin advertirlo). Entonces, se presta para confusión pensar que Consultora puede recuperar carrito con las mismas condiciones de disponibilidad de productos. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Pedido aún no migra a GERA y no se refleja en Indicadores de Fuerza de Venta",
+      "respuesta": "Puedes abrir un ticket INCIDENTE desde Service Now directamente para LEGO - GSP Captación, o contactar a Equipo TI local",
+      "text": "Pedido aún no migra a GERA y no se refleja en Indicadores de Fuerza de Venta — Puedes abrir un ticket INCIDENTE desde Service Now directamente para LEGO - GSP Captación, o contactar a Equipo TI local (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cómo dar de Alta a proveedor externo, gestión de email, VPN, etc",
+      "respuesta": "Puedes solicitarlo desde Portal TI Service Now, https://portalti.natura.net/nco?id=sc_cat_item&sys_id=843716763b8952100b26b9d355e45aeb\nY completar formulario con información, muy importante informar en él si vas a requerir creación de email y VPN.",
+      "text": "Cómo dar de Alta a proveedor externo, gestión de email, VPN, etc — Puedes solicitarlo desde Portal TI Service Now, https://portalti.natura.net/nco?id=sc_cat_item&sys_id=843716763b8952100b26b9d355e45aeb\nY completar formulario con información, muy importante informar en él si vas a requerir creación de email y VPN. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Como solicito acceso a Salesforce?",
+      "respuesta": "Puedes solicitarlo desde Portal TI Service Now, https://portalti.natura.net/nco?id=sc_cat_item&sys_id=db9d6fd41b341e10761176295b4bcb06&table=sc_cat_item&searchTerm=salesforce",
+      "text": "¿Como solicito acceso a Salesforce? — Puedes solicitarlo desde Portal TI Service Now, https://portalti.natura.net/nco?id=sc_cat_item&sys_id=db9d6fd41b341e10761176295b4bcb06&table=sc_cat_item&searchTerm=salesforce (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Que es el archivo de CME?",
+      "respuesta": "Este archivo llega por correo con una frecuencia de 1 hora, donde encontraras la actualización del Stock que se transfiere hacia el Ecommerce",
+      "text": "¿Que es el archivo de CME? — Este archivo llega por correo con una frecuencia de 1 hora, donde encontraras la actualización del Stock que se transfiere hacia el Ecommerce (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Como solicito acceso al envío de correo CME?",
+      "respuesta": "Debes envíar un correo al equipo de otro canales.  corelismedina.expro@natura.net o erwinsanchez@natura.net",
+      "text": "¿Como solicito acceso al envío de correo CME? — Debes envíar un correo al equipo de otro canales.  corelismedina.expro@natura.net o erwinsanchez@natura.net (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Puntos Online no visibles en Panel CND",
+      "respuesta": "Puedes abrir un ticket en el Portal de Service Now -> Tengo un problema -> Sistemas -> Completar el formulario: Servicio Afectado: LEGO - Plataforma Comercial -> ¿Donde está el problema?: Performance. Si necesitas realizar escalamiento de algún caso puedes contactar al equipo local de TI Ecommerce.",
+      "text": "Puntos Online no visibles en Panel CND — Puedes abrir un ticket en el Portal de Service Now -> Tengo un problema -> Sistemas -> Completar el formulario: Servicio Afectado: LEGO - Plataforma Comercial -> ¿Donde está el problema?: Performance. Si necesitas realizar escalamiento de algún caso puedes contactar al equipo local de TI Ecommerce. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicito acceso a Mercado Pago?",
+      "respuesta": "Debes enviar un correo al equipo local de Otros Canales: corelismedina.expro@natura.net o erwinsanchez@natura.net",
+      "text": "¿Cómo solicito acceso a Mercado Pago? — Debes enviar un correo al equipo local de Otros Canales: corelismedina.expro@natura.net o erwinsanchez@natura.net (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicito acceso a Google Analytics?",
+      "respuesta": "Puedes solicitar acceso en el Portal de Service Now, en la siguiente ruta: https://portalti.natura.net/nco?id=sc_cat_item&table=sc_cat_item&sys_id=3f54eee63b816210ca74e7fa26e45a92&recordUrl=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1&sysparm_id=3f54eee63b816210ca74e7fa26e45a92",
+      "text": "¿Cómo solicito acceso a Google Analytics? — Puedes solicitar acceso en el Portal de Service Now, en la siguiente ruta: https://portalti.natura.net/nco?id=sc_cat_item&table=sc_cat_item&sys_id=3f54eee63b816210ca74e7fa26e45a92&recordUrl=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1&sysparm_id=3f54eee63b816210ca74e7fa26e45a92 (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Accesos",
+      "titulo": "¿Cómo solicito acceso a Databricks?",
+      "respuesta": "Puedes solicitar acceso en el Portal de Service Now, en la siguiente ruta: https://portalti.natura.net/nco?id=sc_cat_item&sys_id=ba30b94c3b42eed0ca74e7fa26e45a56",
+      "text": "¿Cómo solicito acceso a Databricks? — Puedes solicitar acceso en el Portal de Service Now, en la siguiente ruta: https://portalti.natura.net/nco?id=sc_cat_item&sys_id=ba30b94c3b42eed0ca74e7fa26e45a56 (Categoría: Accesos, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Cómo puedo crear mi tienda digital?",
+      "respuesta": "Para crear tu tienda digital debes considerar lo siguiente: \n1. Tener una cuenta de Mercado Pago activa. \n2. Realizar el registro de la tienda con el mismo Mail de tu cuenta de Mercado Pago. \nEn el siguiente enlace puedes iniciar el registro: https://registro.red.natura.cl/registro",
+      "text": "¿Cómo puedo crear mi tienda digital? — Para crear tu tienda digital debes considerar lo siguiente: \n1. Tener una cuenta de Mercado Pago activa. \n2. Realizar el registro de la tienda con el mismo Mail de tu cuenta de Mercado Pago. \nEn el siguiente enlace puedes iniciar el registro: https://registro.red.natura.cl/registro (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Pedido Ecommerce no migró a Gera",
+      "respuesta": "Puedes solicitar ayuda a Punto de Contacto TI Ecommerce.",
+      "text": "Pedido Ecommerce no migró a Gera — Puedes solicitar ayuda a Punto de Contacto TI Ecommerce. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "Cobro duplicado en pedido de Ecommerce",
+      "respuesta": "Si tienes un caso de cobro duplicado por un pedido de Ecommerce, puedes reportarlo al equipo de Atención <contacto@natura.net> para gestionar el reembolso.",
+      "text": "Cobro duplicado en pedido de Ecommerce — Si tienes un caso de cobro duplicado por un pedido de Ecommerce, puedes reportarlo al equipo de Atención <contacto@natura.net> para gestionar el reembolso. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Cómo acceder al Panel CND?",
+      "respuesta": "Puedes ingresar a través del siguiente enlace: https://panel.red.natura.cl/login\nSi es por primera vez, debes presionar el botón \"Primer acceso\" y seguir las intrucciones.\nDe lo contrario, accede con el correo de tu tienda y tu contraseña.",
+      "text": "¿Cómo acceder al Panel CND? — Puedes ingresar a través del siguiente enlace: https://panel.red.natura.cl/login\nSi es por primera vez, debes presionar el botón \"Primer acceso\" y seguir las intrucciones.\nDe lo contrario, accede con el correo de tu tienda y tu contraseña. (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Qué es cesada?",
+      "respuesta": "Es una consultora Natura que entra al séptimo ciclo sin pasar pedido",
+      "text": "¿Qué es cesada? — Es una consultora Natura que entra al séptimo ciclo sin pasar pedido (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Qué es DIANA?",
+      "respuesta": "DIANA es un Agente de Inteligencia Artificial creado para apoyar a los colaboradores de Natura",
+      "text": "¿Qué es DIANA? — DIANA es un Agente de Inteligencia Artificial creado para apoyar a los colaboradores de Natura (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "faq",
+      "categoria": "Consulta",
+      "titulo": "¿Qué es MAIA?",
+      "respuesta": "MAIA es un Agente de Inteligencia Artificial creado para apoyar a los colaboradores de  Natura en el ámbito de Recursos Humanos y además apoyar a la Fuerza de Venta respecto a distintos indicadores",
+      "text": "¿Qué es MAIA? — MAIA es un Agente de Inteligencia Artificial creado para apoyar a los colaboradores de  Natura en el ámbito de Recursos Humanos y además apoyar a la Fuerza de Venta respecto a distintos indicadores (Categoría: Consulta, Fuente: faq)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Tableau",
+      "respuesta": "Visualización de dashboards",
+      "text": "Tableau — Visualización de dashboards (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Databricks",
+      "respuesta": "Análisis de datos",
+      "text": "Databricks — Análisis de datos (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GERA",
+      "respuesta": "ERP Natura",
+      "text": "GERA — ERP Natura (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "SAP ECC",
+      "respuesta": "Gestión logistica/financiera/Contable",
+      "text": "SAP ECC — Gestión logistica/financiera/Contable (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "SAP eWM",
+      "respuesta": "Gestión logistica/financiera/Contable",
+      "text": "SAP eWM — Gestión logistica/financiera/Contable (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "SAP ARIBA",
+      "respuesta": "Gestión de compras",
+      "text": "SAP ARIBA — Gestión de compras (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Red Corporativa",
+      "respuesta": "Acceso Corporativo",
+      "text": "Red Corporativa — Acceso Corporativo (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GSP Admin",
+      "respuesta": "",
+      "text": "GSP Admin —  (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GPP Backoffice",
+      "respuesta": "",
+      "text": "GPP Backoffice —  (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GCP",
+      "respuesta": "Global comercial platform, plataforma comercial, la cual cuenta con varios módulos, accesos son solicitados por módulo",
+      "text": "GCP — Global comercial platform, plataforma comercial, la cual cuenta con varios módulos, accesos son solicitados por módulo (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GDP",
+      "respuesta": "Plataforma Global de Datos, desde la cual puedes descargar REPORTES que ya están listos para descargar según filtros. \nCarritos abandonados, pedido impersonado",
+      "text": "GDP — Plataforma Global de Datos, desde la cual puedes descargar REPORTES que ya están listos para descargar según filtros. \nCarritos abandonados, pedido impersonado (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Registro como Consultor(a) de Belleza",
+      "respuesta": "Venta Directa",
+      "text": "Registro como Consultor(a) de Belleza — Venta Directa (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "MI NEGOCIO",
+      "respuesta": "Link de acceso para MI NEGOCIO, Venta Directa, sitio desde donde se puede acceder a plataforma de captación",
+      "text": "MI NEGOCIO — Link de acceso para MI NEGOCIO, Venta Directa, sitio desde donde se puede acceder a plataforma de captación (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "GSP - Plataforma de captación de pedidos de Venta Directa",
+      "respuesta": "Plataforma de captación de pedidos de Venta directa desde la cual es posible realizar pedidos de Venta Directa según perfil de acceso",
+      "text": "GSP - Plataforma de captación de pedidos de Venta Directa — Plataforma de captación de pedidos de Venta directa desde la cual es posible realizar pedidos de Venta Directa según perfil de acceso (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Portal para la declaración de renta para las CBs",
+      "respuesta": "Portal para la declaración de renta para las CBs",
+      "text": "Portal para la declaración de renta para las CBs — Portal para la declaración de renta para las CBs (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Links de ambientes NO PRODUCTIVOS - GERA y LEGO",
+      "respuesta": "",
+      "text": "Links de ambientes NO PRODUCTIVOS - GERA y LEGO —  (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Deploy imágenes GSP - AKAMAI",
+      "respuesta": "",
+      "text": "Deploy imágenes GSP - AKAMAI —  (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Salesforce PRD",
+      "respuesta": "Ecommerce",
+      "text": "Salesforce PRD — Ecommerce (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Salesforce STG",
+      "respuesta": "Ecommerce",
+      "text": "Salesforce STG — Ecommerce (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "Creación tienda online",
+      "respuesta": "Ecommerce",
+      "text": "Creación tienda online — Ecommerce (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "accesos",
+      "categoria": "Accesos",
+      "titulo": "JIRA",
+      "respuesta": "VD - Ecommerce",
+      "text": "JIRA — VD - Ecommerce (Categoría: Accesos, Fuente: accesos)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "% margen",
+      "respuesta": "Margen Bruto / Receta Liquida",
+      "text": "% margen — Margen Bruto / Receta Liquida (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Estado de Consultoras",
+      "titulo": "Activas",
+      "respuesta": "Consultora Natura con un pedido facturado en el ciclo actual",
+      "text": "Activas — Consultora Natura con un pedido facturado en el ciclo actual (Categoría: Estado de Consultoras, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "actividad",
+      "respuesta": "Dado por las activas o activas frecuentes en base a su canal de consultoras disponibles. se calcula % = CN Activas / CN Disponibles",
+      "text": "actividad — Dado por las activas o activas frecuentes en base a su canal de consultoras disponibles. se calcula % = CN Activas / CN Disponibles (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Marketing / Campañas",
+      "titulo": "Apalancamiento",
+      "respuesta": "Incremento en la facturación causado por las promociones. Se utiliza para rellenar el “gap” entre la facturación baseline y la facturación objetivo.",
+      "text": "Apalancamiento — Incremento en la facturación causado por las promociones. Se utiliza para rellenar el “gap” entre la facturación baseline y la facturación objetivo. (Categoría: Marketing / Campañas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "Baseline (BSL)",
+      "respuesta": "Nivel de venta teórico de un producto sin promoción del producto ni de ningún otro.",
+      "text": "Baseline (BSL) — Nivel de venta teórico de un producto sin promoción del producto ni de ningún otro. (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "BL",
+      "respuesta": "Backlog. Listado de pendientes por procesar",
+      "text": "BL — Backlog. Listado de pendientes por procesar (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CAD Producto",
+      "respuesta": "Precio del producto con descuento (si aplica)",
+      "text": "CAD Producto — Precio del producto con descuento (si aplica) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Canibalización",
+      "respuesta": "Riesgo principal de las acciones promocionales. Es la potencial caída en la venta de algunos productos en función del aumento de la venta de productos correlacionados debido a las promociones.",
+      "text": "Canibalización — Riesgo principal de las acciones promocionales. Es la potencial caída en la venta de algunos productos en función del aumento de la venta de productos correlacionados debido a las promociones. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "Cantidad Baseline",
+      "respuesta": "Activas * UPC Baseline",
+      "text": "Cantidad Baseline — Activas * UPC Baseline (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Cantidad Regalada Semillas",
+      "respuesta": "La campaña Semillas se hizo para premiar a aquellas consultoras que recomiendan a otras personas para vender Natura, como forma de incentivar los inicios.",
+      "text": "Cantidad Regalada Semillas — La campaña Semillas se hizo para premiar a aquellas consultoras que recomiendan a otras personas para vender Natura, como forma de incentivar los inicios. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Característica",
+      "respuesta": "Regular/Material de apoyo/Tasa de servicio",
+      "text": "Característica — Regular/Material de apoyo/Tasa de servicio (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Categoría",
+      "respuesta": "Perfumería Cuerpo Rostro Maquillaje Cabello Jabones Desodorante Aceite Barba Protección Solar Otros Subcategoría Aceite Acondicionador Anti señales Barba Barra Boca Cabello Creer para Ver Crema Cuerpo Femenina Hidratante Infantil Kit Liquido Manos y Pies Maquillaje Masculina Ojos Perfumería Piernas y Pies Roll On Rostro Shampoo Sombras Spray Tratamiento",
+      "text": "Categoría — Perfumería Cuerpo Rostro Maquillaje Cabello Jabones Desodorante Aceite Barba Protección Solar Otros Subcategoría Aceite Acondicionador Anti señales Barba Barra Boca Cabello Creer para Ver Crema Cuerpo Femenina Hidratante Infantil Kit Liquido Manos y Pies Maquillaje Masculina Ojos Perfumería Piernas y Pies Roll On Rostro Shampoo Sombras Spray Tratamiento (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Estado de Consultoras",
+      "titulo": "cesada",
+      "respuesta": "Consultora Natura que entra al séptimo ciclo sin pasar pedido",
+      "text": "cesada — Consultora Natura que entra al séptimo ciclo sin pasar pedido (Categoría: Estado de Consultoras, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CICLO",
+      "respuesta": "El modelo de negocio de venta directa de natura consiste en 17 ciclos al año de una duración de 21 días. Existen ciclos dobles de dos semanas o simples de 4 semanas",
+      "text": "CICLO — El modelo de negocio de venta directa de natura consiste en 17 ciclos al año de una duración de 21 días. Existen ciclos dobles de dos semanas o simples de 4 semanas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CM",
+      "respuesta": "Codigo de material de un producto",
+      "text": "CM — Codigo de material de un producto (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CMV Real",
+      "respuesta": "Costo real de 1 unidad de un SKU o producto en bodega",
+      "text": "CMV Real — Costo real de 1 unidad de un SKU o producto en bodega (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CMV STD",
+      "respuesta": "Costo Estándar proyectado por Finanzas utilizado para planear con el objetivo de atender las fluctuaciones en los niveles de tipo de cambio (moneda local) y variaciones propias del costo del producto en toda la cadena que puedan a llegar a surgir. Este CMV STD es publicado en un documento oficial llamado “Costo Padrón Presupuestado”. Si algún SKU no tiene el costo proyectado utilizamos el real.",
+      "text": "CMV STD — Costo Estándar proyectado por Finanzas utilizado para planear con el objetivo de atender las fluctuaciones en los niveles de tipo de cambio (moneda local) y variaciones propias del costo del producto en toda la cadena que puedan a llegar a surgir. Este CMV STD es publicado en un documento oficial llamado “Costo Padrón Presupuestado”. Si algún SKU no tiene el costo proyectado utilizamos el real. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CMV Total (STD)",
+      "respuesta": "CMV STD * Cantidad Vendida",
+      "text": "CMV Total (STD) — CMV STD * Cantidad Vendida (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CMV Total Real",
+      "respuesta": "Costo real total de los SKUs facturados en el ciclo.",
+      "text": "CMV Total Real — Costo real total de los SKUs facturados en el ciclo. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Cockpit",
+      "respuesta": "Panel resumen y Outlook de indicadores de ciclos realizados, planeados, presupuestados y sus posibles revisiones.",
+      "text": "Cockpit — Panel resumen y Outlook de indicadores de ciclos realizados, planeados, presupuestados y sus posibles revisiones. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Codigo de Material (CM)",
+      "respuesta": "codigo unico que define al material en SAP",
+      "text": "Codigo de Material (CM) — codigo unico que define al material en SAP (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "Codigo de Venta (CV)",
+      "respuesta": "codigo unico del material en Gera, y este puede asociarse a varios codigos de material",
+      "text": "Codigo de Venta (CV) — codigo unico del material en Gera, y este puede asociarse a varios codigos de material (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "COMA",
+      "respuesta": "Es el valor absoluto que indica el índice de margen agregado en el ciclo, producto del compuesto utilizado en relación al margen bruto del base line del portafolio activo.",
+      "text": "COMA — Es el valor absoluto que indica el índice de margen agregado en el ciclo, producto del compuesto utilizado en relación al margen bruto del base line del portafolio activo. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Comisión CN",
+      "respuesta": "Porcentaje de beneficio que obtiene la consultora al realizar un pedido.",
+      "text": "Comisión CN — Porcentaje de beneficio que obtiene la consultora al realizar un pedido. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Compuesto a SV",
+      "respuesta": "Cantidad Dada * SV * (1-Comision CN)",
+      "text": "Compuesto a SV — Cantidad Dada * SV * (1-Comision CN) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Compuesto Promocional CMV Real",
+      "respuesta": "Costo real total de un SKU (compuesto) en bodega",
+      "text": "Compuesto Promocional CMV Real — Costo real total de un SKU (compuesto) en bodega (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Compuesto Query",
+      "respuesta": "Cantidad Dada * CMV STD",
+      "text": "Compuesto Query — Cantidad Dada * CMV STD (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Compuesto Real Peso",
+      "respuesta": "Cantidad Dada Peso * CMV Real",
+      "text": "Compuesto Real Peso — Cantidad Dada Peso * CMV Real (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Compuesto STD",
+      "respuesta": "Cantidad Dada Peso * CMV STD",
+      "text": "Compuesto STD — Cantidad Dada Peso * CMV STD (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Cortes Dados",
+      "respuesta": "Cantidad de productos, en unidades o UPC, que dejaron de ser dados",
+      "text": "Cortes Dados — Cantidad de productos, en unidades o UPC, que dejaron de ser dados (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Cortes Vendidos",
+      "respuesta": "Cantidad de productos, en unidades o UPC, que dejaron de ser vendidas",
+      "text": "Cortes Vendidos — Cantidad de productos, en unidades o UPC, que dejaron de ser vendidas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Costo de la Mercadería Dada (CMD)",
+      "respuesta": "Representa el costo de un producto dado/regalado. También llamado Compuesto.",
+      "text": "Costo de la Mercadería Dada (CMD) — Representa el costo de un producto dado/regalado. También llamado Compuesto. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Costo de la Mercadería Vendida (CMV)",
+      "respuesta": "Representa el costo de un producto vendido",
+      "text": "Costo de la Mercadería Vendida (CMV) — Representa el costo de un producto vendido (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "CPMO",
+      "respuesta": "Comité de Planeamiento Mercadológico y de Operaciones",
+      "text": "CPMO — Comité de Planeamiento Mercadológico y de Operaciones (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "DCD",
+      "respuesta": "Documento que envía gera con los detalles de los cambios a realizar.",
+      "text": "DCD — Documento que envía gera con los detalles de los cambios a realizar. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Desc a CMV Query",
+      "respuesta": "Descuento Promocional * (CMV Total STD / RT)",
+      "text": "Desc a CMV Query — Descuento Promocional * (CMV Total STD / RT) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento a CMV",
+      "respuesta": "Descuento Promocional*(CMV Total Real/RT)",
+      "text": "Descuento a CMV — Descuento Promocional*(CMV Total Real/RT) (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento a CMV (Peso)",
+      "respuesta": "Si tiene peso es el mismo valor que Descuento a CMV (Real)",
+      "text": "Descuento a CMV (Peso) — Si tiene peso es el mismo valor que Descuento a CMV (Real) (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento a CMV (Real)",
+      "respuesta": "CMV Total Real * (Descuento Promocional/RT)",
+      "text": "Descuento a CMV (Real) — CMV Total Real * (Descuento Promocional/RT) (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento a CMV STD (con peso)",
+      "respuesta": "Descuento Promocional * (CMV Total STD / RT)",
+      "text": "Descuento a CMV STD (con peso) — Descuento Promocional * (CMV Total STD / RT) (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento Percibido",
+      "respuesta": "(Descuento Promocional + Compuesto a SV) / RT",
+      "text": "Descuento Percibido — (Descuento Promocional + Compuesto a SV) / RT (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento Promocional",
+      "respuesta": "Descuentos financieros en acciones promocionales",
+      "text": "Descuento Promocional — Descuentos financieros en acciones promocionales (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Finanzas",
+      "titulo": "Descuento Promocional AJ",
+      "respuesta": "Descuento Promocional * (1-Impuesto/RB)",
+      "text": "Descuento Promocional AJ — Descuento Promocional * (1-Impuesto/RB) (Categoría: Finanzas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Disponibles",
+      "respuesta": "Consultora natura con por lo menos 1 pedido en los últimos 4 ciclos",
+      "text": "Disponibles — Consultora natura con por lo menos 1 pedido en los últimos 4 ciclos (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "DRE",
+      "respuesta": "Estado de Resultados",
+      "text": "DRE — Estado de Resultados (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "DSO",
+      "respuesta": "documento que envía Gera con la aclaración de Horas a cobrar por la demanda solicitada según lo pedido en las SRs.",
+      "text": "DSO — documento que envía Gera con la aclaración de Horas a cobrar por la demanda solicitada según lo pedido en las SRs. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Esfuerzo Promocional (EP)",
+      "respuesta": "Porcentaje de la facturación neta (RL) invertida en acciones promocionales",
+      "text": "Esfuerzo Promocional (EP) — Porcentaje de la facturación neta (RL) invertida en acciones promocionales (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Estrategia",
+      "respuesta": "Son los ciclos que contienen la venta especial de estuches con motivo de la realización de un festejo o fecha conmemorativa en el mercado. Las principales son Madres, Padres, Amigos, Enamorados y Navidad.",
+      "text": "Estrategia — Son los ciclos que contienen la venta especial de estuches con motivo de la realización de un festejo o fecha conmemorativa en el mercado. Las principales son Madres, Padres, Amigos, Enamorados y Navidad. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Estrategia de GAPS",
+      "respuesta": "Es una metodología para identificar la cantidad necesaria de facturación de promociones y lanzamientos para cubrir el GAP entre el baseline y la meta de ventas por categoría y total (RB).",
+      "text": "Estrategia de GAPS — Es una metodología para identificar la cantidad necesaria de facturación de promociones y lanzamientos para cubrir el GAP entre el baseline y la meta de ventas por categoría y total (RB). (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Estuche",
+      "respuesta": "Son conjuntos de productos que son ofrecidos por un valor único en un ciclo de estrategia de fecha conmemorativa (ej. Madres/Padres/Enamorados/Navidad)",
+      "text": "Estuche — Son conjuntos de productos que son ofrecidos por un valor único en un ciclo de estrategia de fecha conmemorativa (ej. Madres/Padres/Enamorados/Navidad) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Estuches",
+      "respuesta": "Son conjuntos de productos (Virtuales, Línea/Activos y/o Regalos) que son ofrecidos por un valor único en un ciclo de estrategia de fecha conmemorativa (ej. Madres/Padres/Amigos/Enamorados/Navidad).",
+      "text": "Estuches — Son conjuntos de productos (Virtuales, Línea/Activos y/o Regalos) que son ofrecidos por un valor único en un ciclo de estrategia de fecha conmemorativa (ej. Madres/Padres/Amigos/Enamorados/Navidad). (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Planificación",
+      "titulo": "Forecast",
+      "respuesta": "Estimación de ventas o demanda futura basada en datos históricos.",
+      "text": "Forecast — Estimación de ventas o demanda futura basada en datos históricos. (Categoría: Planificación, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Franjas",
+      "respuesta": "Incentivan la productividad de las activas. Establecen que si la consultora supera cierta cantidad de puntos/dinero en su pedido se le da un descuento o regalo como recompensa.",
+      "text": "Franjas — Incentivan la productividad de las activas. Establecen que si la consultora supera cierta cantidad de puntos/dinero en su pedido se le da un descuento o regalo como recompensa. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Ganancia CN",
+      "respuesta": "Relación entre la ganancia percibida por la consultora (descuentos específicos a CN y regalos de franjas valorizados a precio) y la facturación bruta del ciclo",
+      "text": "Ganancia CN — Relación entre la ganancia percibida por la consultora (descuentos específicos a CN y regalos de franjas valorizados a precio) y la facturación bruta del ciclo (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Estado de Consultoras",
+      "titulo": "inactiva",
+      "respuesta": "Consultora Natura que no pasa un pedido en el ciclo actual",
+      "text": "inactiva — Consultora Natura que no pasa un pedido en el ciclo actual (Categoría: Estado de Consultoras, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Indisponible",
+      "respuesta": "Consultora Natura sin pedido en los ciclos 4,5 y 6 de inactividad",
+      "text": "Indisponible — Consultora Natura sin pedido en los ciclos 4,5 y 6 de inactividad (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Kit",
+      "respuesta": "Conjunto de 2 ó más SKU´s con un descuento (Ej Pulpa de Manos + Hidratante corporal Castaña)",
+      "text": "Kit — Conjunto de 2 ó más SKU´s con un descuento (Ej Pulpa de Manos + Hidratante corporal Castaña) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Lanzamiento",
+      "respuesta": "Indica si el SKU está en lanzamiento o no en el ciclo, si lo está el producto tendrá un descuento",
+      "text": "Lanzamiento — Indica si el SKU está en lanzamiento o no en el ciclo, si lo está el producto tendrá un descuento (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Marca MKT",
+      "respuesta": "Natura",
+      "text": "Marca MKT — Natura (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "Margen Bruto",
+      "respuesta": "Es la receta liquida (RL) desconsiderando únicamente el total de CMV STD",
+      "text": "Margen Bruto — Es la receta liquida (RL) desconsiderando únicamente el total de CMV STD (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "Margen de Contribución",
+      "respuesta": "Es la receta liquida (RL) desconsiderando el total de CMV STD y compuesto STD",
+      "text": "Margen de Contribución — Es la receta liquida (RL) desconsiderando el total de CMV STD y compuesto STD (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Material de Apoyo",
+      "respuesta": "Revistas, folletos, muestras, etc.",
+      "text": "Material de Apoyo — Revistas, folletos, muestras, etc. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "MB (STD)",
+      "respuesta": "RL – CMV Total (STD)",
+      "text": "MB (STD) — RL – CMV Total (STD) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "MC (STD)",
+      "respuesta": "MB (STD) – Compuesto STD",
+      "text": "MC (STD) — MB (STD) – Compuesto STD (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "MC Baseline",
+      "respuesta": "Cantidad Baseline * SV * (1-Comision CN) * (1-Impuesto) – (CMV STD * Cantidad Baseline)",
+      "text": "MC Baseline — Cantidad Baseline * SV * (1-Comision CN) * (1-Impuesto) – (CMV STD * Cantidad Baseline) (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "MC Real",
+      "respuesta": "Margen Bruto – Compuesto Real Peso",
+      "text": "MC Real — Margen Bruto – Compuesto Real Peso (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Modelo Comercial Natura",
+      "respuesta": "en gera se diferencian por: Consultora Natura, red natura (venta online, e-commerce), Colaborador VIP, SNAC, NC (Envio Especial) , MALOTE",
+      "text": "Modelo Comercial Natura — en gera se diferencian por: Consultora Natura, red natura (venta online, e-commerce), Colaborador VIP, SNAC, NC (Envio Especial) , MALOTE (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "NC",
+      "respuesta": "No conformidad. Reclamo realizado por via de customer care (CAN)",
+      "text": "NC — No conformidad. Reclamo realizado por via de customer care (CAN) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Outlook",
+      "respuesta": "Es la suma de lo realizado hasta el momento, lo planeado y lo presupuestado para el total del año",
+      "text": "Outlook — Es la suma de lo realizado hasta el momento, lo planeado y lo presupuestado para el total del año (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "PAIS",
+      "respuesta": "Natura opera en Argentina, Chile, Perú, Colombia, México.",
+      "text": "PAIS — Natura opera en Argentina, Chile, Perú, Colombia, México. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "País",
+      "respuesta": "Natura opera en Argentina, Chile, Perú, Colombia, México.",
+      "text": "País — Natura opera en Argentina, Chile, Perú, Colombia, México. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Pedido",
+      "respuesta": "id único de producto en Gera O SF",
+      "text": "Pedido — id único de producto en Gera O SF (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Peso",
+      "respuesta": "como concepto de promocion indica si se considera en el esfuerzo promocional o no. El único que tiene peso es Promo el resto (VNP, Estuche y Saldón) no debe ser considerado. como concepto de pedido indica cuanto pesa en kilos o gramos una caja o el total de cajas de un pedido",
+      "text": "Peso — como concepto de promocion indica si se considera en el esfuerzo promocional o no. El único que tiene peso es Promo el resto (VNP, Estuche y Saldón) no debe ser considerado. como concepto de pedido indica cuanto pesa en kilos o gramos una caja o el total de cajas de un pedido (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Post CPM",
+      "respuesta": "CPM hace referencia a “Comité de Planeamiento Mercadológico”. Esta columna indica los SKUs que no estaban planeados y salieron en revista.",
+      "text": "Post CPM — CPM hace referencia a “Comité de Planeamiento Mercadológico”. Esta columna indica los SKUs que no estaban planeados y salieron en revista. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "productividad",
+      "respuesta": "si se relaciona con consultoras este concepto, es el Índice que relaciona la facturación con la cantidad de consultoras, estableciendo un promedio de facturación por CN (se mide en $/CN). Productividad= Receta Bruta / CN activas",
+      "text": "productividad — si se relaciona con consultoras este concepto, es el Índice que relaciona la facturación con la cantidad de consultoras, estableciendo un promedio de facturación por CN (se mide en $/CN). Productividad= Receta Bruta / CN activas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Promo",
+      "respuesta": "Representa la venta obtenida de los productos regulares que participan de cualquiera de las promociones validadas en un ciclo",
+      "text": "Promo — Representa la venta obtenida de los productos regulares que participan de cualquiera de las promociones validadas en un ciclo (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Publico",
+      "respuesta": "Adulto, Creer para Ver, Infantil, Otros",
+      "text": "Publico — Adulto, Creer para Ver, Infantil, Otros (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Público",
+      "respuesta": "Adulto Creer para Ver Infantil Otros",
+      "text": "Público — Adulto Creer para Ver Infantil Otros (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Query de resultados",
+      "respuesta": "Son los reportes ejecutados dentro de los sistemas de información natura (GERA) con el objeto de calcular los resultados y actualizar los indicadores básicos del ciclo. Los más usados en términos mercadológicos son los que permiten el cálculo del DRE (Cuadro de resultados líquidos del ejercicio) del ciclo.",
+      "text": "Query de resultados — Son los reportes ejecutados dentro de los sistemas de información natura (GERA) con el objeto de calcular los resultados y actualizar los indicadores básicos del ciclo. Los más usados en términos mercadológicos son los que permiten el cálculo del DRE (Cuadro de resultados líquidos del ejercicio) del ciclo. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Quiebre",
+      "respuesta": "No alcanzar el planeado por la venta real del ciclo",
+      "text": "Quiebre — No alcanzar el planeado por la venta real del ciclo (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "RB Baseline",
+      "respuesta": "La cantidad baseline * SV",
+      "text": "RB Baseline — La cantidad baseline * SV (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "RB Promo",
+      "respuesta": "VNP, Promo, Estuche o Saldón.",
+      "text": "RB Promo — VNP, Promo, Estuche o Saldón. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Receta Bruta (RB)",
+      "respuesta": "Facturación Total – Gastos Descuentos Promocionales – Comisión CN",
+      "text": "Receta Bruta (RB) — Facturación Total – Gastos Descuentos Promocionales – Comisión CN (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Receta Liquida (RL)",
+      "respuesta": "Receta bruta – Impuestos",
+      "text": "Receta Liquida (RL) — Receta bruta – Impuestos (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Receta Teórica (RT)",
+      "respuesta": "Facturación total obtenida de la venta de los productos regulares y materiales de apoyo en un ciclo, desconsiderando únicamente los descuentos del modelo comercial CN.",
+      "text": "Receta Teórica (RT) — Facturación total obtenida de la venta de los productos regulares y materiales de apoyo en un ciclo, desconsiderando únicamente los descuentos del modelo comercial CN. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "recuperadas",
+      "respuesta": "Consultoras que estaban indisponibles, y vuelven a pasar pedido. Así, toda recuperada es un activa, y por lo tanto es una disponible.",
+      "text": "recuperadas — Consultoras que estaban indisponibles, y vuelven a pasar pedido. Así, toda recuperada es un activa, y por lo tanto es una disponible. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Refill",
+      "respuesta": "Repuestos de productos regulares",
+      "text": "Refill — Repuestos de productos regulares (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Regular",
+      "respuesta": "Producto que sale regularmente en revista",
+      "text": "Regular — Producto que sale regularmente en revista (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "repique",
+      "respuesta": "Cuantas consultoras activas pasan más de un pedido en un ciclo. Es dado por la cantidad de pedidos en la cantidad de consultoras activas. se calcula como Repique= cantidad de Pedidos  / cantidad CN Activas",
+      "text": "repique — Cuantas consultoras activas pasan más de un pedido en un ciclo. Es dado por la cantidad de pedidos en la cantidad de consultoras activas. se calcula como Repique= cantidad de Pedidos  / cantidad CN Activas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Revisiones presupuestarias (RO)",
+      "respuesta": "Presupuesto ajustado",
+      "text": "Revisiones presupuestarias (RO) — Presupuesto ajustado (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "RF",
+      "respuesta": "Refilles, pero en logistica RF es una maquina para escanear",
+      "text": "RF — Refilles, pero en logistica RF es una maquina para escanear (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "RITM",
+      "respuesta": "(Quiero Solicitar algo) en el Portal TI",
+      "text": "RITM — (Quiero Solicitar algo) en el Portal TI (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "ROTEIRO",
+      "respuesta": "instructivo de pruebas que envía gera a TD país.",
+      "text": "ROTEIRO — instructivo de pruebas que envía gera a TD país. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Saldón",
+      "respuesta": "Representa la venta obtenida de productos descontinuados (liquidación)",
+      "text": "Saldón — Representa la venta obtenida de productos descontinuados (liquidación) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Sales Force Errors (SFE)",
+      "respuesta": "Error porcentual absoluto de previsión de ventas. Es la comparativa entre lo planeado y lo realizado.",
+      "text": "Sales Force Errors (SFE) — Error porcentual absoluto de previsión de ventas. Es la comparativa entre lo planeado y lo realizado. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Seguro del ciclo",
+      "respuesta": "Es la diferencia entre la facturación target del ciclo y la facturación potencial generada en el planeamiento.",
+      "text": "Seguro del ciclo — Es la diferencia entre la facturación target del ciclo y la facturación potencial generada en el planeamiento. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "SKU",
+      "respuesta": "Código único de inventario para cada producto.",
+      "text": "SKU — Código único de inventario para cada producto. (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "SR",
+      "respuesta": "Documento que crea TD país junto con el solicitante del cambio o mejora del sistema, en este documento se aclaran cuáles son las necesidades y los requisitos (RQF#xxx).",
+      "text": "SR — Documento que crea TD país junto con el solicitante del cambio o mejora del sistema, en este documento se aclaran cuáles son las necesidades y los requisitos (RQF#xxx). (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Stock",
+      "respuesta": "cantidad de material en inventario",
+      "text": "Stock — cantidad de material en inventario (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Sub Marca Mkt",
+      "respuesta": "Aguas Amis Amó Aquarela Biografía Chronos Creer para Ver (CPV) Ekos Erva Doce Essencial Faces Fotoequilibrio Higeia Homem Humor Illia Kaiak Kriska Luna Mamá & Bebe (MMBB) Naturé Plant Séve Sr. N Tez Tododia UNA Urbano",
+      "text": "Sub Marca Mkt — Aguas Amis Amó Aquarela Biografía Chronos Creer para Ver (CPV) Ekos Erva Doce Essencial Faces Fotoequilibrio Higeia Homem Humor Illia Kaiak Kriska Luna Mamá & Bebe (MMBB) Naturé Plant Séve Sr. N Tez Tododia UNA Urbano (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Sub-Categoria",
+      "respuesta": "Sub-categorias (ver detalle)",
+      "text": "Sub-Categoria — Sub-categorias (ver detalle) (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Subciclo",
+      "respuesta": "Algunos ciclos que están subdivididos en A y B",
+      "text": "Subciclo — Algunos ciclos que están subdivididos en A y B (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "SV",
+      "respuesta": "Precio full del producto",
+      "text": "SV — Precio full del producto (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Tipo Promoción",
+      "respuesta": "Puede ser VNP, Compuesto, Descuento o Estuche",
+      "text": "Tipo Promoción — Puede ser VNP, Compuesto, Descuento o Estuche (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "UN",
+      "respuesta": "Unidad de negocio",
+      "text": "UN — Unidad de negocio (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "UPC",
+      "respuesta": "Medida que indica las unidades por consultora",
+      "text": "UPC — Medida que indica las unidades por consultora (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Indicadores de Venta",
+      "titulo": "UPC Baseline",
+      "respuesta": "Nivel de venta teórico, en UPC (unidades por consultora natura), de un producto sin promoción del producto ni de ningún otro.",
+      "text": "UPC Baseline — Nivel de venta teórico, en UPC (unidades por consultora natura), de un producto sin promoción del producto ni de ningún otro. (Categoría: Indicadores de Venta, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "UPC con Cortes",
+      "respuesta": "(Cantidad Vendida + Cortes Vendidos) / Activas",
+      "text": "UPC con Cortes — (Cantidad Vendida + Cortes Vendidos) / Activas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "UPC Promo CN",
+      "respuesta": "Cantidad dada / Activas",
+      "text": "UPC Promo CN — Cantidad dada / Activas (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "VD",
+      "respuesta": "Modelo de Venta directa",
+      "text": "VD — Modelo de Venta directa (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Virtual",
+      "respuesta": "Producto que no sale regularmente en revista",
+      "text": "Virtual — Producto que no sale regularmente en revista (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "VNP",
+      "respuesta": "facturación bruta de venta NO promocionada",
+      "text": "VNP — facturación bruta de venta NO promocionada (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Ecommerce",
+      "respuesta": "modelo de Venta online",
+      "text": "Ecommerce — modelo de Venta online (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "General",
+      "titulo": "Volumen de negocio",
+      "respuesta": "SV * Cantidad Vendida",
+      "text": "Volumen de negocio — SV * Cantidad Vendida (Categoría: General, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Conectividad",
+      "titulo": "WiFi",
+      "respuesta": "Tecnología inalámbrica que permite la conexión a internet o redes internas sin necesidad de cables.",
+      "text": "WiFi — Tecnología inalámbrica que permite la conexión a internet o redes internas sin necesidad de cables. (Categoría: Conectividad, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Conectividad / TI",
+      "titulo": "Red Corporativa",
+      "respuesta": "Conjunto de recursos de red internos exclusivos de la empresa, que conectan computadores, servidores, impresoras y otros dispositivos.",
+      "text": "Red Corporativa — Conjunto de recursos de red internos exclusivos de la empresa, que conectan computadores, servidores, impresoras y otros dispositivos. (Categoría: Conectividad / TI, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Hardware / Periféricos",
+      "titulo": "Mouse",
+      "respuesta": "Dispositivo de entrada que permite interactuar con el computador mediante el movimiento del cursor.",
+      "text": "Mouse — Dispositivo de entrada que permite interactuar con el computador mediante el movimiento del cursor. (Categoría: Hardware / Periféricos, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Hardware / Periféricos",
+      "titulo": "Teclado",
+      "respuesta": "Dispositivo de entrada que permite escribir y ejecutar comandos en un computador.",
+      "text": "Teclado — Dispositivo de entrada que permite escribir y ejecutar comandos en un computador. (Categoría: Hardware / Periféricos, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Hardware / Memoria",
+      "titulo": "RAM",
+      "respuesta": "Memoria de acceso aleatorio que almacena temporalmente datos y programas que el computador está utilizando.",
+      "text": "RAM — Memoria de acceso aleatorio que almacena temporalmente datos y programas que el computador está utilizando. (Categoría: Hardware / Memoria, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Hardware / Procesador",
+      "titulo": "CPU",
+      "respuesta": "Unidad Central de Procesamiento; es el cerebro del computador donde se realizan la mayoría de los cálculos y procesos.",
+      "text": "CPU — Unidad Central de Procesamiento; es el cerebro del computador donde se realizan la mayoría de los cálculos y procesos. (Categoría: Hardware / Procesador, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Hardware / Gráficos",
+      "titulo": "GPU",
+      "respuesta": "Unidad de Procesamiento Gráfico, encargada de procesar gráficos, imágenes y tareas paralelas.",
+      "text": "GPU — Unidad de Procesamiento Gráfico, encargada de procesar gráficos, imágenes y tareas paralelas. (Categoría: Hardware / Gráficos, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Conectividad / Sistemas",
+      "titulo": "Intranet",
+      "respuesta": "Red interna privada de una organización, accesible solo para empleados y que contiene recursos, sistemas y documentos corporativos.",
+      "text": "Intranet — Red interna privada de una organización, accesible solo para empleados y que contiene recursos, sistemas y documentos corporativos. (Categoría: Conectividad / Sistemas, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Sistemas / Aplicación",
+      "titulo": "GERA",
+      "respuesta": "Sistema interno de Natura utilizado para la gestión y seguimiento de actividades y resultados del negocio.",
+      "text": "GERA — Sistema interno de Natura utilizado para la gestión y seguimiento de actividades y resultados del negocio. (Categoría: Sistemas / Aplicación, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Sistemas / Aplicación",
+      "titulo": "DIANA",
+      "respuesta": "Agente de Inteligencia Artificial creado para apoyar a los colaboradores de Natura",
+      "text": "DIANA — Agente de Inteligencia Artificial creado para apoyar a los colaboradores de Natura (Categoría: Sistemas / Aplicación, Fuente: glosario)"
+    },
+    {
+      "sheet": "glosario",
+      "categoria": "Sistemas / Aplicación",
+      "titulo": "MAIA",
+      "respuesta": "Agente de Inteligencia Artificial creado para apoyar a los colaboradores de  Natura en el ámbito de Recursos Humanos y además apoyar a la Fuerza de Venta respecto a distintos indicadores",
+      "text": "MAIA — Agente de Inteligencia Artificial creado para apoyar a los colaboradores de  Natura en el ámbito de Recursos Humanos y además apoyar a la Fuerza de Venta respecto a distintos indicadores (Categoría: Sistemas / Aplicación, Fuente: glosario)"
+    },
+    {
+      "sheet": "utilidad",
+      "categoria": "Utilidad",
+      "titulo": "Manual Tableau",
+      "respuesta": "Guía paso a paso para dashboards",
+      "text": "Manual Tableau — Guía paso a paso para dashboards (Categoría: Utilidad, Fuente: utilidad)"
+    },
+    {
+      "sheet": "utilidad",
+      "categoria": "Utilidad",
+      "titulo": "Calendario Capacitaciones",
+      "respuesta": "Fechas y temas próximos cursos",
+      "text": "Calendario Capacitaciones — Fechas y temas próximos cursos (Categoría: Utilidad, Fuente: utilidad)"
+    },
+    {
+      "sheet": "utilidad",
+      "categoria": "Utilidad",
+      "titulo": "Glosarios antiguos\n\nhttps://docs.google.com/document/d/15dZ6YsKnzNrqfqSZL7CIq6DG2Dnmd8DP/edit?usp=sharing&ouid=103150984179394318052&rtpof=true&sd=true\n\nhttps://docs.google.com/document/d/15dZ6YsKnzNrqfqSZL7CIq6DG2Dnmd8DP/edit?usp=sharing&ouid=103150984179394318052&rtpof=true&sd=true",
+      "respuesta": "",
+      "text": "Glosarios antiguos\n\nhttps://docs.google.com/document/d/15dZ6YsKnzNrqfqSZL7CIq6DG2Dnmd8DP/edit?usp=sharing&ouid=103150984179394318052&rtpof=true&sd=true\n\nhttps://docs.google.com/document/d/15dZ6YsKnzNrqfqSZL7CIq6DG2Dnmd8DP/edit?usp=sharing&ouid=103150984179394318052&rtpof=true&sd=true —  (Categoría: Utilidad, Fuente: utilidad)"
+    },
+    {
+      "sheet": "utilidad",
+      "categoria": "Utilidad",
+      "titulo": "Guias de LEGO",
+      "respuesta": "",
+      "text": "Guias de LEGO —  (Categoría: Utilidad, Fuente: utilidad)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "Portal interno",
+      "titulo": "Intranet Natura",
+      "respuesta": "Portal para colaboradores",
+      "text": "Intranet Natura — Portal para colaboradores (Categoría: Portal interno, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "Reportes",
+      "titulo": "Portal BI",
+      "respuesta": "Acceso a dashboards y reportes",
+      "text": "Portal BI — Acceso a dashboards y reportes (Categoría: Reportes, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "ERP,reportes,query, pedidos,facturacion,pago,cobranza",
+      "titulo": "SGI/GERA",
+      "respuesta": "Acceso a ERP Natura",
+      "text": "SGI/GERA — Acceso a ERP Natura (Categoría: ERP,reportes,query, pedidos,facturacion,pago,cobranza, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "portal,servicios",
+      "titulo": "CSC",
+      "respuesta": "Central de servicios , utilizada para cadastro y modificacion de materiales, pagos, registro de facturas, servicios financieros, soporte administrativo, etc",
+      "text": "CSC — Central de servicios , utilizada para cadastro y modificacion de materiales, pagos, registro de facturas, servicios financieros, soporte administrativo, etc (Categoría: portal,servicios, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "portal,servicios,maestro de materiales",
+      "titulo": "MDO",
+      "respuesta": "Plataforma de Servicios y Gobernanza de Datos Maestros de Natura",
+      "text": "MDO — Plataforma de Servicios y Gobernanza de Datos Maestros de Natura (Categoría: portal,servicios,maestro de materiales, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "central de atención, ticket,reportes,incidentes,solicitudes",
+      "titulo": "Portal TI",
+      "respuesta": "Central de atención tecnologica",
+      "text": "Portal TI — Central de atención tecnologica (Categoría: central de atención, ticket,reportes,incidentes,solicitudes, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "portal de compras, ordenes de compra, OCs,PO",
+      "titulo": "SAP Ariba",
+      "respuesta": "Gestión de compras",
+      "text": "SAP Ariba — Gestión de compras (Categoría: portal de compras, ordenes de compra, OCs,PO, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "logistica,separación,picking,conteo",
+      "titulo": "Intranet logistica",
+      "respuesta": "Registro de cajas y manifiestos picking",
+      "text": "Intranet logistica — Registro de cajas y manifiestos picking (Categoría: logistica,separación,picking,conteo, Fuente: links frecuentes)"
+    },
+    {
+      "sheet": "links frecuentes",
+      "categoria": "logistica,separación,picking, trafico",
+      "titulo": "Magestic",
+      "respuesta": "Registro de pedidos en trafico",
+      "text": "Magestic — Registro de pedidos en trafico (Categoría: logistica,separación,picking, trafico, Fuente: links frecuentes)"
+    }
+  ]
+}
