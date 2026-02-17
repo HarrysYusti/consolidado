@@ -1,0 +1,10 @@
+const TOP1_PERCENT = 0.25; //porcentaje de grupo
+const TOP1_CAPACITY = 4; //asignación maxima
+const TOP2_PERCENT = 0.25; //porcentaje de grupo
+const TOP2_CAPACITY = 3; //asignación maxima
+const TOP3_PERCENT = 0.25; //porcentaje de grupo
+const TOP3_CAPACITY = 2; //asignación maxima
+const TOP4_CAPACITY = 1; //asignación maxima
+const FROM_MGMT = '200001636';
+const FROM_SECTOR = '200002473';
+const FROM_GROUP = '2002';
