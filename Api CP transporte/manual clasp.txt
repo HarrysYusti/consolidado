@@ -1,0 +1,98 @@
+Manual
+Sincronización de Google Apps Script con GitHub usando clasp
+
+🎯 Objetivo
+Tener un flujo de trabajo profesional que permita:
+Trabajar localmente en VS Code.
+Sincronizar con Google Apps Script automáticamente.
+Versionar el código con Git y subirlo a GitHub.
+Evitar copias manuales y mantener trazabilidad de cambios.
+
+🧰 Herramientas necesarias:
+✅ Node.js
+✅ Git
+✅ clasp (npm install -g @google/clasp)
+✅ Cuenta Google con acceso al script
+✅ Repositorio GitHub (clonado)
+✅ GitHub Desktop
+✅ VSCode
+
+📂 Ejemplo de estructura
+Proyecto Google Apps Script con ID:
+ID_DE_PROYECTO_APPSCRIPT
+
+Repositorio GitHub:
+https://github.com/NaturaChile/appscripts
+
+Queremos vincular el script al repositorio en la subcarpeta:
+/appscripts/proyecto-test
+
+🧭 PASO A PASO
+
+En la terminal:
+
+🔹 Paso 1: Clonar el repositorio de GitHub
+cd C:\Users\1234
+git clone https://github.com/NaturaChile/appscripts.git
+cd appscripts
+
+🔹 Paso 2: Crear subcarpeta para el script
+mkdir proyecto-test
+cd proyecto-test
+
+🔹 Paso 3: Clonar el proyecto Apps Script con clasp
+clasp clone ID_DE_PROYECTO_APPSCRIPT
+Esto descargará los archivos del script y creará .clasp.json.
+
+🔹 Paso 4: Confirmar estructura generada
+Debe verse así:
+
+proyecto-test/
+├── .clasp.json
+├── appsscript.json
+├── Code.gs
+├── funciones.gs (si aplica)
+
+🔹 Paso 5: Versionar con Git y subir a GitHub
+cd ..
+git add proyecto-test
+git commit -m "Migración del proyecto Apps Script con clasp"
+git push
+
+
+✅ Ahora tu código está en GitHub y vinculado con Apps Script.
+
+------------------------------------------------------
+
+CÓMO TRABAJAR DESDE AHORA
+
+🖥️ OPCIÓN A: Editas en Visual Studio Code (local)
+Abre /appscripts/proyecto-test/ en VS Code.
+Modifica archivos .gs.
+
+Guarda y sube los cambios:
+cd proyecto-knapp
+clasp push     # Subir cambios a Google Apps Script
+cd ..
+git add proyecto-knapp
+git commit -m "Cambios locales"
+git push       # Subir cambios a GitHub
+
+
+🌐 OPCIÓN B: Editas desde el navegador (script.google.com)
+Haces cambios directamente en Apps Script online.
+
+Luego en tu PC ejecutas:
+cd appscripts/proyecto-test
+clasp pull                     # Traer cambios desde Google Apps Script
+cd ..
+git add proyecto-test
+git commit -m "Cambios desde editor online"
+git push
+
+
+Desde GitHub Desktop para enviar los cambios a GitHub:
+
+Genera el commit con descripcion y Comentarios
+pull de cambios en origen
+
