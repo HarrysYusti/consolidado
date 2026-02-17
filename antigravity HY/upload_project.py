@@ -100,15 +100,23 @@ def main():
     # Configurar longpaths por si acaso
     run_command(["git", "config", "core.longpaths", "true"], cwd=dest_repo_path)
     
-    run_command(["git", "add", "."], cwd=dest_repo_path)
+    # Mostrar rama actual
+    run_command(["git", "branch", "--show-current"], cwd=dest_repo_path)
+    
+    # Forzar añadir todos los archivos (incluso si están ignorados por .gitignore del repo destino)
+    print("Añadiendo archivos (forzando)...")
+    run_command(["git", "add", "--force", "."], cwd=dest_repo_path)
     
     # Verificar si hay cambios
+    print("Estado del repositorio:")
+    run_command(["git", "status"], cwd=dest_repo_path)
+    
     status = subprocess.run(["git", "status", "--porcelain"], cwd=dest_repo_path, capture_output=True, text=True)
     if not status.stdout.strip():
-        print("No hay cambios para subir.")
+        print("No hay cambios para subir. (Esto significa que los archivos son IDENTICOS a los del repo remoto)")
         return
 
-    run_command(["git", "commit", "-m", f"Upload: {TARGET_FOLDER} del proyecto actual"], cwd=dest_repo_path)
+    run_command(["git", "commit", "-m", f"Upload: {TARGET_FOLDER} del proyecto actual (Forced Add)"], cwd=dest_repo_path)
     
     print("Subiendo a GitHub...")
     run_command(["git", "push"], cwd=dest_repo_path)
