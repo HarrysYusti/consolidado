@@ -1,6 +1,6 @@
 # Guía de Configuración: Análisis de Email con N8N
 
-Este proyecto te permite analizar tus correos de ayer usando Inteligencia Artificial (Gemini) para identificar tareas y responsables, generando un reporte automático.
+Este proyecto te permite analizar tus correos de ayer usando Inteligencia Artificial (Gemini 3 Pro) para identificar tareas y responsables, generando un reporte automático.
 
 ## 1. Requisitos Previos
 
