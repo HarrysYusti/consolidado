@@ -1,0 +1,34 @@
+etl:
+  process_name: 'cubos'
+  logging_level: 'DEBUG'
+  scheduled_hour: 8
+  scheduled_minute: 15
+
+
+# DB Connection
+
+mssql_params:
+  server: 
+  username: 
+  password: 
+  database: 
+
+databricks_params:
+  host: 
+  http_path:
+  api_key:
+
+# Tables
+
+mssql_tables:
+  panel_digital: "[panel_digital].[detalle_cn]"
+
+# Queries
+
+queries:
+  detalle_cn: 'sql/query_detalle_cn.sql'
+  deltas:
+    detalle_gerencia: 'sql/deltas/detalle_gerencia.sql'
+    detalle_grupo: 'sql/deltas/detalle_grupo.sql'
+    detalle_pais: 'sql/deltas/detalle_pais.sql'
+    detalle_sector: 'sql/deltas/detalle_sector.sql'

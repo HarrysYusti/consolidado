@@ -1,0 +1,10 @@
+pandas
+jupyter
+pymssql
+python-dotenv
+databricks-sql-connector
+pyarrow
+click
+pendulum
+pyyaml
+apscheduler
