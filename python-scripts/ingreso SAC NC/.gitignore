@@ -1,0 +1,20 @@
+# Ignorar archivos de entorno
+.env
+*.env
+
+# Ignorar entorno virtual
+.venv/
+venv/
+
+# Ignorar archivos temporales
+__pycache__/
+*.py[cod]
+*.log
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de Excel u otros datos sensibles
+*.xlsx
+*.xls
+*.csv
