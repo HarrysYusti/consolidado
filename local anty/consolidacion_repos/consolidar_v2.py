@@ -48,18 +48,19 @@ def run_command(command, cwd=None, check=True):
 def main():
     print("=== Iniciando Script de Consolidación V2 (Iterativo) ===")
     
-    # 1. Limpieza Inicial
+    # 1. Limpieza Inicial: Borra el directorio temporal si ya existía para evitar conflictos
     if os.path.exists(TEMP_DIR):
         print(f"Limpiando directorio temporal existente: {TEMP_DIR}...")
         try:
             shutil.rmtree(TEMP_DIR)
         except PermissionError:
              subprocess.run(["rmdir", "/s", "/q", TEMP_DIR], shell=True)
-        time.sleep(1) # Dar un segundo al sistema de archivos
+        time.sleep(1) # Dar un segundo al sistema de archivos para liberar el recurso
 
     # 2. Preparación del Destino
     print(f"Clonando repositorio destino: {REPO_DESTINO}...")
     try:
+        # Clonamos el repositorio base ("consolidado") donde se juntará todo
         run_command(["git", "clone", REPO_DESTINO, TEMP_DIR])
     except subprocess.CalledProcessError:
         print("CRÍTICO: No se pudo clonar el repositorio de destino. Verifica credenciales y URL.")
@@ -113,54 +114,58 @@ def main():
             
         print(f"\n--- PROCESANDO [{i+1}/{total_repos}]: {repo_name} ---")
 
-        # Verificar si la carpeta YA EXISTE en el repo local (lo que significa que ya se fusionó)
-        if os.path.exists(os.path.join(cwd, repo_name)):
-            print(f"AVISO: La carpeta '{repo_name}' ya existe en el directorio local. Saltando consolidación.")
-            continue
+        # Verificar si la carpeta YA EXISTE en el repo local para decidir si hacer 'add' (nuevo) o 'pull' (actualización)
+        carpeta_existe = os.path.exists(os.path.join(cwd, repo_name))
+        accion_subtree = "pull" if carpeta_existe else "add"
+
+        if carpeta_existe:
+            print(f"AVISO: La carpeta '{repo_name}' ya existe en el directorio local. Se actualizará usando 'git subtree pull'.")
+        else:
+            print(f"AVISO: La carpeta '{repo_name}' NO existe. Se añadirá usando 'git subtree add'.")
 
         remote_name = f"remote_{repo_name}"
 
         try:
-            # Clean state check before starting
+            # Limpiar cualquier estado inconsistente antes de empezar la operación git
             try:
                 run_command(["git", "reset", "--hard", "HEAD"], cwd=cwd)
                 run_command(["git", "clean", "-fdx"], cwd=cwd)
             except:
                 pass
 
-            # 1. Agregar remoto
+            # 1. Agregar remoto apuntando al repositorio origen
             try:
                 run_command(["git", "remote", "add", remote_name, repo_url], cwd=cwd)
             except subprocess.CalledProcessError:
                 pass # El remoto ya existe
 
-            # 2. Fetch
+            # 2. Fetch: Descarga los últimos cambios del repositorio origen
             print(f"Haciendo fetch de {repo_name}...")
             run_command(["git", "fetch", remote_name], cwd=cwd)
 
-            # 3. Subtree Add (Commit local)
-            print(f"Intentando fusionar {repo_name} (local commit)...")
+            # 3. Subtree Add/Pull: Realiza la fusión al repo 'consolidado' creando el commit local
+            print(f"Intentando realizar operación '{accion_subtree}' para {repo_name} (local commit)...")
             
             branch_to_use = "main"
             subtree_ok = False
             
             try:
                 print(f"Probando rama '{branch_to_use}'...")
-                run_command(["git", "subtree", "add", f"--prefix={repo_name}", f"{remote_name}/{branch_to_use}", "--squash"], cwd=cwd)
+                run_command(["git", "subtree", accion_subtree, f"--prefix={repo_name}", f"{remote_name}/{branch_to_use}", "--squash"], cwd=cwd)
                 subtree_ok = True
             except subprocess.CalledProcessError:
                 print(f"Fallo con rama '{branch_to_use}'.")
-                # Limpiar
+                # Limpiar tras un eventual error parcial
                 run_command(["git", "reset", "--hard", "HEAD"], cwd=cwd)
                 
                 branch_to_use = "master"
                 try:
                     print(f"Re-intentando con rama '{branch_to_use}'...")
-                    run_command(["git", "subtree", "add", f"--prefix={repo_name}", f"{remote_name}/{branch_to_use}", "--squash"], cwd=cwd)
+                    run_command(["git", "subtree", accion_subtree, f"--prefix={repo_name}", f"{remote_name}/{branch_to_use}", "--squash"], cwd=cwd)
                     subtree_ok = True
                 except subprocess.CalledProcessError:
                     print(f"Fallo con rama '{branch_to_use}'.")
-                    # No hay necesidad de reset --hard si el subtree command falla atomicamente, pero por si acaso:
+                    # Restaurar estado por seguridad si ambos fallan
                     run_command(["git", "reset", "--hard", "HEAD"], cwd=cwd)
 
             if not subtree_ok:
@@ -169,11 +174,11 @@ def main():
                 lista_fallidos.append(f"{repo_name} (Merge local fallido)")
                 continue
 
-            # 4. Push Inmediato (Atomicidad)
+            # 4. Push Inmediato (Atomicidad): Subir los cambios a GitHub en cuanto se han mergeado localmente para que no se pierdan o acumulen bloqueos
             print(f"Intentando PUSH remoto de {repo_name}...")
             try:
                 run_command(["git", "push", "origin", "main"], cwd=cwd)
-                print(f"ÉXITO: {repo_name} consolidado y pusheado.")
+                print(f"ÉXITO: {repo_name} consolidado/actualizado y pusheado.")
                 exitosos += 1
             except subprocess.CalledProcessError as e:
                 print(f" !!! ERROR DE PUSH PARA {repo_name} !!!")
@@ -185,7 +190,7 @@ def main():
                 run_command(["git", "reset", "--hard", "HEAD~1"], cwd=cwd)
                 
                 # Opcional: git clean para borrar la carpeta si quedó
-                if os.path.exists(os.path.join(cwd, repo_name)):
+                if not carpeta_existe and os.path.exists(os.path.join(cwd, repo_name)):
                      print("Borrando carpeta residual...")
                      try:
                         shutil.rmtree(os.path.join(cwd, repo_name))

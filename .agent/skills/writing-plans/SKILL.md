@@ -7,7 +7,7 @@ description: Discover and install skills for AI agents.
 
 ## Overview
 
-Write comprehensive implementation plans assuming the engineer has zero context. Document everything: files to touch, code to write, tests to run.
+Write comprehensive implementation plans assuming the engineer has zero context. Document everything: files to touch, code to write, tests to run. **WRITE IT ALWAYS IN SPANISH**
 **Context**: Run in a dedicated worktree.
 **Save path**: `docs/plans/YYYY-MM-DD-<feature-name>.md`
 
