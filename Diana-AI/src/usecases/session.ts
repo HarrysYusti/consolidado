@@ -1,4 +1,5 @@
 import { ChatMessage, ChatSession } from '@/types/ChatSession';
+import { generateUUID } from '@/utils/uuid';
 import {
   loadHistory,
   loadSession,
@@ -52,7 +53,7 @@ export const SessionUseCase: SessionUseCaseType = {
    */
   createNewSession: (initialMessage?: ChatMessage) => {
     const newSession: ChatSession = {
-      id: crypto.randomUUID(),
+      id: generateUUID(),
       name: '',
       timestamp: Date.now(),
       messages: initialMessage ? [initialMessage] : [],

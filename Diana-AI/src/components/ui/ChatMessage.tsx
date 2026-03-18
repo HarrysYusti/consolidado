@@ -80,7 +80,7 @@ const ChatMessage = ({
             alignSelf="flex-start"
           />
         )}
-        <TypingText text={msg.content} instant={isUser || instant} />
+        <TypingText text={msg.content} instant={isUser || instant} isMarkdown={!isUser} />
         {clipboard && (
           <Clipboard.Root value={msg.content}>
             <Tooltip content="Copiar">

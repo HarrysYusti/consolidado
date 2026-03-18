@@ -1,5 +1,6 @@
 {
   "name": "diana-frontend",
+  "homepage": "/diana/",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -13,10 +14,14 @@
   "dependencies": {
     "@chakra-ui/react": "^3.25.0",
     "@emotion/react": "^11.14.0",
+    "highlight.js": "^11.11.1",
     "next-themes": "^0.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
+    "rehype-highlight": "^7.0.2",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
