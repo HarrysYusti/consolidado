@@ -15,8 +15,14 @@ Esta carpeta contiene scripts de Python para automatizar la gestión de fuentes 
 Abre `config.py` y reemplaza los dos valores:
 
 ```python
-NOTEBOOK_ID    = "9ad1d67b-d2f8-45a4-b034-639b08111ad8"   # ID del Notebook en NotebookLM
-DRIVE_FOLDER_ID = "PEGAR_AQUI_EL_ID_DE_TU_CARPETA_EN_DRIVE"  # ID de la carpeta en Drive
+NOTEBOOK_ID = "9ad1d67b-d2f8-45a4-b034-639b08111ad8"   # ID del Notebook
+
+# Como NotebookLM no permite extraer carpetas completas, 
+# pon aquí los enlaces o IDs de los archivos:
+DOCUMENTOS_A_CARGAR = [
+    {"id_o_url": "1NT-mLUD...", "nombre": "Presentacion.pdf"},
+    {"id_o_url": "https://docs.google.com/spreadsheets/d/1X...", "nombre": "Reporte.xlsx"},
+]
 ```
 
 > **No tendrás que tocar los demás scripts nunca más**; todos importan las variables desde aquí.
@@ -26,10 +32,8 @@ DRIVE_FOLDER_ID = "PEGAR_AQUI_EL_ID_DE_TU_CARPETA_EN_DRIVE"  # ID de la carpeta 
 2. Copia el UUID final de la URL:  
    `https://notebooklm.google.com/notebook/`**`9ad1d67b-d2f8-45a4-b034-639b08111ad8`**
 
-### ¿Cómo obtener el DRIVE_FOLDER_ID?
-1. Abre la carpeta en [Google Drive](https://drive.google.com/).
-2. Copia el ID final de la URL:  
-   `https://drive.google.com/drive/folders/`**`1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms`**
+### ¿Cómo agrego los archivos a DOCUMENTOS_A_CARGAR?
+Ve a Google Drive, dale clic derecho al archivo -> **Obtener vínculo** (o "Get link"). Pégalo en `id_o_url`. Añade un `nombre` con su extensión final (ej. `.pdf`, `.xlsx`) para que el sistema reconozca su formato automáticamente.
 
 ---
 

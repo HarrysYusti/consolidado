@@ -64,3 +64,9 @@
 - Carpeta Drive: `1NT-mLUDmbRoAlSIdvvynOhlvgD41jRM6`
 
 ⚠️ No se encontraron archivos en la carpeta.
+
+---
+# Carga Manual desde Lista (2026-03-18 13:03:26)
+- Notebook: `8415491e-0767-4276-a934-d4f8f7ce8f80`
+
+⚠️ Operación cancelada: lista de documentos vacía.

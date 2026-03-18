@@ -13,13 +13,44 @@
 #   https://notebooklm.google.com/notebook/<ESTE-ES-EL-ID>
 NOTEBOOK_ID = "8415491e-0767-4276-a934-d4f8f7ce8f80"
 
-# ── Google Drive ──────────────────────────────────────────────
-# ID de la carpeta de Google Drive desde la que se cargarán
-# documentos hacia NotebookLM (usado por cargar_desde_drive.py).
-# Cómo obtenerlo: abre la carpeta en Google Drive y copia el ID
-# del final de la URL:
-#   https://drive.google.com/drive/folders/<ESTE-ES-EL-ID>
-DRIVE_FOLDER_ID = "1NT-mLUDmbRoAlSIdvvynOhlvgD41jRM6"
+# ── Google Drive (Carga Manual por IDs) ───────────────────────
+# Como NotebookLM no permite extraer carpetas completas, pon aquí
+# los enlaces o IDs de los archivos que quieres agregar.
+# Puedes poner tanto la URL completa como solo el ID.
+# El "nombre" sirve para identificarlo y para que el script
+# asigne automáticamente el doc_type según la extensión (.pdf, .xlsx, etc.)
+DOCUMENTOS_A_CARGAR = [
+    {
+        "id_o_url": "1x36YPsHmAQ0fJwsAavLJM0pwRp-bEEfRAEgQSaAt-K4", 
+        "nombre": "consolidado mail CEG Localidad"
+    },
+
+    {
+        "id_o_url": "1ISiRRINAZa1pS74Lo4a4Nbwc1vy9ScrE", 
+        "nombre": "DCD 0210745 - Pré- Projeto - CL - Crear o modificar un nivel de codigo de estructura geografico para sumar localidad.pdf"
+    },
+
+    {
+        "id_o_url": "1qaOnC3uKKTBcmLLAL0xj1NQ8i9aRaG5D", 
+        "nombre": "DCD 0210745 - Pré- Projeto - CL - Crear o modificar un nivel de codigo de estructura geografico para sumar localidad ES.pdf"
+    },
+
+    {
+        "id_o_url": "1Y-jlrzIG71yoez86hSSoZDyQ2fkZ-i9Q", 
+        "nombre": "251111 Region-Comuna-Localidad Blue.xlsx"
+    },
+
+    {
+        "id_o_url": "1KV_qgoQNTOCz0qBJYZRAWwseKgDRIkH8", 
+        "nombre": "Localidades Blue.xlsx"
+    },
+
+    {
+        "id_o_url": "1_w3DXt_u6eUPdc6yTGZ1F7t5tyA3frzS58KIMU3RfGo", 
+        "nombre": "Transcripción: Historia de Usuario - CL Alocación por Grupo"
+    }
+]
+
 
 # =============================================================
 #  TIPOS DE DOCUMENTOS SOPORTADOS POR NOTEBOOKLM
