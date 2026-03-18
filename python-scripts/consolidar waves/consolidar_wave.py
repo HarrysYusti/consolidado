@@ -6,9 +6,10 @@ import shutil
 from datetime import datetime, timedelta
 
 # --- CONFIGURACIÓN ---
-ruta_carpeta = r"C:\Users\331642\Desktop\problema de fase\jeremy\06"
+ruta_carpeta = r"C:\Users\331642\Desktop\harrys\interfaz\procesar wave pendientes"
 columnas_txt = ['fase', 'pedido', 'vacio', 'dato']
 prefijo_archivo = "Wave" 
+
 
 def extraer_fecha(nombre_archivo):
     """

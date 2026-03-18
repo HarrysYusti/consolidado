@@ -1,0 +1,533 @@
+00_Inputs
+01_ORC\00_Antiguo para actualizar
+01_ORC\01_ORC 29
+01_ORC
+01_ORC desafío
+02_OTL\01_Hard\00_1°Q\01_Capex
+02_OTL\01_Hard\00_1°Q\02_Ebitda\01_RB
+02_OTL\01_Hard\00_1°Q\02_Ebitda\02_MB\0_Check MB ORC (error)
+02_OTL\01_Hard\00_1°Q\02_Ebitda\02_MB
+02_OTL\01_Hard\00_1°Q\02_Ebitda\03_Gastos\01_Inputs ÁReas
+02_OTL\01_Hard\00_1°Q\02_Ebitda\03_Gastos\02_Gastos Presenciales r29
+02_OTL\01_Hard\00_1°Q\02_Ebitda\03_Gastos
+02_OTL\01_Hard\00_1°Q\02_Ebitda\04_FX
+02_OTL\01_Hard\00_1°Q\02_Ebitda
+02_OTL\01_Hard\00_1°Q\03_BP
+02_OTL\01_Hard\00_1°Q
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\01_RB
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\02_MB
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\03_Gastos
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\04_FX
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\05_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\05_FNH\02_Rev Sinergias
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\05_FNH\03_Forecast
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\05_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\00_Carpetas\02_Ebitda\05_FNH
+02_OTL\01_Hard\00_Carpetas\02_Ebitda
+02_OTL\01_Hard\00_Carpetas\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\00_Carpetas\03_FCF\02_Input Areas
+02_OTL\01_Hard\00_Carpetas\03_FCF
+02_OTL\01_Hard\00_Carpetas
+02_OTL\01_Hard\01_Enero\02_Ebitda\01_RB
+02_OTL\01_Hard\01_Enero\02_Ebitda\02_MB
+02_OTL\01_Hard\01_Enero\02_Ebitda\03_Gastos\00_OTLs ajustados
+02_OTL\01_Hard\01_Enero\02_Ebitda\03_Gastos
+02_OTL\01_Hard\01_Enero\02_Ebitda\04_FX
+02_OTL\01_Hard\01_Enero\02_Ebitda\05_3 Escenarios 2021\01_RB
+02_OTL\01_Hard\01_Enero\02_Ebitda\05_3 Escenarios 2021\02_MB
+02_OTL\01_Hard\01_Enero\02_Ebitda\05_3 Escenarios 2021\03_Ebitda sin FX
+02_OTL\01_Hard\01_Enero\02_Ebitda\05_3 Escenarios 2021
+02_OTL\01_Hard\01_Enero\02_Ebitda\06_Justificación Rentabilidad
+02_OTL\01_Hard\01_Enero\02_Ebitda\07_Riesgos y Oportunidades
+02_OTL\01_Hard\01_Enero\02_Ebitda
+02_OTL\01_Hard\01_Enero\03_FCF\01_Input SAP
+02_OTL\01_Hard\01_Enero\03_FCF
+02_OTL\01_Hard\01_Enero
+02_OTL\01_Hard\02_Febrero\02_Ebitda\01_RB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\02_MB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\04_FX
+02_OTL\01_Hard\02_Febrero\02_Ebitda\05_3 escenarios 2021\01_RB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\05_3 escenarios 2021\02_MB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\05_3 escenarios 2021
+02_OTL\01_Hard\02_Febrero\02_Ebitda\06_Ajuste OTL\01_RB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\06_Ajuste OTL\02_MB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\06_Ajuste OTL\03_Gastos
+02_OTL\01_Hard\02_Febrero\02_Ebitda\06_Ajuste OTL
+02_OTL\01_Hard\02_Febrero\03_FCF\01_Base Solicitud Areas
+02_OTL\01_Hard\02_Febrero\03_FCF\01_SAP
+02_OTL\01_Hard\02_Febrero\03_FCF
+02_OTL\01_Hard\03_Marzo\02_Ebitda\01_RB
+02_OTL\01_Hard\03_Marzo\02_Ebitda\02_MB
+02_OTL\01_Hard\03_Marzo\02_Ebitda\04_FX
+02_OTL\01_Hard\03_Marzo\02_Ebitda\05_Retail
+02_OTL\01_Hard\03_Marzo\02_Ebitda\06_Orden Reserva
+02_OTL\01_Hard\03_Marzo\02_Ebitda\07_sinergias
+02_OTL\01_Hard\03_Marzo\03_FCF\02_SAP
+02_OTL\01_Hard\03_Marzo\03_FCF
+02_OTL\01_Hard\04_Abril\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\04_Abril\03_FCF\02_Input Areas
+02_OTL\01_Hard\04_Abril\03_FCF
+02_OTL\01_Hard\05_Mayo\02_Ebitda\01_RB
+02_OTL\01_Hard\05_Mayo\02_Ebitda\02_MB
+02_OTL\01_Hard\05_Mayo\02_Ebitda\03_Gastos\Input
+02_OTL\01_Hard\05_Mayo\02_Ebitda\03_Gastos
+02_OTL\01_Hard\05_Mayo\02_Ebitda\04_FX
+02_OTL\01_Hard\05_Mayo\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\05_Mayo\02_Ebitda\06_FNH\01_Template NS y Pedidos
+02_OTL\01_Hard\05_Mayo\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\05_Mayo\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\05_Mayo\02_Ebitda\06_FNH\04_Riesgos y OPortunidades
+02_OTL\01_Hard\05_Mayo\02_Ebitda\06_FNH
+02_OTL\01_Hard\05_Mayo\02_Ebitda\07_Previas
+02_OTL\01_Hard\05_Mayo\02_Ebitda\08_Comparativo Escenarios\01_RB
+02_OTL\01_Hard\05_Mayo\02_Ebitda\08_Comparativo Escenarios\02_MB
+02_OTL\01_Hard\05_Mayo\02_Ebitda\08_Comparativo Escenarios\03_Gastos
+02_OTL\01_Hard\05_Mayo\02_Ebitda\08_Comparativo Escenarios
+02_OTL\01_Hard\05_Mayo\02_Ebitda
+02_OTL\01_Hard\05_Mayo\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\05_Mayo\03_FCF\02_Input Areas
+02_OTL\01_Hard\05_Mayo\03_FCF\Nueva carpeta
+02_OTL\01_Hard\05_Mayo\03_FCF
+02_OTL\01_Hard\05_Mayo
+02_OTL\01_Hard\06_Junio\02_Ebitda\01_RB
+02_OTL\01_Hard\02_Febrero\02_Ebitda\03_Gastos\01_Input Areas
+02_OTL\01_Hard\02_Febrero\02_Ebitda\03_Gastos
+02_OTL\01_Hard\02_Febrero\02_Ebitda
+02_OTL\01_Hard\02_Febrero
+02_OTL\01_Hard\03_Marzo\02_Ebitda\03_Gastos\00_Inputs
+02_OTL\01_Hard\03_Marzo\02_Ebitda\03_Gastos
+02_OTL\01_Hard\03_Marzo\02_Ebitda
+02_OTL\01_Hard\03_Marzo
+02_OTL\01_Hard\04_Abril\02_Ebitda\01_RB
+02_OTL\01_Hard\04_Abril\02_Ebitda\02_MB
+02_OTL\01_Hard\04_Abril\02_Ebitda\03_Gastos
+02_OTL\01_Hard\04_Abril\02_Ebitda\04_FX
+02_OTL\01_Hard\04_Abril\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\04_Abril\02_Ebitda\06_FNH
+02_OTL\01_Hard\04_Abril\02_Ebitda\07_Perdida Rentabilidad
+02_OTL\01_Hard\04_Abril\02_Ebitda\08_Comparativo Escenarios\01_RB
+02_OTL\01_Hard\04_Abril\02_Ebitda\08_Comparativo Escenarios\02_MB
+02_OTL\01_Hard\04_Abril\02_Ebitda\08_Comparativo Escenarios\03_Gastos
+02_OTL\01_Hard\04_Abril\02_Ebitda\08_Comparativo Escenarios
+02_OTL\01_Hard\04_Abril\02_Ebitda\09_Proyeccion
+02_OTL\01_Hard\04_Abril\02_Ebitda\10_Variación 1°Q vs 2°Q
+02_OTL\01_Hard\04_Abril\02_Ebitda
+02_OTL\01_Hard\04_Abril
+02_OTL\01_Hard\06_Junio\02_Ebitda\02_MB
+02_OTL\01_Hard\06_Junio\02_Ebitda\03_Gastos\01_Input
+02_OTL\01_Hard\06_Junio\02_Ebitda\03_Gastos\02_CTA
+02_OTL\01_Hard\06_Junio\02_Ebitda\03_Gastos
+02_OTL\01_Hard\06_Junio\02_Ebitda\04_FX
+02_OTL\01_Hard\06_Junio\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\06_Junio\02_Ebitda\06_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\06_Junio\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\06_Junio\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\06_Junio\02_Ebitda\06_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\06_Junio\02_Ebitda\06_FNH
+02_OTL\01_Hard\06_Junio\02_Ebitda\07_Escenarios\RB
+02_OTL\01_Hard\06_Junio\02_Ebitda\07_Escenarios
+02_OTL\01_Hard\06_Junio\02_Ebitda\08_Proyección Cierre
+02_OTL\01_Hard\06_Junio\02_Ebitda
+02_OTL\01_Hard\06_Junio\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\06_Junio\03_FCF\02_Input Areas
+02_OTL\01_Hard\06_Junio\03_FCF
+02_OTL\01_Hard\06_Junio
+02_OTL\01_Hard\07_Julio\02_Ebitda\01_RB
+02_OTL\01_Hard\07_Julio\02_Ebitda\02_MB
+02_OTL\01_Hard\07_Julio\02_Ebitda\04_FX
+02_OTL\01_Hard\07_Julio\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\07_Julio\02_Ebitda\06_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\07_Julio\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\07_Julio\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\07_Julio\02_Ebitda\06_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\07_Julio\02_Ebitda\06_FNH
+02_OTL\01_Hard\07_Julio\02_Ebitda\07_Proyección Cierre
+02_OTL\01_Hard\07_Julio\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\07_Julio\03_FCF\02_Input Areas
+02_OTL\01_Hard\07_Julio\03_FCF
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB
+02_OTL\01_Hard\08_Agosto\02_Ebitda\02_MB
+02_OTL\01_Hard\08_Agosto\02_Ebitda\03_Gastos\01_Input
+02_OTL\01_Hard\08_Agosto\02_Ebitda\03_Gastos
+02_OTL\01_Hard\08_Agosto\02_Ebitda\04_FX
+02_OTL\01_Hard\08_Agosto\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\08_Agosto\02_Ebitda\06_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\08_Agosto\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\08_Agosto\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\08_Agosto\02_Ebitda\06_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\08_Agosto\02_Ebitda\06_FNH
+02_OTL\01_Hard\08_Agosto\02_Ebitda
+02_OTL\01_Hard\08_Agosto\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\08_Agosto\03_FCF\02_Input Areas
+02_OTL\01_Hard\08_Agosto\03_FCF
+02_OTL\01_Hard\08_Agosto
+02_OTL\01_Hard\07_Julio\02_Ebitda\03_Gastos\01_Inputs
+02_OTL\01_Hard\07_Julio\02_Ebitda\03_Gastos
+02_OTL\01_Hard\07_Julio\02_Ebitda
+02_OTL\01_Hard\07_Julio
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\01_RB
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\02_MB
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\03_Gastos\01_Input\Cuadratura Retail
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\03_Gastos\01_Input
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\04_FX
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH\03_Forecast\02_Forecast
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\06_FNH
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\07_Proyección Cierre
+02_OTL\01_Hard\09_Septiembre\02_Ebitda
+02_OTL\01_Hard\09_Septiembre\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\09_Septiembre\03_FCF\02_Input Areas
+02_OTL\01_Hard\09_Septiembre\03_FCF
+02_OTL\01_Hard\09_Septiembre
+02_OTL\01_Hard\10_Octubre\02_Ebitda\01_RB
+02_OTL\01_Hard\10_Octubre\02_Ebitda\02_MB
+02_OTL\01_Hard\10_Octubre\02_Ebitda\03_Gastos\01_Input
+02_OTL\01_Hard\10_Octubre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\10_Octubre\02_Ebitda\04_FX
+02_OTL\01_Hard\10_Octubre\02_Ebitda\05_Supply Chain
+02_OTL\01_Hard\10_Octubre\02_Ebitda\06_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\10_Octubre\02_Ebitda\06_FNH\02_Rev Sinergias
+02_OTL\01_Hard\10_Octubre\02_Ebitda\06_FNH\03_Forecast
+02_OTL\01_Hard\10_Octubre\02_Ebitda\06_FNH
+02_OTL\01_Hard\10_Octubre\02_Ebitda\07_Proyección Cierre
+02_OTL\01_Hard\10_Octubre\02_Ebitda
+02_OTL\01_Hard\10_Octubre\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\10_Octubre\03_FCF\02_Input Areas
+02_OTL\01_Hard\10_Octubre\03_FCF
+02_OTL\01_Hard\10_Octubre
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\01_RB
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\02_MB
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\03_Gastos\01_Input
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\04_FX
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\05_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\05_FNH\02_Rev Sinergias
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\05_FNH\03_Forecast
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\05_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\05_FNH
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\06_Proyección de cierre
+02_OTL\01_Hard\11_Noviembre\02_Ebitda
+02_OTL\01_Hard\11_Noviembre\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\11_Noviembre\03_FCF\02_Input Areas
+02_OTL\01_Hard\11_Noviembre\03_FCF
+02_OTL\01_Hard\11_Noviembre
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\01_RB
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\02_MB
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\03_Gastos\01_Inputs
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\04_FX
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\05_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\05_FNH\02_Rev Sinergias
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\05_FNH\03_Forecast
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\05_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\05_FNH
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\06_Previa Cierre
+02_OTL\01_Hard\12_Diciembre\02_Ebitda
+02_OTL\01_Hard\12_Diciembre\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\12_Diciembre\03_FCF\02_Input Areas
+02_OTL\01_Hard\12_Diciembre\03_FCF\03_Analisis
+02_OTL\01_Hard\12_Diciembre\03_FCF
+02_OTL\01_Hard\12_Diciembre
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\01_RB
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\02_MB
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\03_Gastos
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\04_FX
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\05_FNH\01_template NS y Pedidos
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\05_FNH\02_Rev Sinergias
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\05_FNH\03_Forecast
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\05_FNH\04_Riesgos y Oportunidades
+02_OTL\01_Hard\13_CIERRE\02_Ebitda\05_FNH
+02_OTL\01_Hard\13_CIERRE\02_Ebitda
+02_OTL\01_Hard\13_CIERRE\03_FCF\01_Descarda SAP
+02_OTL\01_Hard\13_CIERRE\03_FCF\02_Input Areas
+02_OTL\01_Hard\13_CIERRE\03_FCF
+02_OTL\01_Hard\13_CIERRE
+02_OTL\01_Hard\14_CIERRE AJUSTADO PLR
+02_OTL\01_Hard
+02_OTL\02_Sinergias
+02_OTL\03_LI
+02_OTL
+03_Cierre\00_Carpetas\01_Previa RB
+03_Cierre\00_Carpetas\02_Previa DRE
+03_Cierre\00_Carpetas\03_FX
+03_Cierre\00_Carpetas\04_Ajustes Gerenciales
+03_Cierre\00_Carpetas\05_Proyectos
+03_Cierre\00_Carpetas\06_mapeos
+03_Cierre\00_Carpetas\07_DRE CH
+03_Cierre\00_Carpetas\08_DRE Int
+03_Cierre\00_Carpetas\09_DRE Mensual
+03_Cierre\00_Carpetas\10_DRE CPV
+03_Cierre\00_Carpetas\11_FCF
+03_Cierre\00_Carpetas\12_Retail
+03_Cierre\00_Carpetas
+03_Cierre\01_Enero\01_Previa RB
+03_Cierre\01_Enero\02_Previa DRE
+03_Cierre\01_Enero\03_FX
+03_Cierre\01_Enero\04_Ajustes Gerenciales
+03_Cierre\01_Enero\04_Material Ledger
+03_Cierre\01_Enero\05_Proyectos
+03_Cierre\01_Enero\06_mapeos
+03_Cierre\01_Enero\07_DRE CH
+03_Cierre\01_Enero\08_DRE Int
+03_Cierre\01_Enero\09_DRE Mensual
+03_Cierre\01_Enero\10_DRE CPV
+03_Cierre\01_Enero\11_FCF
+03_Cierre\01_Enero
+03_Cierre\02_Febrero\01_Previa RB
+03_Cierre\02_Febrero\02_Previa DRE
+03_Cierre\02_Febrero\03_FX
+03_Cierre\02_Febrero\04_Ajustes Gerenciales
+03_Cierre\02_Febrero\05_Proyectos
+03_Cierre\02_Febrero\06_mapeos
+03_Cierre\02_Febrero\07_DRE CH
+03_Cierre\02_Febrero\08_DRE Int
+03_Cierre\02_Febrero\09_DRE Mensual
+03_Cierre\02_Febrero\10_DRE CPV
+03_Cierre\02_Febrero\11_FCF
+03_Cierre\02_Febrero\12_Cierre Retail
+03_Cierre\02_Febrero
+03_Cierre\03_Marzo\01_Previa RB
+03_Cierre\03_Marzo\02_Previa DRE
+03_Cierre\03_Marzo\03_FX
+03_Cierre\03_Marzo\04_Ajustes Gerenciales
+03_Cierre\03_Marzo\05_Proyectos
+03_Cierre\03_Marzo\06_mapeos
+03_Cierre\03_Marzo\07_DRE CH
+03_Cierre\03_Marzo\08_DRE Int
+03_Cierre\03_Marzo\09_DRE Mensual
+03_Cierre\03_Marzo\10_DRE CPV
+03_Cierre\03_Marzo\11_FCF
+03_Cierre\03_Marzo\12_Retail
+03_Cierre\03_Marzo
+03_Cierre\04_Abril\01_Previa RB
+03_Cierre\04_Abril\02_Previa DRE
+03_Cierre\04_Abril\03_FX
+03_Cierre\04_Abril\04_Ajustes Gerenciales
+03_Cierre\04_Abril\05_Proyectos
+03_Cierre\04_Abril\06_mapeos
+03_Cierre\04_Abril\07_DRE CH
+03_Cierre\04_Abril\08_DRE Int
+03_Cierre\04_Abril\09_DRE Mensual
+03_Cierre\04_Abril\10_DRE CPV
+03_Cierre\04_Abril\11_FCF
+03_Cierre\04_Abril\12_Retail
+03_Cierre\04_Abril
+03_Cierre\05_Mayo\02_Previa DRE
+03_Cierre\05_Mayo\03_FX
+03_Cierre\05_Mayo\04_Ajustes Gerenciales
+03_Cierre\05_Mayo\05_Proyectos
+03_Cierre\05_Mayo\06_mapeos
+03_Cierre\05_Mayo\07_DRE CH
+03_Cierre\05_Mayo\08_DRE Int
+03_Cierre\05_Mayo\09_DRE Mensual
+03_Cierre\05_Mayo\10_DRE CPV
+03_Cierre\05_Mayo\11_FCF
+03_Cierre\05_Mayo\12_Retail
+03_Cierre\06_Junio\01_Previa RB\Daily Report
+03_Cierre\06_Junio\01_Previa RB
+03_Cierre\06_Junio\02_Previa DRE
+03_Cierre\06_Junio\03_FX
+03_Cierre\06_Junio\04_Ajustes Gerenciales
+03_Cierre\06_Junio\05_Proyectos
+03_Cierre\06_Junio\06_mapeos
+03_Cierre\06_Junio\07_DRE CH
+03_Cierre\06_Junio\08_DRE Int
+03_Cierre\06_Junio\09_DRE Mensual
+03_Cierre\06_Junio\10_DRE CPV
+03_Cierre\06_Junio\11_FCF
+03_Cierre\06_Junio\12_Despesas
+03_Cierre\06_Junio\12_Retail
+03_Cierre\06_Junio
+03_Cierre\07_Julio\01_Previa RB
+03_Cierre\07_Julio\02_Previa DRE
+03_Cierre\07_Julio\03_FX
+03_Cierre\07_Julio\04_Ajustes Gerenciales
+03_Cierre\07_Julio\05_Proyectos
+03_Cierre\07_Julio\06_mapeos
+03_Cierre\07_Julio\07_DRE CH
+03_Cierre\07_Julio\08_DRE Int
+03_Cierre\07_Julio\09_DRE Mensual
+03_Cierre\07_Julio\10_DRE CPV
+03_Cierre\07_Julio\11_FCF
+03_Cierre\07_Julio\12_Retail
+03_Cierre\07_Julio
+03_Cierre\08_Agosto\02_Previa DRE
+03_Cierre\08_Agosto\03_FX
+03_Cierre\08_Agosto\04_Ajustes Gerenciales
+03_Cierre\08_Agosto\05_Proyectos
+03_Cierre\08_Agosto\06_mapeos
+03_Cierre\08_Agosto\01_Previa RB
+03_Cierre\08_Agosto\07_DRE CH
+03_Cierre\08_Agosto\08_DRE Int
+03_Cierre\08_Agosto\09_DRE Mensual
+03_Cierre\08_Agosto\10_DRE CPV
+03_Cierre\08_Agosto\11_FCF
+03_Cierre\08_Agosto\12_retail
+03_Cierre\08_Agosto\13_Nómina
+03_Cierre\08_Agosto
+03_Cierre\09_Septiembre\01_Previa RB
+03_Cierre\09_Septiembre\02_Previa DRE
+03_Cierre\09_Septiembre\03_FX
+03_Cierre\09_Septiembre\04_Ajustes Gerenciales
+03_Cierre\09_Septiembre\05_Proyectos
+03_Cierre\09_Septiembre\06_mapeos
+03_Cierre\09_Septiembre\07_DRE CH
+03_Cierre\09_Septiembre\08_DRE Int
+03_Cierre\09_Septiembre\09_DRE Mensual
+03_Cierre\09_Septiembre\10_DRE CPV
+03_Cierre\09_Septiembre\11_FCF
+03_Cierre\09_Septiembre\12_Retail
+03_Cierre\09_Septiembre
+03_Cierre\10_Octubre\01_Previa RB
+03_Cierre\10_Octubre\02_Previa DRE
+03_Cierre\10_Octubre\03_FX
+03_Cierre\10_Octubre\04_Ajustes Gerenciales
+03_Cierre\10_Octubre\05_Proyectos
+03_Cierre\10_Octubre\06_mapeos
+03_Cierre\10_Octubre\07_DRE CH
+03_Cierre\10_Octubre\08_DRE Int
+03_Cierre\10_Octubre\09_DRE Mensual
+03_Cierre\10_Octubre\10_DRE CPV
+03_Cierre\10_Octubre\11_FCF
+03_Cierre\10_Octubre\12_Retail
+03_Cierre\10_Octubre
+03_Cierre\11_Noviembre\01_Previa RB
+03_Cierre\11_Noviembre\02_Previa DRE
+03_Cierre\11_Noviembre\03_FX
+03_Cierre\11_Noviembre\04_Ajustes Gerenciales
+03_Cierre\11_Noviembre\05_Proyectos
+03_Cierre\11_Noviembre\06_mapeos
+03_Cierre\11_Noviembre\07_DRE CH
+03_Cierre\11_Noviembre\08_DRE Int
+03_Cierre\11_Noviembre\09_DRE Mensual
+03_Cierre\11_Noviembre\10_DRE CPV
+03_Cierre\11_Noviembre\11_FCF
+03_Cierre\11_Noviembre\12_Retail
+03_Cierre\11_Noviembre\13_Varios
+03_Cierre\11_Noviembre
+03_Cierre\12_Diciembre\01_Previa RB
+03_Cierre\12_Diciembre\02_Previa DRE\01_Justificaciones
+03_Cierre\12_Diciembre\02_Previa DRE
+03_Cierre\12_Diciembre\03_FX
+03_Cierre\12_Diciembre\04_Ajustes Gerenciales
+03_Cierre\12_Diciembre\05_Proyectos
+03_Cierre\12_Diciembre\06_mapeos
+03_Cierre\12_Diciembre\07_DRE CH
+03_Cierre\12_Diciembre\08_DRE Int
+03_Cierre\12_Diciembre\09_DRE Mensual
+03_Cierre\12_Diciembre\10_DRE CPV
+03_Cierre\12_Diciembre\11_FCF
+03_Cierre\12_Diciembre\12_Retail
+03_Cierre\12_Diciembre
+03_Cierre\13_Cierre Corregido
+03_Cierre\DEFINICION CTA
+04_Gestion\00_Carpetas\01_Bridge
+04_Gestion\00_Carpetas\02_MB
+04_Gestion\00_Carpetas\03_Perdida
+04_Gestion\00_Carpetas\04_PPT
+04_Gestion\00_Carpetas\05_Gastos
+04_Gestion\00_Carpetas
+04_Gestion\00_Cierres PL Ventas
+04_Gestion\00_Costo Padron
+04_Gestion\00_Material Ledger
+04_Gestion\00_Mercadologico
+04_Gestion\01_Enero\01_Bridge RB
+04_Gestion\01_Enero\02_MB\01_Bases CMV
+04_Gestion\01_Enero\02_MB\02_Análisis para CMV
+04_Gestion\01_Enero\02_MB
+04_Gestion\01_Enero\03_Perdida
+04_Gestion\01_Enero\04_PPT
+04_Gestion\01_Enero
+04_Gestion\02_Febrero\02_MB\00_ML
+04_Gestion\02_Febrero\02_MB\01_Bases CMV
+04_Gestion\02_Febrero\02_MB\02_Analisis para CMV
+04_Gestion\02_Febrero\02_MB
+04_Gestion\02_Febrero\03_Perdida
+04_Gestion\02_Febrero\04_PPT
+04_Gestion\03_Marzo\01_Bridge RB
+04_Gestion\03_Marzo\02_MB
+04_Gestion\03_Marzo\03_Perdida
+04_Gestion\03_Marzo\04_PPT
+04_Gestion\03_Marzo\05_Gastos
+04_Gestion\03_Marzo
+04_Gestion\04_Abril\01_Bridge
+04_Gestion\04_Abril\02_MB
+04_Gestion\04_Abril\03_Perdida
+04_Gestion\04_Abril\04_PPT
+04_Gestion\04_Abril\05_Gastos
+04_Gestion\04_Abril\06_MKT Share
+04_Gestion\04_Abril
+04_Gestion\05_Mayo\01_Bridge
+04_Gestion\05_Mayo\02_MB
+04_Gestion\05_Mayo\03_Perdida
+04_Gestion\05_Mayo\04_PPT\Material ARF_r01
+04_Gestion\05_Mayo\04_PPT
+04_Gestion\05_Mayo\05_Gastos
+04_Gestion\05_Mayo
+04_Gestion\06_Junio\01_Bridge
+04_Gestion\06_Junio\02_MB
+04_Gestion\06_Junio\03_Perdida
+04_Gestion\06_Junio\04_PPT
+04_Gestion\06_Junio\05_Gastos
+04_Gestion\06_Junio
+04_Gestion\07_Julio\01_Bridge
+04_Gestion\07_Julio\02_MB
+04_Gestion\07_Julio\03_Perdida
+04_Gestion\07_Julio\04_PPT
+04_Gestion\07_Julio\05_Gastos
+04_Gestion\07_Julio
+04_Gestion\08_Agosto\01_Bridge
+04_Gestion\08_Agosto\02_MB
+04_Gestion\08_Agosto\03_Perdida
+04_Gestion\08_Agosto\04_PPT
+04_Gestion\08_Agosto\05_Gastos
+04_Gestion\08_Agosto
+04_Gestion\09_Septiembre\01_Bridge
+04_Gestion\09_Septiembre\02_MB
+04_Gestion\09_Septiembre\03_Perdida
+04_Gestion\09_Septiembre\04_PPT
+04_Gestion\09_Septiembre\05_Gastos
+04_Gestion\09_Septiembre
+04_Gestion\10_Octubre\01_Bridge
+04_Gestion\10_Octubre\02_MB
+04_Gestion\10_Octubre\03_Perdida
+04_Gestion\10_Octubre\04_PPT
+04_Gestion\10_Octubre\05_Gastos
+04_Gestion\10_Octubre
+04_Gestion\11_Noviembre\01_Bridge
+04_Gestion\11_Noviembre\02_MB
+04_Gestion\11_Noviembre\03_Perdida
+04_Gestion\11_Noviembre\04_PPT
+04_Gestion\11_Noviembre\05_Gastos
+04_Gestion\11_Noviembre
+04_Gestion\12_Diciembre
+06_Retail\Reportes Globales
+06_Retail
+07_Bussines Rev
+08_Proyectos Capex
+09_WKs 1°Q\01_Archivos Áreas
+09_WKs 1°Q\02_Archivos Recibidos
+09_WKs 1°Q\02_Control Reservas
+09_WKs 1°Q\03_Comunicación
+09_WKs 1°Q\04_Control x Q
+09_WKs 1°Q\05_Archivos Control x Q
+09_WKs 1°Q\06_Analisis Control Iniciativas
+09_WKs 1°Q
+10_Poderes Bancarios
+11_Polizas-Contratos
+12_MKT Share
+13_Equipo
+14_Retail\Centralizacion
+14_Retail
+04_Gestion\02_Febrero\01_RB
+04_Gestion\02_Febrero
+04_Gestion
+03_Cierre\05_Mayo\01_Previa RB
+03_Cierre\05_Mayo
+03_Cierre
+__RAIZ_COMPLETA__

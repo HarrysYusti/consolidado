@@ -1,0 +1,545 @@
+01_ORC\00_ORC CMV
+01_ORC\2019 IFRS
+01_ORC\ORC SAP
+01_ORC\RO IFRS 2020
+01_ORC
+02_OTL\01_Hard\01_Enero\00_Calendario
+02_OTL\01_Hard\01_Enero\01_Capex
+02_OTL\01_Hard\01_Enero\02_Ebitda\01_RB VD
+02_OTL\01_Hard\01_Enero\02_Ebitda\02_MB VD
+02_OTL\01_Hard\01_Enero\02_Ebitda\03_FX
+02_OTL\01_Hard\01_Enero\02_Ebitda\04_Gastos
+02_OTL\01_Hard\01_Enero\02_Ebitda
+02_OTL\01_Hard\01_Enero\03_FCF
+02_OTL\01_Hard\01_Enero
+02_OTL\01_Hard\02_Febrero
+02_OTL\01_Hard\03_Marzo\01_Capex
+02_OTL\01_Hard\03_Marzo\02_Ebitda\01_RB VD
+02_OTL\01_Hard\03_Marzo\02_Ebitda\02_MB VD
+02_OTL\01_Hard\03_Marzo\02_Ebitda\03_Fx
+02_OTL\01_Hard\03_Marzo\02_Ebitda\04_Gastos
+02_OTL\01_Hard\03_Marzo\02_Ebitda
+02_OTL\01_Hard\03_Marzo\03_BP\Base SAP
+02_OTL\01_Hard\03_Marzo\03_BP
+02_OTL\01_Hard\03_Marzo\04_Impacto Covid-19\1° Reporte
+02_OTL\01_Hard\03_Marzo\04_Impacto Covid-19\2° Reporte
+02_OTL\01_Hard\03_Marzo\04_Impacto Covid-19
+02_OTL\01_Hard\03_Marzo\05_FCF Br\Sem14
+02_OTL\01_Hard\03_Marzo\05_FCF Br
+02_OTL\01_Hard\03_Marzo
+02_OTL\01_Hard\04_Abril\00_Covid CH - Sem13\02_Ebitda
+02_OTL\01_Hard\04_Abril\00_Covid CH - Sem13
+02_OTL\01_Hard\04_Abril\00_Covid TD - Sem13\02_Ebitda
+02_OTL\01_Hard\04_Abril\00_Covid TD - Sem13
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\01_RB VD
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\02_MB VD
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\03_Fx
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\04_Gastos\Inputs Áreas\Correos
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\04_Gastos\Inputs Áreas
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\04_Gastos
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\05_O&L
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda\10_Retorno Latam
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\01_Ebitda
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14\04_FCF
+02_OTL\01_Hard\04_Abril\01_OTL Hard -Sem14
+02_OTL\01_Hard\04_Abril\02_OTL Hard - Sem15\02_Ebitda\01_Gastos
+02_OTL\01_Hard\04_Abril\02_OTL Hard - Sem15\02_Ebitda
+02_OTL\01_Hard\04_Abril\02_OTL Hard - Sem15\03_BP
+02_OTL\01_Hard\04_Abril\02_OTL Hard - Sem15
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\01_RB VD
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\02_MB VD
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\03_Gastos\01_Inputs Areas
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\03_Gastos
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\04_Iniciativas Covid\Inputs
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\04_Iniciativas Covid
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\05_Fx
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda\06_PPT
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\02_Ebitda
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\03_BP\01_Bases
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\03_BP\02_Inputs Areas
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\03_BP\03_Base Latam
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\03_BP
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16\04_FCF
+02_OTL\01_Hard\04_Abril\03_OTL Hard - Sem16
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda\01_RB VD
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda\02_MB VD
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda\03_ Gastos\Inputs
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda\03_ Gastos
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\03_BP
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\04_FCF
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\01_RB
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\02_MB
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\03_Gastos\Inputs
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\03_Gastos
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\04_Fx
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda\05_Mon Latam
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\02_Ebitda
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\03_BP
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18\04_FCF
+02_OTL\01_Hard\04_Abril\05_OTL Hard - Sem18
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda\04_Fx
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17\02_Ebitda
+02_OTL\01_Hard\04_Abril\04_OTL Hard - Sem17
+02_OTL\01_Hard\04_Abril
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\01_RB VD
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\02_MB VD
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\03_Gastos\Inputs
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\03_Gastos\OTL Mayo 2020
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\03_Gastos
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\04_FX
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda\05_Monitoreo Latam
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\02_Ebitda
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\03_BP\Inputs
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\03_BP
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19\04_FCF
+02_OTL\01_Hard\05_Mayo\01_OTL Hard - Sem19
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\01_RB VD
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\02_MB VD\REvisión Mercadologica
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\02_MB VD
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\03_Gastos\Input
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\03_Gastos
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\04_FX
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\05_Ejercicio FX Pre Covid
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\06_Monitoreo RB Latam
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda\07_Impactos Abril
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\02_Ebitda
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\03_BP\01_Inputs SAP
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\03_BP\02_Inputs Areas
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\03_BP
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20\04_FCF
+02_OTL\01_Hard\05_Mayo\02_OTL Hard - Sem20
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda\01_RB VD
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda\02_MB VD
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda\03_Gastos
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda\04_FX
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda\05_Monitoreo Latam
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21\02_Ebitda
+02_OTL\01_Hard\05_Mayo\03_OTL Hard - Sem21
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\02_MB VD\01_Revisión Costos Mercadologico
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\02_MB VD
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\03_Gastos
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\04_FX
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\05_Monitoreo Latam
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\04_FCF
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\01_RB VD\Daniel Check
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\02_MB VD
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\01_RB VD\Otra
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda\01_RB VD
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22\02_Ebitda
+02_OTL\01_Hard\05_Mayo\04_OTL Hard - Sem22
+02_OTL\01_Hard\05_Mayo
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\01_RB VD\Analisis RB
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\01_RB VD
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\03_Gastos\OTL Mayo 2020
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\03_Gastos
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\04_FX
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\05_Monitoreo Latam
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda\OFF
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\02_Ebitda
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\03_BP\00_Base
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\03_BP\01_Inputs SAP
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\03_BP\02_Inputs Áreas
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\03_BP
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\04_FCF
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24\05_Impactos Covid Mayo
+02_OTL\01_Hard\06_Junio\01_OTL Hard - Sem24
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26\02_Ebitda\01_RB VD\Off
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26\02_Ebitda\01_RB VD
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26\02_Ebitda\02_MB VD
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26\02_Ebitda\03_Gastos
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26\02_Ebitda
+02_OTL\01_Hard\06_Junio\02_OTL Hard - Sem26
+02_OTL\01_Hard\06_Junio
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\01_RB VD\Off
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\01_RB VD
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\02_MB VD
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\03_Gastos
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\04_Fx
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda\Off
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\02_Ebitda
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27\04_FCF
+02_OTL\01_Hard\07_Julio\01_OTL Hard - Sem27
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\01_RB VD
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\02_MB VD
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\03_Gastos\01_OTL Julio 2020
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\03_Gastos\02_Bases Gastos
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\03_Gastos
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\04_FX
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda\05_Monitoreo Covid
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\01_Ebitda
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\02_BP\01_Input SAP
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\02_BP\02_Input Areas
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\02_BP\03_Book Previa
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\02_BP
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28\03_FCF
+02_OTL\01_Hard\07_Julio\02_OTL Hard - Sem28
+02_OTL\01_Hard\07_Julio\03_OTL Hard - Sem30\03_Gastos
+02_OTL\01_Hard\07_Julio\03_OTL Hard - Sem30
+02_OTL\01_Hard\07_Julio
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB\01_Sem30
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB\02_Sem31\Respaldo Realista
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB\02_Sem31
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB\03_Sem32
+02_OTL\01_Hard\08_Agosto\02_Ebitda\01_RB
+02_OTL\01_Hard\08_Agosto\02_Ebitda\02_MB
+02_OTL\01_Hard\08_Agosto\02_Ebitda\03_Gastos
+02_OTL\01_Hard\08_Agosto\02_Ebitda\04_FX
+02_OTL\01_Hard\08_Agosto\02_Ebitda
+02_OTL\01_Hard\08_Agosto\03_BP\01_Input SAP
+02_OTL\01_Hard\08_Agosto\03_BP\02_Input Areas
+02_OTL\01_Hard\08_Agosto\03_BP
+02_OTL\01_Hard\08_Agosto\04_FCF
+02_OTL\01_Hard\08_Agosto
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\01_RB
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\02_MB
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\03_Gastos\01_Input Áreas
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\04_Fx
+02_OTL\01_Hard\09_Septiembre\02_Ebitda\05_Impactos Covid
+02_OTL\01_Hard\09_Septiembre\02_Ebitda
+02_OTL\01_Hard\09_Septiembre\03_BP\01_Input Áreas
+02_OTL\01_Hard\09_Septiembre\03_BP\01_Input SAP
+02_OTL\01_Hard\09_Septiembre\03_BP\03_Gastos
+02_OTL\01_Hard\09_Septiembre\03_BP\04_Ingresos
+02_OTL\01_Hard\09_Septiembre\03_BP
+02_OTL\01_Hard\09_Septiembre
+02_OTL\01_Hard\10_Octubre\02_Ebitda\01_RB
+02_OTL\01_Hard\10_Octubre\02_Ebitda\02_MB
+02_OTL\01_Hard\10_Octubre\02_Ebitda\03_Gastos\OTL Octubre
+02_OTL\01_Hard\10_Octubre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\10_Octubre\02_Ebitda\04_FX
+02_OTL\01_Hard\10_Octubre\02_Ebitda\05_Ej Optimista\02_MB
+02_OTL\01_Hard\10_Octubre\02_Ebitda\05_Ej Optimista\03_Gastos
+02_OTL\01_Hard\10_Octubre\02_Ebitda\05_Ej Optimista\04_Gastos adicionales
+02_OTL\01_Hard\10_Octubre\02_Ebitda\06_Impactos COVID
+02_OTL\01_Hard\10_Octubre\02_Ebitda\07_Adicional OIs
+02_OTL\01_Hard\10_Octubre\03_BP\01_Input SAP
+02_OTL\01_Hard\10_Octubre\03_BP\02_Input Areas
+02_OTL\01_Hard\10_Octubre\03_BP\03_Gastos
+02_OTL\01_Hard\10_Octubre\03_BP\04_Ingresos
+02_OTL\01_Hard\10_Octubre\03_BP
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\01_RB
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\02_MB
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\03_Gastos\Adelantos 2021
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\03_Gastos\OTL Noviembre
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\11_Noviembre\02_Ebitda\04_FX
+02_OTL\01_Hard\11_Noviembre\02_Ebitda
+02_OTL\01_Hard\11_Noviembre\03_BP\01_Input SAP
+02_OTL\01_Hard\11_Noviembre\03_BP\02_Input Areas
+02_OTL\01_Hard\11_Noviembre\03_BP\03_Gastos
+02_OTL\01_Hard\11_Noviembre\03_BP\04_Ingresos
+02_OTL\01_Hard\11_Noviembre\03_BP
+02_OTL\01_Hard\11_Noviembre
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\01_RB
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\02_MB
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\03_Gastos\01_OTLs recibidos
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\03_Gastos\02_Renting
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\03_Gastos
+02_OTL\01_Hard\12_Diciembre\02_Ebitda\04_FX
+02_OTL\01_Hard\12_Diciembre\02_Ebitda
+02_OTL\01_Hard\12_Diciembre\03_BP\01_Input SAP
+02_OTL\01_Hard\12_Diciembre\03_BP\02_Input Areas
+02_OTL\01_Hard\12_Diciembre\03_BP\03_Gastos
+02_OTL\01_Hard\12_Diciembre\03_BP\04_Ingresos
+02_OTL\01_Hard\12_Diciembre\03_BP
+02_OTL\01_Hard\12_Diciembre
+02_OTL\02_Soft\Sem04
+02_OTL\02_Soft\Sem05\Bases
+02_OTL\02_Soft\Sem05
+02_OTL\02_Soft\Sem08
+02_OTL\02_Soft\Sem09
+02_OTL\02_Soft\Sem11
+02_OTL\02_Soft\Sem12 - martes
+02_OTL\02_Soft\Sem12 - miercoles
+02_OTL\02_Soft\Sem13\Rev Daniel
+02_OTL\02_Soft\Sem13
+02_OTL\02_Soft\Sem14 - FCF
+02_OTL\02_Soft
+02_OTL\03_Mon BR Covid\00_Construcción\00_Bases
+02_OTL\03_Mon BR Covid\00_Construcción\01_Pre Covid
+02_OTL\03_Mon BR Covid\00_Construcción\02_Covid Moderado
+02_OTL\03_Mon BR Covid\00_Construcción
+02_OTL\03_Mon BR Covid\15_2020\06-04-2020
+02_OTL\03_Mon BR Covid\15_2020\08-04-2020
+02_OTL\03_Mon BR Covid\15_2020
+02_OTL\03_Mon BR Covid\16_2020\13 04 2020
+02_OTL\03_Mon BR Covid\16_2020\17 04 2020
+02_OTL\03_Mon BR Covid\16_2020
+02_OTL\03_Mon BR Covid\17_2020\20 04 2020
+02_OTL\03_Mon BR Covid\17_2020\22 04 2020
+02_OTL\03_Mon BR Covid\17_2020
+02_OTL\03_Mon BR Covid\18_2020
+02_OTL\03_Mon BR Covid
+03_Real\00_Carpetas\01_Previa RB
+03_Real\00_Carpetas\02_Previa DRE
+03_Real\00_Carpetas\03_FX
+03_Real\00_Carpetas\04_Ajustes Gerenciales
+03_Real\00_Carpetas\05_Proyectos
+03_Real\00_Carpetas\06_mapeos
+03_Real\00_Carpetas\07_DRE CH
+03_Real\00_Carpetas\08_DRE Int
+03_Real\00_Carpetas\09_DRE Mensual
+03_Real\00_Carpetas\10_DRE CPV
+03_Real\00_Carpetas\11_FCF
+03_Real\00_Carpetas
+03_Real\01_Enero\00_Ajuste Mapa DRE4
+03_Real\01_Enero\01_Ajustes Gerenciales
+03_Real\01_Enero\02_Previa DRE
+03_Real\01_Enero\03_DRE
+03_Real\01_Enero\04_DRE Internacional\Nueva carpeta
+03_Real\01_Enero\04_DRE Internacional
+03_Real\01_Enero\05_Pago Proveedores
+03_Real\01_Enero\06_FX
+03_Real\01_Enero\07_Gastos\Mapa de Gastos Final
+03_Real\01_Enero\07_Gastos
+03_Real\01_Enero\08_FCF
+03_Real\02_Febrero\00_Mapa DRe4\Auditoria Mapa DRE4
+03_Real\02_Febrero\00_Mapa DRe4
+03_Real\02_Febrero\01_Ajustes Gerenciales
+03_Real\02_Febrero\01_Fx Real
+03_Real\02_Febrero\01_Previa DRE
+03_Real\02_Febrero\01_Previa RB
+03_Real\02_Febrero\01_Proyectos
+03_Real\02_Febrero\02_DRE
+03_Real\02_Febrero\03_DRE Internacional
+03_Real\02_Febrero\04_FCF
+03_Real\02_Febrero
+03_Real\03_Marzo\00_Previa RB
+03_Real\03_Marzo\01_Pago Proveedores
+03_Real\03_Marzo\02_FX
+03_Real\03_Marzo\03_Ajustes Gerenciales
+03_Real\03_Marzo\04_Gastos Cierre
+03_Real\03_Marzo\05_Mapa DRE
+03_Real\03_Marzo\06_DRE CH
+03_Real\03_Marzo\07_Nómina 1°T
+03_Real\03_Marzo\08_DRE Mensual_Sem11
+03_Real\03_Marzo\08_DRE Mensual_Sem13
+03_Real\03_Marzo\09_DRE Int_SEm11
+03_Real\03_Marzo\09_DRE Int_Sem13
+03_Real\03_Marzo\10_FCF
+03_Real\03_Marzo
+03_Real\04_Abril\01_Previa RB VD
+03_Real\04_Abril\02_Previa DRE
+03_Real\04_Abril\03_FX
+03_Real\04_Abril\04_Ajustes Gerenciales
+03_Real\04_Abril\05_Gastos
+03_Real\04_Abril\05_Proyectos
+03_Real\04_Abril\06_Mapeos
+03_Real\04_Abril\07_DRE CH
+03_Real\04_Abril\09_DRE Mensual
+03_Real\04_Abril\10_DRE CPV
+03_Real\04_Abril\11_FCF
+03_Real\05_Mayo\01_Previa RB
+03_Real\05_Mayo\02_Previa DRE
+03_Real\05_Mayo\03_FX
+03_Real\05_Mayo\04_Ajustes Gerenciales
+03_Real\05_Mayo\05_Proyectos
+03_Real\05_Mayo\06_Mapeos
+03_Real\05_Mayo\07_DRE CH
+03_Real\05_Mayo\08_DRE Int
+03_Real\05_Mayo\09_DRE Mensual
+03_Real\05_Mayo\10_DRE CPV
+03_Real\05_Mayo\11_FCF
+03_Real\05_Mayo
+03_Real\06_Junio\01_Previa RB\Off
+03_Real\06_Junio\01_Previa RB
+03_Real\06_Junio\02_previa DRE
+03_Real\06_Junio\03_FX
+03_Real\06_Junio\04_Ajustes Gerenciales
+03_Real\06_Junio\05_Proyectos
+03_Real\06_Junio\06_DRE CH
+03_Real\06_Junio\07_DRE CPV
+03_Real\06_Junio\08_DRE Int
+03_Real\06_Junio\09_Book BP
+03_Real\06_Junio\10_DRE Mes
+03_Real\06_Junio\11_FCF
+03_Real\06_Junio\12_Nómina
+03_Real\06_Junio
+03_Real\07_Julio\01_Previa RB
+03_Real\07_Julio\02_Previa DRE
+03_Real\07_Julio\03_FX
+03_Real\07_Julio\04_Ajustes Gerenciales
+03_Real\07_Julio\05_Proyectos
+03_Real\07_Julio\06_Mapeos
+03_Real\07_Julio\07_DRE CH
+03_Real\07_Julio\08_DRE Int
+03_Real\07_Julio\09_DRE Mensual
+03_Real\07_Julio\10_DRE CPV
+03_Real\08_Agosto\01_Previa RB
+03_Real\08_Agosto\02_Previa DRE
+03_Real\08_Agosto\03_Fx
+03_Real\08_Agosto\04_Ajustes Gerenciales
+03_Real\08_Agosto\05_Proyectos
+03_Real\08_Agosto\06_Mapeos
+03_Real\08_Agosto\07_DRE CH
+03_Real\08_Agosto\08_DRE Int
+03_Real\08_Agosto\09_DRE Mensual
+03_Real\08_Agosto\10_DRE CPV
+03_Real\08_Agosto\11_FCF
+03_Real\08_Agosto
+03_Real\09_Septiembre\01_Previa RB
+03_Real\09_Septiembre\02_Previa DRE
+03_Real\09_Septiembre\03_FX
+03_Real\09_Septiembre\04_Ajustes Gerenciales
+03_Real\09_Septiembre\05_Proyectos
+03_Real\09_Septiembre\06_Mapeos
+03_Real\09_Septiembre\07_DRE CH
+03_Real\09_Septiembre\08_DRE Int
+03_Real\09_Septiembre\09_DRE Mensual
+03_Real\09_Septiembre\10_DRE CPV
+03_Real\09_Septiembre\11_FCF
+03_Real\09_Septiembre\12_Nomina
+03_Real\09_Septiembre
+03_Real\10_Octubre\01_Previa
+03_Real\10_Octubre\03_FX
+03_Real\10_Octubre\04_Ajustes Gerenciales
+03_Real\10_Octubre\05_Proyectos
+03_Real\10_Octubre\07_DRE Ch
+03_Real\10_Octubre\08_DRE Int
+03_Real\10_Octubre\09_DRE Mensual
+03_Real\10_Octubre\11_FCF
+03_Real\10_Octubre
+03_Real\11_Noviembre\01_Previa RB
+03_Real\11_Noviembre\02_Previa DRE
+03_Real\11_Noviembre\03_FX
+03_Real\11_Noviembre\04_Ajustes Gerenciales
+03_Real\11_Noviembre\05_Proyectos
+03_Real\11_Noviembre\06_mapeos
+03_Real\11_Noviembre\07_DRE CH
+03_Real\11_Noviembre\08_DRE Int
+03_Real\11_Noviembre\09_DRE Mensual
+03_Real\11_Noviembre\10_DRE CPV
+03_Real\11_Noviembre\11_FCF
+03_Real\11_Noviembre
+03_Real\12_Diciembre\01_Previa RB
+03_Real\12_Diciembre\02_Previa DRE
+03_Real\12_Diciembre\03_Fx
+03_Real\12_Diciembre\04_Ajustes Gerenciales
+03_Real\12_Diciembre\05_Proyectos
+03_Real\12_Diciembre\06_mapeos
+03_Real\12_Diciembre\07_DRE CH
+03_Real\12_Diciembre\08_DRE Int
+03_Real\12_Diciembre\09_DRE Mensual
+03_Real\12_Diciembre\10_DRE CPV
+03_Real\12_Diciembre\11_FCF
+03_Real\12_Diciembre\12_Nomina
+03_Real\12_Diciembre\13_DRE CH corregido
+03_Real\12_Diciembre
+03_Real\Viajes
+04_Cierre\01_Enero\01_Bridge RB
+04_Cierre\01_Enero\02_MB\01_Bases
+04_Cierre\01_Enero\02_MB\02_Análisis para CMV
+04_Cierre\01_Enero\02_MB\03_Cierre MB Mercadologico
+04_Cierre\01_Enero\02_MB
+04_Cierre\01_Enero\03_Perdida
+04_Cierre\01_Enero\04_PPT
+04_Cierre\01_Enero
+04_Cierre\02_Febrero\01_Bridge RB
+04_Cierre\02_Febrero\02_MB\01_Bases
+04_Cierre\02_Febrero\02_MB\02_Análisis para CMV
+04_Cierre\02_Febrero\02_MB\03_Cierre MB Mercadologico
+04_Cierre\02_Febrero\02_MB
+04_Cierre\02_Febrero\03_Perdida
+04_Cierre\02_Febrero\04_PPT
+04_Cierre\02_Febrero
+04_Cierre\02_Material Ledger
+04_Cierre\03_Marzo\01_Bridge RB
+04_Cierre\03_Marzo\02_MB\01_Bases
+04_Cierre\03_Marzo\02_MB\02_Análisis para CMV
+04_Cierre\03_Marzo\02_MB\03_Mercadologico
+04_Cierre\03_Marzo\02_MB
+04_Cierre\03_Marzo\03_Perdida
+04_Cierre\03_Marzo\04_PPT
+04_Cierre\03_Marzo
+04_Cierre\04_Abril\01_Bridge RB
+04_Cierre\04_Abril\02_MB\01_Bases para CMV
+04_Cierre\04_Abril\02_MB\02_Análisis CMV
+04_Cierre\04_Abril\02_MB
+04_Cierre\04_Abril\03_Perdida
+04_Cierre\04_Abril\04_PPT
+04_Cierre\04_Abril
+04_Cierre\05_Mayo\01_Bridge RB
+04_Cierre\05_Mayo\02_MB\01_Bases para CMV
+04_Cierre\05_Mayo\02_MB\02_Analisis CMV
+04_Cierre\05_Mayo\02_MB
+04_Cierre\05_Mayo\03_Perdida
+04_Cierre\05_Mayo\04_PPT
+04_Cierre\05_Mayo
+04_Cierre\06_Junio\01_Bridge RB
+04_Cierre\06_Junio\02_MB\01_Bases para CMV
+04_Cierre\06_Junio\02_MB\02_Analisis CMV
+04_Cierre\06_Junio\02_MB
+04_Cierre\06_Junio\03_Perdida
+04_Cierre\06_Junio\04_PPT
+04_Cierre\06_Junio
+04_Cierre\07_Julio\01_Bridge RB
+04_Cierre\07_Julio\02_MB\01_Bases CMV
+04_Cierre\07_Julio\02_MB\02_Análisis CMV
+04_Cierre\07_Julio\02_MB
+04_Cierre\07_Julio\03_Perdida
+04_Cierre\07_Julio\04_PPT
+04_Cierre\07_Julio
+02_OTL\01_Hard\10_Octubre\02_Ebitda\05_Ej Optimista
+02_OTL\01_Hard\10_Octubre\02_Ebitda
+02_OTL\01_Hard\10_Octubre
+02_OTL\01_Hard
+02_OTL
+03_Real\01_Enero\01_Previa Cierre RB
+03_Real\01_Enero
+03_Real\04_Abril\08_DRE Int
+03_Real\04_Abril
+03_Real\07_Julio\11_FCF
+03_Real\07_Julio
+03_Real
+04_Cierre\08_Agosto\01_Bridge RB
+04_Cierre\08_Agosto\02_MB\01_Bases Para CMV
+04_Cierre\08_Agosto\02_MB\02_Analisis CMV
+04_Cierre\08_Agosto\02_MB
+04_Cierre\08_Agosto\03_Perdida
+04_Cierre\08_Agosto\04_PPT
+04_Cierre\08_Agosto
+04_Cierre\09_Septiembre\01_Bridge RB
+04_Cierre\09_Septiembre\02_MB\01_Bases para CMV
+04_Cierre\09_Septiembre\02_MB\02_Analisis CMV
+04_Cierre\09_Septiembre\02_MB
+04_Cierre\09_Septiembre\03_Perdida
+04_Cierre\09_Septiembre\04_PPT
+04_Cierre\09_Septiembre
+04_Cierre\10_Octubre\01_Bridge RB
+04_Cierre\10_Octubre\02_MB\02_Analisis CMV
+04_Cierre\10_Octubre\02_MB
+04_Cierre\10_Octubre\03_Perdida
+04_Cierre\10_Octubre\04_PPT
+04_Cierre\10_Octubre
+04_Cierre\11_Noviembre\01_Bridge RB
+04_Cierre\11_Noviembre\02_MB\01_Bases de CMV
+04_Cierre\11_Noviembre\02_MB\02_Análisis para CMV
+04_Cierre\11_Noviembre\02_MB
+04_Cierre\11_Noviembre\03_Perdida
+04_Cierre\11_Noviembre\04_PPT
+04_Cierre\11_Noviembre
+04_Cierre\12_Diciembre\01_Bridge RB
+04_Cierre\12_Diciembre\02_MB\01_Bases de CMV
+04_Cierre\12_Diciembre\02_MB\02_Análisis para CMV
+04_Cierre\12_Diciembre\02_MB
+04_Cierre\12_Diciembre\03_Perdida
+04_Cierre\12_Diciembre\04_PPT
+04_Cierre\12_Diciembre
+04_Cierre\Cierres
+04_Cierre
+05_IFRS
+06_Revisión\2° Trimestre\01_Inputs
+06_Revisión\2° Trimestre\02_PPta
+06_Revisión\2° Trimestre\03_Reuniones\01_Reunion
+06_Revisión\2° Trimestre\03_Reuniones\02_Reunión_Relacionamiento
+06_Revisión\2° Trimestre\03_Reuniones\03_Reunión_Comercial
+06_Revisión\2° Trimestre\03_Reuniones\04_Reunión_Tienda
+06_Revisión\2° Trimestre\03_Reuniones\05_Reunión_O&L
+06_Revisión\2° Trimestre\03_Reuniones\06_Reunión_VOL
+06_Revisión\2° Trimestre\03_Reuniones
+06_Revisión\2° Trimestre
+06_Revisión
+07_Varios Retail
+08_Instituto Natura
+__RAIZ_COMPLETA__

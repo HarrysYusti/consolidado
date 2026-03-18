@@ -1,0 +1,257 @@
+00_Reportes Contables
+01_ORC
+02_OTL\Hard\01_Enero\01_Capex
+02_OTL\Hard\01_Enero\02_Ebitda\1° OTL
+02_OTL\Hard\01_Enero\02_Ebitda\2° OTL
+02_OTL\Hard\01_Enero\02_Ebitda
+02_OTL\Hard\01_Enero
+02_OTL\Hard\02_Febrero\01_Capex
+02_OTL\Hard\02_Febrero\02_Ebitda\1° Entrega\Inputs
+02_OTL\Hard\02_Febrero\02_Ebitda\1° Entrega
+02_OTL\Hard\02_Febrero\02_Ebitda\2° Entrega
+02_OTL\Hard\02_Febrero\02_Ebitda
+02_OTL\Hard\02_Febrero\02_Ebitda para PLR\01_Propuesta Inicial
+02_OTL\Hard\02_Febrero\02_Ebitda para PLR\02_Lo que presentaron
+02_OTL\Hard\02_Febrero\02_Ebitda para PLR
+02_OTL\Hard\02_Febrero
+02_OTL\Hard\03_Marzo\01_Capex
+02_OTL\Hard\03_Marzo\02_Ebitda\1° Entrega
+02_OTL\Hard\03_Marzo\02_Ebitda\2° Entrega\Input PL Ventas
+02_OTL\Hard\03_Marzo\02_Ebitda\2° Entrega
+02_OTL\Hard\03_Marzo\02_Ebitda\3° Entrega
+02_OTL\Hard\03_Marzo\02_Ebitda
+02_OTL\Hard\03_Marzo\03_FCF
+02_OTL\Hard\03_Marzo\04_FCF (2)
+02_OTL\Hard\03_Marzo
+02_OTL\Hard\04_Abril\01_Capex
+02_OTL\Hard\04_Abril\03_FCF
+02_OTL\Hard\05_Mayo\00_Revisión Situación
+02_OTL\Hard\05_Mayo\01_Capex
+02_OTL\Hard\05_Mayo\02_Ebitda\Input MB
+02_OTL\Hard\05_Mayo\02_Ebitda\Input RB
+02_OTL\Hard\05_Mayo\02_Ebitda
+02_OTL\Hard\05_Mayo\03_FCF
+02_OTL\Hard\05_Mayo\04_Ebitda BSL
+02_OTL\Hard\05_Mayo\05_Nómina
+02_OTL\Hard\05_Mayo
+02_OTL\Hard\06_Junio\01_Capex
+02_OTL\Hard\06_Junio\02_Ebitda\Input MB
+02_OTL\Hard\06_Junio\02_Ebitda\Inputs Pl Ventas
+02_OTL\Hard\06_Junio\02_Ebitda
+02_OTL\Hard\06_Junio\03_FCF\Bases BP
+02_OTL\Hard\06_Junio\03_FCF
+02_OTL\Hard\06_Junio
+02_OTL\Hard\07_Julio\01_Capex
+02_OTL\Hard\07_Julio\02_Ebitda\Inputs MB
+02_OTL\Hard\07_Julio\02_Ebitda\Inputs RB
+02_OTL\Hard\07_Julio\02_Ebitda
+02_OTL\Hard\07_Julio
+02_OTL\Hard\08_Agosto\01_Capex
+02_OTL\Hard\08_Agosto\02_Ebitda\01_RB
+02_OTL\Hard\08_Agosto\02_Ebitda\02_MB
+02_OTL\Hard\08_Agosto\02_Ebitda
+02_OTL\Hard\08_Agosto\03_FCF\01_Bases BP
+02_OTL\Hard\08_Agosto\03_FCF
+02_OTL\Hard\08_Agosto\04_Nómina
+02_OTL\Hard\08_Agosto
+02_OTL\Hard\04_Abril\02_Ebitda
+02_OTL\Hard\04_Abril02_OTL\Hard\09_Septiembre\01_Capex
+02_OTL\Hard\09_Septiembre\02_Ebitda\Nómina
+02_OTL\Hard\09_Septiembre\02_Ebitda\RB
+02_OTL\Hard\09_Septiembre\03_FCF
+02_OTL\Hard\10_Octubre\01_Capex
+02_OTL\Hard\04_Abril
+02_OTL\Hard\09_Septiembre\01_Capex
+02_OTL\Hard\09_Septiembre\02_Ebitda\MB
+02_OTL\Hard\09_Septiembre\02_Ebitda
+02_OTL\Hard\09_Septiembre
+02_OTL\Hard\10_Octubre\02_Ebitda\MB
+02_OTL\Hard\10_Octubre\02_Ebitda\RB
+02_OTL\Hard\10_Octubre\02_Ebitda
+02_OTL\Hard\10_Octubre\03_FCF\01_Construcción Resultado
+02_OTL\Hard\10_Octubre\03_FCF
+02_OTL\Hard\10_Octubre\04_Nómina
+02_OTL\Hard\10_Octubre
+02_OTL\Hard\11_Noviembre\01_Capex
+02_OTL\Hard\11_Noviembre\02_Ebitda\Fuera
+02_OTL\Hard\11_Noviembre\02_Ebitda\MB VD
+02_OTL\Hard\11_Noviembre\02_Ebitda\RB
+02_OTL\Hard\11_Noviembre\02_Ebitda
+02_OTL\Hard\11_Noviembre\03_FCF
+02_OTL\Hard\11_Noviembre\04_FX Monetización
+02_OTL\Hard\11_Noviembre\05_Impacto Juicio Precio Tributario\01_Ebitda
+02_OTL\Hard\11_Noviembre\05_Impacto Juicio Precio Tributario\02_Tasa Efectiva\02_Revision Diciembre
+02_OTL\Hard\11_Noviembre\05_Impacto Juicio Precio Tributario\02_Tasa Efectiva
+02_OTL\Hard\11_Noviembre\05_Impacto Juicio Precio Tributario
+02_OTL\Hard\11_Noviembre
+02_OTL\Hard\12_Diciembre\01_Capex
+02_OTL\Hard\12_Diciembre\02_Ebitda\01_RB VD
+02_OTL\Hard\12_Diciembre\02_Ebitda\02_MB VD
+02_OTL\Hard\12_Diciembre\02_Ebitda\02_Proyección
+02_OTL\Hard\12_Diciembre\02_Ebitda\03_Control de Gastos
+02_OTL\Hard\12_Diciembre\02_Ebitda\05_Proyección Escenarios Cierres
+02_OTL\Hard\12_Diciembre\02_Ebitda
+02_OTL\Hard\12_Diciembre\03_FCF
+02_OTL\Hard\12_Diciembre\04_Juicio Precio Transferencia\01_Tasa Efectiva sin Impacto
+02_OTL\Hard\12_Diciembre\04_Juicio Precio Transferencia\02_tasa Efectiva con Impacto
+02_OTL\Hard\12_Diciembre\04_Juicio Precio Transferencia
+02_OTL\Hard\12_Diciembre
+02_OTL\Hard
+02_OTL\Soft\Sem01
+02_OTL\Soft\Sem02
+02_OTL\Soft\Sem03
+02_OTL\Soft\Sem04
+02_OTL\Soft\Sem05 -PC Enero
+02_OTL\Soft\Sem06_C Enero
+02_OTL\Soft\Sem08
+02_OTL\Soft\Sem09
+02_OTL\Soft\Sem11
+02_OTL\Soft\Sem12\Input Act MB
+02_OTL\Soft\Sem12
+02_OTL\Soft\Sem14 - C Marzo
+02_OTL\Soft\Sem15\Input
+02_OTL\Soft\Sem15
+02_OTL\Soft\Sem16
+02_OTL\Soft\Sem17
+02_OTL\Soft\Sem17 (2)
+02_OTL\Soft\Sem18 - C Abril
+02_OTL\Soft\Sem19
+02_OTL\Soft\Sem22\Sem43
+02_OTL\Soft\Sem22
+02_OTL\Soft\Sem22 (2)
+02_OTL\Soft\Sem23 - C Mayo
+02_OTL\Soft\Sem24
+02_OTL\Soft\Sem25
+02_OTL\Soft\Sem26
+02_OTL\Soft\Sem27 -C Junio
+02_OTL\Soft\Sem29
+02_OTL\Soft\Sem30
+02_OTL\Soft\Sem31 - Pre Cierre Julio
+03_Real\01_2019
+03_Real\02_2019
+03_Real\03_2019\00_Preliminar
+03_Real\03_2019
+03_Real\04_2019\01_Preliminar
+03_Real\04_2019
+03_Real\05_2019\01_Preliminar
+03_Real\05_2019
+03_Real\06_2019
+03_Real\07_2019\00_Preliminar
+03_Real\07_2019\Book
+03_Real\07_2019
+03_Real\08_2019\Book Contable
+03_Real\08_2019\Información adicional
+03_Real\08_2019
+03_Real\09_2019\Book Contables
+03_Real\09_2019\INFORMACION ADICIONAL
+03_Real\09_2019
+03_Real\10_2019\01_Preliminar
+03_Real\10_2019\02_Cierre
+03_Real\10_2019\03_Contabilidad\Soportes Book Chile Octubre 2019\Banco Cobranza
+03_Real\10_2019\03_Contabilidad\Soportes Book Chile Octubre 2019\Centralizacion
+03_Real\10_2019\03_Contabilidad\Soportes Book Chile Octubre 2019\Provisiones
+03_Real\10_2019\03_Contabilidad\Soportes Book Chile Octubre 2019\Sharepoint
+03_Real\10_2019\03_Contabilidad\Soportes Book Chile Octubre 2019
+03_Real\10_2019\03_Contabilidad
+03_Real\10_2019
+03_Real\11_2019\Contabilidad
+03_Real\11_2019\Mapas
+03_Real\11_2019
+03_Real\12_2019\01_Preliminar
+03_Real\12_2019\03_Revision gastos
+03_Real\12_2019\04_Nomina Cierre
+03_Real\12_2019\05_Viajes
+03_Real\12_2019\06_Pagos Proveedores
+03_Real\12_2019\07_PLR
+03_Real\12_2019\Almacenado
+03_Real\12_2019
+03_Real\13_Cierre Año Post Ajuste PLR
+03_Real\Cierre
+03_Real
+04_Cierres\01_Enero\MB\00_Proy Cierre MB
+04_Cierres\01_Enero\MB\01_Bases para CMV
+04_Cierres\01_Enero\MB\02_Analsis CMV
+04_Cierres\01_Enero\MB\03_Mercologico
+04_Cierres\01_Enero\MB
+04_Cierres\01_Enero\RB
+04_Cierres\01_Enero
+04_Cierres\02_Febrero\MB\00_Proy Cierre MB
+04_Cierres\02_Febrero\MB\01_Bases para CMV
+04_Cierres\02_Febrero\MB\02_Analisis CMV
+04_Cierres\02_Febrero\MB\03_Mercadologico
+04_Cierres\02_Febrero\MB
+04_Cierres\02_Febrero\rb
+04_Cierres\02_Febrero
+04_Cierres\03_Marzo\MB\00_Proy Cierre MB
+04_Cierres\03_Marzo\MB\01_Bases para CMV
+04_Cierres\03_Marzo\MB\02_Analisis CMV
+04_Cierres\03_Marzo\MB\03_Mercadologico
+04_Cierres\03_Marzo\MB
+04_Cierres\03_Marzo\RB
+04_Cierres\03_Marzo
+04_Cierres\04_Abril\MB\01_Bases para CMV
+04_Cierres\04_Abril\MB\02_Análisis CMV
+04_Cierres\04_Abril\MB\03_Mercadologico
+04_Cierres\04_Abril\MB
+04_Cierres\04_Abril\RB
+04_Cierres\04_Abril
+04_Cierres\05_Mayo\MB\01_Bases para CMV
+04_Cierres\05_Mayo\MB\02_Analisis CMV
+04_Cierres\05_Mayo\MB\03_Mercadologico
+04_Cierres\05_Mayo\MB
+04_Cierres\05_Mayo\RB
+04_Cierres\05_Mayo
+04_Cierres\06_Junio\MB\01_Bases para CMV
+04_Cierres\06_Junio\MB\02_Analisis CMV
+04_Cierres\06_Junio\MB\03_Mercadologico
+04_Cierres\06_Junio\MB
+04_Cierres\06_Junio\RB
+04_Cierres\06_Junio
+04_Cierres\07_Julio\MB\01_CMV
+04_Cierres\07_Julio\MB\02_Analisis CMV
+04_Cierres\07_Julio\MB\03_Mercadologico
+04_Cierres\07_Julio\MB
+04_Cierres\07_Julio\RB
+04_Cierres\07_Julio
+04_Cierres\08_Agosto\MB\01_Bases Para CMV
+04_Cierres\08_Agosto\MB\02_Analisis CMV
+04_Cierres\08_Agosto\MB\03_Mercadologico
+04_Cierres\08_Agosto\MB
+04_Cierres\08_Agosto\RB
+04_Cierres\08_Agosto\RR
+04_Cierres\08_Agosto
+04_Cierres\09_Septiembre\MB\01_Bases para CMV
+04_Cierres\09_Septiembre\MB\02_Analisis CMV
+04_Cierres\09_Septiembre\MB\04_Revisión
+04_Cierres\09_Septiembre\MB
+04_Cierres\09_Septiembre\RB
+04_Cierres\09_Septiembre
+04_Cierres\10_Octubre\MB\01_Bases para CMV
+04_Cierres\10_Octubre\MB\02_Analisis CMV
+04_Cierres\10_Octubre\MB
+04_Cierres\10_Octubre\RB
+04_Cierres\10_Octubre
+04_Cierres\11_Noviembre\MB\01_Análisis de CMV
+04_Cierres\11_Noviembre\MB\01_Bases para CMV
+04_Cierres\11_Noviembre\MB
+04_Cierres\11_Noviembre\RB
+04_Cierres\11_Noviembre
+04_Cierres\12_Diciembre\MB\01_Bases para CMV
+04_Cierres\12_Diciembre\MB\02_Analisis para CMV
+04_Cierres\12_Diciembre\MB
+04_Cierres\12_Diciembre\RB
+04_Cierres\12_Diciembre
+04_Cierres\Benchmarck
+04_Cierres\Cierre Mercadologico
+04_Cierres\CMV Contabilidad
+04_Cierres\Material Ledger
+04_Cierres\OTL
+04_Cierres
+05_Banco
+06_Viajes
+02_OTL\Soft\Sem07
+02_OTL\Soft\Sem10- C Febrero
+02_OTL\Soft\Sem13\Preventa
+02_OTL\Soft\Sem13
+02_OTL\Soft
+

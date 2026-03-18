@@ -1,0 +1,2336 @@
+﻿tipo;ruta_relativa
+Carpeta;01_ORC
+Carpeta;02_OTL
+Carpeta;03_Cierre
+Carpeta;04_Resultados
+Carpeta;10_Retail
+Carpeta;99_documentos
+Archivo;Detalle documento 2022.xlsx
+Archivo;01_ORC\2021_Cierre Chile VAREJO_r01.xlsx
+Archivo;01_ORC\2022 ORC O&L Chile x ceco cuenta.xlsx
+Archivo;01_ORC\2022_Macro PEN_r04.xlsx
+Archivo;01_ORC\Acompañamiento Natura CL PL IFRS_01_2022.xlsx
+Archivo;01_ORC\Acompañamiento Natura CL PL IFRS_01_2022_r02.xlsx
+Archivo;01_ORC\ajustes hispana_r01.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r01.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r02.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r03.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r04.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r05.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r06.xlsx
+Archivo;01_ORC\Bases para Entrega ORC 2022_r07.xlsx
+Archivo;01_ORC\Calendarización OV 2022_r03 (ajuste formula).xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs O&L_r25.xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs RL_r25.xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs Servicios Financieros_r25.xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs_r25 +aju perdidas v02.xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs_r25 v02.xlsx
+Archivo;01_ORC\Chile x Modelo_DRE_OIs_r25.xlsx
+Archivo;01_ORC\Consolidación Racionales Chile 2022 para BP (Ajuste Hispana) CORR MAPA depa corregido_r25.xlsx
+Archivo;01_ORC\Consolidación Racionales Chile 2022 para BP (Ajuste Hispana) CORR MAPA_r25.xlsx
+Archivo;01_ORC\Contrato CT09 - BODENOR UNIFICACION CD.xlsx
+Archivo;01_ORC\Maestro DRE NHL PEN 22-24 19.01 Ebitda ajuste cogs V8 Facing Quarters.xlsb
+Archivo;01_ORC\Maestro DRE NHL PEN 22-24 21.09 Ebitda ajuste cogs V7.xlsb
+Archivo;01_ORC\Mapa Varejo 2022_r01.xlsx
+Archivo;01_ORC\MapaORC2022_r01.xlsx
+Archivo;01_ORC\Natura Budget 2022_Chile Mix Ajustado V2.xlsx
+Archivo;01_ORC\Natura Budget 2022_Chile Mix Ajustado V3.xlsx
+Archivo;01_ORC\ORC 2022_MB Mercadologico CORREGIDO COSTOS_r03.xlsx
+Carpeta;02_OTL\00_Carpetas
+Carpeta;02_OTL\01_Enero
+Carpeta;02_OTL\02_Febrero
+Carpeta;02_OTL\04_OTL Abril
+Carpeta;02_OTL\05_OTL Mayo
+Carpeta;02_OTL\06_OTL Junio
+Carpeta;02_OTL\07_OTL Julio
+Carpeta;02_OTL\08_OTL Agosto
+Carpeta;02_OTL\09_OTL Septiembre
+Carpeta;02_OTL\10_OTL Octubre
+Carpeta;02_OTL\11_OTL Noviembre
+Carpeta;02_OTL\12_OTL Diciembre
+Carpeta;02_OTL\13_Cierre Año
+Carpeta;02_OTL\00_Carpetas\02_Ebitda
+Carpeta;02_OTL\00_Carpetas\03_FCFF
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\01_RB
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\02_MB
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\03_Gastos
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\04_FX
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\05_FNH
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\06_Previa Cierre
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\05_FNH\01_template NS y Pedidos
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\05_FNH\02_Rev Sinergias
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\05_FNH\03_Forecast
+Carpeta;02_OTL\00_Carpetas\02_Ebitda\05_FNH\04_Riesgos y Oportunidades
+Carpeta;02_OTL\00_Carpetas\03_FCFF\01_Descarda SAP
+Carpeta;02_OTL\00_Carpetas\03_FCFF\02_Input Areas
+Carpeta;02_OTL\01_Enero\02_Ebitda
+Carpeta;02_OTL\01_Enero\03_FCF
+Carpeta;02_OTL\01_Enero\02_Ebitda\01_RB
+Carpeta;02_OTL\01_Enero\02_Ebitda\02_MB
+Carpeta;02_OTL\01_Enero\02_Ebitda\03_Gastos
+Carpeta;02_OTL\01_Enero\02_Ebitda\04_FX
+Carpeta;02_OTL\01_Enero\02_Ebitda\05_FNH
+Carpeta;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre
+Carpeta;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad
+Carpeta;02_OTL\01_Enero\02_Ebitda\08_Explicacion variación 1°Q
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_001_Construcción OTL Chile_BASE 0,4% compensado + AJ CN + AJ Hisp_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_001_Construcción OTL Chile_BASE 0,4% compensado + AJ CN_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_001_Construcción OTL Chile_BASE 0,4% compensado_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_001_Construcción OTL Chile_BASE 0,4%_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_001_Construcción OTL Chile_BASE 0,5%_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Base construcción Prometeo_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Base construcción Prometeo_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,4% compensado + AJ CN + AJ Hisp_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,4% compensado + AJ CN_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,4% compensado + AJ CN_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,4% compensado_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,4%_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_Escenarios Comparativo Outlook BASE 0,5%_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_OTL O&L_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_OTL O&L_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_OTL RETAIL_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_PPT OTL_r01.pptx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_PPT OTL_r02.pptx
+Archivo;02_OTL\01_Enero\02_Ebitda\012022_PPT OTL_r03.pptx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\001_OV_2022_Fuerza de Ventas 3,7%.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\001_OV_2022_Full Actualizado 1,7%.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\001_OV_2022_OTL Base - Finanzas 0,5%.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\002_OV_2022_OTL Base - Finanzas.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\003_OV_2022_OTL Base - Finanzas - Compensando C01.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\003_OV_2022_OTL Base - Finanzas.xlsm
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,4% compensado + AJ CN_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,4% compensado + AJ CN_r05.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,4% compensado_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,4%_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,5%_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_001_Proyección RB VD BASE 0,5%_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r05.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Análisis avance RB VD CHILE_r06.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_OTL RB RL MB Perdida_Retail BASE_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_OTL RB RL MB Perdida_Retail Entrega_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_OTL RB RL MB Perdida_Retail_r00 (ene)-v2.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\012022_Proyección RB RL MB Perdida_VOL_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\anulaciones devoluciones_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Maestro NS Fcst y pedidos Enero 2022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Plug_Maestro NS Fcst y pedidos Enero 2022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Revisión RB 1°Q.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Revisión RB 1°Q_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Revisión RB 1°Q_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\01_RB\Sem04_Analisis RB 24 01 2022_r01 Pedido.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Impacto Monetización Anual 0,4 compensado + AJ CN_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Impacto Monetización Anual 0,4% compensado_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Impacto Monetización Anual 0,4%_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,4% compensado + AJ CN + AJ HISP_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,4% compensado + AJ CN_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,4% compensado_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,4%_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,4%_r03A.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\012022_Proyección MB Anual BASE 0,5%_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\OTL Manual 2022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\OTL Mercadologico.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\02_MB\OTL Mercadologico_r02.xlsx
+Carpeta;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs
+Carpeta;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\012022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\012022_Control OTLs IFRS Areas 2022_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\012022_Control OTLs IFRS Areas Cierre2021_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem022022_Gestion Gastos Chile ajustado HISP_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem022022_Gestion Gastos Chile ajustado_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem022022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem022022_Gestion Gastos Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem032022_Gestion Gastos Chile ajustado_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem032022_Gestion Gastos Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem042022_Evaluación Asertividad_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem042022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem042022_Gestion Gastos Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_Cierre Enero.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Activación_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_C&C_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Comunicación_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Comunicación_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_CX_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_DDP_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Eventos, Reconocientos&Campañas AJU_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Eventos, Reconocientos&Campañas_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Fofi_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Infra 05012022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Inicios_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Inventario_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Inventario_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Juridico_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_LNN_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_M MKT_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_MKT Producto_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Muestras_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Nómina 05012022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_OTL Pérdidas Enero.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Perdidas_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Picking_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_PL Comercial_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Produccion_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Publicidad_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Renting 05012022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Retail_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Rituales&Entrenamiento_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_RRHH 05012022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\01_Inputs\012022_Social Selling_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem012022_Gestion Gastos Chile CIERRE_r11.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem012022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem012022_Gestion Gastos Chile_r06.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem512021_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem512021_Gestion Gastos Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem512021_Gestion Gastos Chile_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r04.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r05.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r06.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r07.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r08.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\03_Gastos\Off\Sem522021_Gestion Gastos Chile_r09.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\04_FX\012022_Fx_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\04_FX\012022_Fx_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\04_FX\2021.12_RealYTDDec_Índices Macroeconômicos.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\04_FX\Analisis tipo de cambio 2022- Fx OTL Dic.xlsx
+Carpeta;02_OTL\01_Enero\02_Ebitda\05_FNH\aprobado
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\012022_002_Indicadores Canal VD_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\012022_002_Indicadores Canal VD_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\012022_Dash Board slide Forecast_CHILE.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\012022_Template Prometeo_CHILE_r01.xlsb
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\3. Template R&O Fcst Enero 2022 CHILE_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\ajustes.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\Apertura MB Venta Directa.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\CHILE_Apertura CMV_R01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\CHILE_Template NS Fcst y pedidos 2022_R01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\Maestro NS Fcst y pedidos Enero 2022 CHILE v2.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\Prometeo Maestro Enero Fcst P&L 2022.xlsb
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\aprobado\Mensualización Gastos Corporativos OTL Enero 2022.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\aprobado\Prometeo Maestro Enero Fcst P&L 2022.xlsb
+Archivo;02_OTL\01_Enero\02_Ebitda\05_FNH\aprobado\publicidad 2022_recorte presupuesto Q1.xlsx
+Carpeta;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\Inputs
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\012022_Proyeccion cierre Chile_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\012022_Proyeccion cierre Chile_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\012022_Proyeccion cierre Chile_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\Inputs\Ayuda provisiones.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\Inputs\Consolidado Prov. Facturas Chile_012022_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\Inputs\Consolidado Prov. Facturas Chile_012022_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\06_Proyección de Cierre\Inputs\Provisiones CHI_012022 CM_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad\ejemplo.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad\Explicación perdida Rentabilidad_r01.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad\Explicación perdida Rentabilidad_r02.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad\Explicación perdida Rentabilidad_r03.xlsx
+Archivo;02_OTL\01_Enero\02_Ebitda\07_Explicación perdida rentabilidad\Perdida Rentabilidad Chile_r01.pptx
+Archivo;02_OTL\01_Enero\02_Ebitda\08_Explicacion variación 1°Q\Variación 1°Q_r01.xlsx
+Carpeta;02_OTL\01_Enero\03_FCF\01_Descarda SAP
+Carpeta;02_OTL\01_Enero\03_FCF\02_Input Areas
+Carpeta;02_OTL\01_Enero\03_FCF\03_Dudas Hispana
+Archivo;02_OTL\01_Enero\03_FCF\012022_Construcción OTL BP con IFRS_r01.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\012022_Construcción OTL BP con IFRS_r02.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\012022_Construcción OTL BP con IFRS_r03.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\012022_OTL FCF formato hispana_r01.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\012022_OTL FCF formato hispana_r03.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\012022_OTL FCF formato hispana_r04.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\01_Descarda SAP\122021_Dinámica_r01.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\01_Descarda SAP\122021_F01_r01.XLS
+Archivo;02_OTL\01_Enero\03_FCF\01_Descarda SAP\122021_F01_r01.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\012022_fbl1n_AMV.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\2021.12 PROYECCCION IFRS16 BP (corregida x gtes).xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\Base OTL BP_Ene 22.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\Forecast 2022_FCFF Monthly Template NHL AJ.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\Forecast 2022_FCFF Monthly Template NHL.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\02_Input Areas\IFRS_r01.xlsx
+Archivo;02_OTL\01_Enero\03_FCF\03_Dudas Hispana\Var Obligaciones TRibutarias en base a ORC_r01.xlsx
+Carpeta;02_OTL\02_Febrero\02_Ebitda
+Carpeta;02_OTL\02_Febrero\03_FCF
+Carpeta;02_OTL\02_Febrero\02_Ebitda\01_RB
+Carpeta;02_OTL\02_Febrero\02_Ebitda\02_MB
+Carpeta;02_OTL\02_Febrero\02_Ebitda\03_Gastos
+Carpeta;02_OTL\02_Febrero\02_Ebitda\04_FX
+Carpeta;02_OTL\02_Febrero\02_Ebitda\05_FNH
+Carpeta;02_OTL\02_Febrero\02_Ebitda\06_Explicaciones
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Base construcción Prometeo_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r04.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r05.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r07.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb + AJ Q_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36% AJ Feb_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Construcción OTL Chile 0,36%_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r04.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r05.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r07.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb AJ Q_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_Escenarios Comparativo OTL Chile 0,36% AJ Feb_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL O&L_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL O&L_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL O&L_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL RETAIL_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\022022_OTL VOL_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\004_OV_2022_Full Actualizado Base.xlsm
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\005_OV_2022_Full Actualizado Base (interno).xlsm
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Análisis avance RB VD CHILE_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Análisis avance RB VD CHILE_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_OTL RB RL MB Perdida_Retail base_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_OTL RB RL MB Perdida_Retail entrega_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_OTL RB RL MB Perdida_Retail entrega_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB RL MB Perdida_VOL_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB RL MB Perdida_VOL_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36% (INTERNO)_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36% AJ Feb AG Q_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36% AJ Feb AG Q_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36% AJ Feb AG Q_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36% AJ Feb_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36%_r00.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Proyección RB VD 0,36%_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Validación Crecimientos Mar-Abr_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\022022_Validación Crecimientos Mar-Abr_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\Analisis RB VD 10.02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\Analisis RB VD 16.02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\Reunión tendencia - 21.02.2022.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\01_RB\tendencia OV_2022_Realista.xlsm
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Impacto Monetización Anual 0,36% AJ Feb + AJ Q_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Impacto Monetización Anual 0,36% AJ Feb_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb + AJ Q_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb + AJ Q_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb + AJ Q_r04.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb + AJ Q_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb + AJ Q_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Proyección MB Anual 0,36% AJ Feb_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Simulador Hispana_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Simulador Hispana_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Simulador Hispana_r04.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\022022_Simulador Hispana_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\02_MB\OTL Manual 2022.xlsx
+Carpeta;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs
+Carpeta;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\022022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r07.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem052022_Gestion Gastos Chile_r09.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem072022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem072022_Gestion Gastos Chile_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem092022_Gestion Gastos Chile_r06.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem092022_Gestion Gastos Chile_r07.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem092022_Gestion Gastos Chile_r08.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem092022_Gestion Gastos Chile_r09.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\Sem102022_Gestion Gastos Chile_Cierre Febrero.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\02- OTL 2022 Notebook.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\02- OTL 2022 Omnicanalidad .xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\02- OTL Sistemas.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\02- OTL Telefonia.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\02. OTL Febrero.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_Esfuerzo TD_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_M MKT_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Atencion r01.xls
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL calidad_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Contabilidad_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Ingresos Carmenere_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Inicios_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL iNVENTARIO_R01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Jurídico_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL MKT Producto_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Pérdidas_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Picking_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Publicidad_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL TRansporte_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL Variable_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTL VOL_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_OTLActivación_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\022022_Transporte_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\Calculo OTL 2022 VF (FEBRERO-DICIEMBRE) APLL.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\OTL FEB Campañas, reconocimientos y eventos.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\OTL MMA 02.22_ envio a paises.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\OTL Pérdidas Febrero a Diciembre 2022 V2.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\01_Inputs\OTL Publicidad.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\Anexo 2.2 - Etapa 1 - Avon Natura TBS- Separado (febrero a mayo)_27ene2022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\Anexo 2.3 - Etapa 2 - Avon Natura TBS- Unificado (junio)_27ene2022-SF.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\Anexo 2.4 - Etapa 3 - Avon Natura TBS- Unificado (julio a diciembre)_27ene2022-SF.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\Calculo OTL 2022 VF (FEBRERO-DICIEMBRE) APLL.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\PPTO 2022 Tarifas APL.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\03_Gastos\02_revisión Tarifas\Resumen revisión de tarifas_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\04_FX\022022_Fx_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\04_FX\022022_Fx_r03.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\04_FX\Analisis tipo de cambio 2022- Fx OTL Enero.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\022022_002_Indicadores Canal VD CHILE_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\022022_Explicaciones_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\022022_Template NS Fcst y pedidos Febrero CHILE 2022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template Fcst nomina CHILE_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template Fcst nomina CHILE_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template Fcst nomina.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template R&O Fcst 2022 CHILE_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template R&O Fcst 2022 CHILE_r02.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\2. Template R&O Fcst 2022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Conciliacion Mejora de Rentabilidad 15022022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Dash Board slide template Febrero 2022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Dash Board slide template Febrero 2022_CHILE_r01.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Executive Summary - Template CHILE_r01.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Executive Summary - Template CHILE_r02.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Executive Summary - Template CHILE_r03.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Executive Summary - Template.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Maestro apertura CMV OTL Febrero 2022.xlsx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Prometeo Maestro Febrero Fcst P&L 2022 CHILE_r01.xlsb
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Prometeo Maestro Febrero Fcst P&L 2022 v3.xlsb
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Prometeo Maestro Febrero Fcst P&L 2022.xlsb
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Template slide Fcst std paises Fcst 1Q y FY.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\05_FNH\Template slide Fcst std paises Fcst 1Q y FY_CHILE_r01.pptx
+Archivo;02_OTL\02_Febrero\02_Ebitda\06_Explicaciones\022022_Explicaciones_r01.xlsx
+Carpeta;02_OTL\02_Febrero\03_FCF\01_Descarda SAP
+Archivo;02_OTL\02_Febrero\03_FCF\022022_Construcción OTL BP con IFRS_r01.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\022022_Construcción OTL BP con IFRS_r02.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\022022_Construcción OTL BP con IFRS_r03.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\022022_OTL FCF formato hispana_r01.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\022022_OTL FCF formato hispana_r02.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\01_Descarda SAP\012022_Dinámica_r01.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\01_Descarda SAP\012022_f01_r01.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\01_Descarda SAP\122021_Dinámica_r02.xlsx
+Archivo;02_OTL\02_Febrero\03_FCF\01_Descarda SAP\122021_f01_r01.xlsx
+Archivo;02_OTL\04_OTL Abril\008_OV_2022_Realista.xlsm
+Archivo;02_OTL\04_OTL Abril\042022_Construcción OTL Chile Realista2 Esc1B_r09.xlsx
+Archivo;02_OTL\04_OTL Abril\042022_Escenarios Comparativo OTL Chile Realista2 Esc1B_r09.xlsx
+Archivo;02_OTL\04_OTL Abril\042022_Proyeccion Cierre Chile DRE_r01.xlsx
+Archivo;02_OTL\04_OTL Abril\042022_Proyección MB Anual Realista2_r04.xlsx
+Archivo;02_OTL\04_OTL Abril\042022_Proyección RB VD Realista2_r02.xlsx
+Archivo;02_OTL\04_OTL Abril\Sem152022_Gestion Gastos Chile Realista2 Esc1B AJUSTE HISPANA_r04.xlsx
+Carpeta;02_OTL\05_OTL Mayo\Check Gastos
+Archivo;02_OTL\05_OTL Mayo\009_OV_2022_Realista.xlsm
+Archivo;02_OTL\05_OTL Mayo\052022_Construcción OTL Chile Realista Hisp_r05.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Escenarios Comparativo OTL Chile Realista Hisp_r05.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Monitoreo Ciclal_r01.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Monitoreo Ciclal_r02.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Proyección MB Anual Realista Hisp_r05.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Proyección RB VD Realista Calendarización_r03.xlsx
+Archivo;02_OTL\05_OTL Mayo\052022_Simulador Hispana Realista_r03.xlsx
+Archivo;02_OTL\05_OTL Mayo\Check Gastos\052022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\05_OTL Mayo\Check Gastos\052022_Escenarios Comparativo OTL Chile Realista_r03.xlsx
+Archivo;02_OTL\06_OTL Junio\010_OV_2022_Pesimista.xlsm
+Archivo;02_OTL\06_OTL Junio\062022_Construcción OTL Chile_r04.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_Control OTLs IFRS Areas 2022_r04.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_Escenarios Comparativo OTL Chile_r04.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_Executive Summary - Template CHILE_r01.pptx
+Archivo;02_OTL\06_OTL Junio\062022_Fx_r01.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_INA Chile_r01.pptx
+Archivo;02_OTL\06_OTL Junio\062022_OTL FCF formato hispana_r01.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_Perdida Chile_r01.pptx
+Archivo;02_OTL\06_OTL Junio\062022_Proyección MB anual pesimista_r03.xlsx
+Archivo;02_OTL\06_OTL Junio\062022_Resultado Financiero Comercial Chile_r01.pptx
+Archivo;02_OTL\06_OTL Junio\062022_Template slide Fcst std paises Fcst 2Q y FY_CHILE_r04.pptx
+Archivo;02_OTL\06_OTL Junio\Sem232022_Gestion Gastos Chile_r04.xlsx
+Archivo;02_OTL\07_OTL Julio\011_OV_2022_Pesimista.xlsm
+Archivo;02_OTL\07_OTL Julio\072022_ OTL RB RL MB Perdida VOL_28062022 (2 esc)_r01.xlsx
+Archivo;02_OTL\07_OTL Julio\072022_Construcción OTL Chile_r04.xlsx
+Archivo;02_OTL\07_OTL Julio\072022_Escenarios Comparativo OTL Chile_r04.xlsx
+Archivo;02_OTL\07_OTL Julio\072022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\07_OTL Julio\072022_Proyección MB anual pesimista_r04.xlsx
+Archivo;02_OTL\07_OTL Julio\072022_Proyección RB VD pesimista_r02.xlsx
+Carpeta;02_OTL\08_OTL Agosto\01_Forecast Areas
+Carpeta;02_OTL\08_OTL Agosto\01_RB
+Carpeta;02_OTL\08_OTL Agosto\02_MB
+Carpeta;02_OTL\08_OTL Agosto\03_Gastos
+Carpeta;02_OTL\08_OTL Agosto\04_FX
+Archivo;02_OTL\08_OTL Agosto\082022_Construcción OTL Chile realista -15,9B_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\082022_Escenarios Comparativo OTL Realista -15,9B_r03.xlsx
+Archivo;02_OTL\08_OTL Agosto\082022_Explicación perdida Rentabilidad x H_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\082022_Explicación perdida Rentabilidad x H_r04.xlsx
+Archivo;02_OTL\08_OTL Agosto\082022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\08_OTL Agosto\082022_Outlook Chile -15,9B_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Activación.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Amazonas.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Atención.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Atracción y bienvenida.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Borboleta.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Calidad.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Comercial.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Comunicación.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\CX.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Desarrollo y Entrenamiento.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Eventos.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\FOFI.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Gerencia General.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\MKT Producto.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Muestras.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Nehuen.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Notebook.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Oasis.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Omnicanalidad.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Picking.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Producción Javi Plaza.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\REC.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Retail.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Rituales.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\RRHH.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Social Selling.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\TD.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Telefonía.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Transporte.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_Forecast Areas\Universo.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_RB\012B_OV_2023_Base Realista -15,9.xlsm
+Archivo;02_OTL\08_OTL Agosto\01_RB\082022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_RB\082022_Proyección RB VD realista -15,9%B_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\01_RB\OV_2022_Planeación.xlsm
+Archivo;02_OTL\08_OTL Agosto\02_MB\01. Aug OTL COGS Societario Natura Brasil + Hispana 11.08 (sent).xlsx
+Archivo;02_OTL\08_OTL Agosto\02_MB\072022_MB Chile_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\02_MB\082022_Proyección MB anual 15,9B_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\02_MB\082022_Simulador Hispana PSM_r02.xlsx
+Archivo;02_OTL\08_OTL Agosto\03_Gastos\082022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\08_OTL Agosto\03_Gastos\082022_OTL Pérdidas 15,9_r01.xlsx
+Archivo;02_OTL\08_OTL Agosto\03_Gastos\errores retail_R01.xlsx
+Archivo;02_OTL\08_OTL Agosto\03_Gastos\Sem322022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\08_OTL Agosto\04_FX\082022_Fx_r01.xlsx
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda
+Carpeta;02_OTL\09_OTL Septiembre\02_FCF
+Archivo;02_OTL\09_OTL Septiembre\Atividades PBCS - Setembro 2022.xlsx
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\04_FX
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\06_Previa Cierre
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Base construcción Prometeo_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Construcción OTL Chile pesimista check prometeo_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Construcción OTL Chile pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Construcción OTL Chile pesimista_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Construcción OTL Chile pesimista_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_DRE Retail comparativo_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Escenarios Comparativo OTL pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Escenarios Comparativo OTL pesimista_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Escenarios Comparativo OTL pesimista_r04.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Escenarios Comparativo OTL pesimista_r05.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL O&L_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL O&L_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL O&L_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL O&L_r04.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_OTL RETAIL_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_Outlook Chile_r04.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\092022_RB x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\Maestro Prometeo Fcst Septiembre P&l 2022.xlsb
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\01_Monitoreo
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\013_OV_2022_Planeación - 15,9.xlsm
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\013_OV_2023_Base Pesimista.xlsm
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\013_OV_2023_Base Realista.xlsm
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_ OTL RB RL MB Perdida VOL pesimista base_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_ OTL RB RL MB Perdida VOL pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Comparativo RL pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Minuta Reunión Fcst RB_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Monitoreo Ciclal_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_OTL RB RL MB Perdida_Retail base_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_OTL RB RL MB Perdida_Retail entregado sin VB BRL_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Proyección RB VD pesimista 9días Ajustado_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Proyección RB VD pesimista 9días_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\092022_Proyección RB VD pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\Impacto extención ciclo CN_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\OTL 29.08.2022.pptx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\RE_ Ppt Forecast Septiembre - 2022.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\01_Monitoreo\092022_Análisis avance RB VD CHILE Ajustado_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\01_Monitoreo\092022_Análisis avance RB VD CHILE Ajustado_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\01_Monitoreo\092022_Análisis avance RB VD CHILE_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\01_RB\01_Monitoreo\Pedido 12-09 (Info del 23-08 hasta el 11-09).xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\01. Sep OTL COGS Societario Natura Brasil + Hispana 12.09 (sent).xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\02022_Simulador Hispana Monetización_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Proyección MB anual 15,9B_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Proyección MB Anual pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Proyección MB Anual pesimista_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Proyección MB pesimista_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Simulador Hispana Monetización_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\092022_Simulador Hispana Monetización_r03.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\2022.08_RealYTDAug_Índices Macroeconômicos.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\OTL Manual 2022.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\02_MB\RES_ Índices Macroeconômicos - Agosto 2022.msg
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas
+Carpeta;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\03_Explicaciones Variación Año
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\092022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\092022_Control OTLs IFRS Areas 2022_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\092022_OTL Pérdidas_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\Sem362022_Gestion Gastos Chile_r09_Cierre.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\Sem372022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\092022_Esfuerzo TD_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\OTL Pérdidas Septiembre a Diciembre.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Estrategia Inversiones 2022 __ Revisión.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Provisión y Centralización Septiembre 2022.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Sobregastos FCST C&C 0_3 pp__URGENTE.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\01_Inputs\Transporte Septiembre- 20220912.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\092022_DDP_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\092022_M MKT_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\092022_OTL Publicidad_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\1. MMKT Alocada - 08.2022 envio paises.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Ajustes Gerenciales Agosto 2022 - Esfuerzo TD Hispana.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Amazonas.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Atraccion y Bienvenida.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Calidad.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Cierre OTL Publi Septiembre 2022_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\CLNN.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Comercial.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Compras.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\CX.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Desarrollo y Entrenamiento.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Eventos SEPTIEMBRE.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Fofi.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Forecast Eventos y Rituales Comerciales - 09_2022.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Forecast SEPT 2022- Viento Sur.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\G.General.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Nehuen.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Notebook.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Oasis.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\OTL ESPACIOS 02092022.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\OTL Pérdidas Septiembre a Diciembre.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\OTL Renting 02092022.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\OTL SEPT - DIC PICKING-ACTUALIZADO corregido.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\PLCOM_Agosto.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\RE_ Forecast Septiembre - Diciembre.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\REC.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\02_Forecast Areas\Social Selling.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\03_Gastos\03_Explicaciones Variación Año\RE_ Propuesta FCST CdP__IMPORTANTE.msg
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\04_FX\092022_Fx_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\04_FX\2022.08_RealYTDAug_Índices Macroeconômicos.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_ Template RO Fcst 2022 CHILE_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Dash Board slide fcst Septiembre 2022_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Forecast 3Q_r01.pptx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Forecast FY_r01.pptx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Indicadores Canal VD CHILE_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Monitoreo Ciclal_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Template Maestro Prometeo Fcst Septiembre P&l 2022 CHILE.xlsb
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\092022_Template NS Fcst y pedidos Septiembre 2022 CHILE_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_Ebitda\05_FNH\1. Template Maestro Prometeo Fcst Septiembre P&l 2022.xlsb
+Carpeta;02_OTL\09_OTL Septiembre\02_FCF\01_Descarda SAP
+Carpeta;02_OTL\09_OTL Septiembre\02_FCF\02_Input Areas
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\092022_Construcción OTL BP con IFRS BGT_r02.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\092022_Construcción OTL BP con IFRS_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\092022_OTL FCF formato hispana_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\01_Descarda SAP\082022_Dinámica_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\01_Descarda SAP\082022_F01_r01.xlsx
+Archivo;02_OTL\09_OTL Septiembre\02_FCF\02_Input Areas\Base OTL BP_Sep22 (reporte).xlsx
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda
+Carpeta;02_OTL\10_OTL Octubre\03_FCFF
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\01_RB
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\02_MB
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\04_FX
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\06_Previa Cierre
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\082022_Explicación perdida Rentabilidad x H_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc original -18,8_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA Hisp sin carmenere_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA Hisp_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscB_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscE_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -19,32_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1% EscC_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1% EscC_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1% EscD_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1% EscD2_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1% EscD2_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista esc riesgo -20,1_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Construcción OTL Chile pesimista_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_DRE Retail comparativo_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Escenarios Comparativo OTL pesimista 2esc Hisp sin carmenere_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Escenarios Comparativo OTL pesimista 2esc Hisp_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Escenarios Comparativo OTL pesimista 2esc Hisp_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Escenarios Comparativo OTL pesimista 2esc_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\102022_Escenarios Comparativo OTL pesimista 2esc_r03.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\014_OV_2023_Base Pesimista -18,8%.xlsm
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\014_OV_2023_Base Pesimista -20,1%.xlsm
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\014_OV_2023_Base Pesimista riesgo -19,32%.xlsm
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\014_OV_2023_Base Realista -17,7%.xlsm
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\092022_OTL RB RL MB Perdida_VOL CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Comparativo RL pesimista 2esc_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Comparativo RL pesimista_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Monitoreo Ciclal Cierre_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Monitoreo Ciclal FCST_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Monitoreo Ciclal FCST_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Monitoreo Mensual Retail VOL FCST_r04.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida VOL sin carmenere_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida VOL_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_Retail base_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_Retail entregado_r01 (sin validar por BR).xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_Retail entregado_r02 (con validar por BR).xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_VOL CONSOLIDADO sin carmenere_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_OTL RB RL MB Perdida_VOL CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista esc original_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista esc riesgo -19,32% sin carmenere_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista esc riesgo -19,32%_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista esc riesgo -20,1_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista esc riesgo_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Proyección RB VD pesimista_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\102022_Resumen Reunión Tendencia Octubre_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\15_OV_2023_Base Pesimista.xlsm
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\Alineamiento OTL - 26.09.2022 VOL_r01.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\Alineamiento OTL 26.09.2022 VD_r01.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\01_RB\Bridge Crecimiento Chile- Prom..xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -19,3% Hisp sin carmenere_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -19,3% Hisp_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -19,3%_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -20,1% EscD_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -20,1% EscD_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -20,1%_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Proyección MB Anual pesimista -20,1%_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización -20,1% EscD_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización -20,1% EscD_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización -20,1%_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización -20,1%_r06.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización Hisp sin carmenere_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización Hisp_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\102022_Simulador Hispana Monetización_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\02_MB\OTL Manual 2022.xlsx
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\102022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\102022_Control OTLs IFRS Areas 2022_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\102022_Control OTLs IFRS Areas 2022_r03.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\102022_OTL Pérdidas Octubre a Diciembre.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\102022_OTL Pérdidas_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\Sem402022_Gestion Gastos Chile x Carmenere_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\Sem402022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\1. MMKT Alocada - 09.2022 envio paises.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\102022_Esfuerzo TD_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\102022_Eventos OCTUBRE 2.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\102022_M MKT_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\102022_OTL Publicidad_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Ahorro Presupuesto Desarrollo (ultimo quarter).msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Ajustes Gerenciales Septiembre 2022 - Esfuerzo TD Hispana.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Forecast Natura consolidado.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Forecast Octubre Muestras.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL 2022 en base a RL _ Collection Chile.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Activación oct - recorte 120MM.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Departamentales 03102022_xlsx.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL ESPACIOS 03102022_xlsx.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Matriz Marketing Alocada - Octubre 2022.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Natura Chile Retail.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Nómina y Provisiones Octubre 2022.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Producción de Comunicaciones.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL Renting 03102022_xlsx.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\OTL_Octubre 2022 Finanzas.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Re_ Convención GN 2022 __ Miami.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ Forecast Octubre - Diciembre __ URGENTE ATRACCION&BIENVENIDA.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ Forecast Octubre - Diciembre __ URGENTE MKT PROD.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL Contabilidad.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL Omnicanalidad.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\Re_ Preliminar cierre Eventos.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ Preliminar Cierre TT&P.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RE_ Provisión y Centralización Septiembre 2022.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\01_Inputs\RV_ PL COM_Octubre_xlsx.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\102022_Asertividad_r01.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\RE_ Preliminar cierre Calidad.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\Re_ Preliminar cierre Eventos.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\RE_ Preliminar Cierre RRHH.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\RE_ Preliminar Cierre TT&P.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\RE_ Provisión y Centralización Septiembre 2022.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\03_Gastos\02_Asertividad\RE_ Provisiones - Ayuda.msg
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\04_FX\102022_Fx_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\04_FX\2022.09_RealYTDAug_Índices Macroeconômicos.xlsx
+Carpeta;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Off
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\01. Oct OTL COGS Societario Natura Brasil + Hispana 11.10 (sent).xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\1. Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_ Fw Bussines review_r02.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_ Template RO Fcst 2022 CHILE_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_ Template RO Fcst 2022 CHILE_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Dash Board slide fcst Octubre 2022.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Forecast 4Q_r01.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Forecast FY_r01.pptx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Indicadores Canal VD CHILE_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Template Fcst nomina CHILE_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Template Fcst nomina CHILE_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\102022_Template NS Fcst y pedidos Octubre 2022 CHILE_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\4. Template Fcst nomina.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\5. Dash Board slide fcst Octubre 2022.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Acciones para revertir quiebre NS_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\CHILE EscA_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado Hisp_r05.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\CHILE EscA_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado_r05.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Tiendas x Q_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Off\CHILE EscA_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado_r01.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Off\CHILE EscC_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado_r01.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Off\CHILE EscD_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado_r01 (1).xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\05_FNH\Off\CHILE EscD_Template Prometeo fcst P&l Octubre 2022 con 2021 actualizado_r01.xlsb
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\06_Previa Cierre\102022_Proyeccion Cierre Chile DRE_r05.xlsx
+Archivo;02_OTL\10_OTL Octubre\02_Ebitda\06_Previa Cierre\102022_Proyeccion Cierre Chile DRE_r06.xlsx
+Carpeta;02_OTL\10_OTL Octubre\03_FCFF\01_Descarda SAP
+Carpeta;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\102022_Construcción OTL BP con IFRS BGT_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\102022_Construcción OTL BP con IFRS BGT_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\102022_Construcción OTL BP con IFRS BGT_r03.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\102022_OTL FCF formato hispana_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\102022_OTL FCF formato hispana_r02.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\01_Descarda SAP\092022_Dinámica_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\01_Descarda SAP\102022_F01 VF_r01.XLS.txt
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\01_Descarda SAP\102022_F01_r01.XLS
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\01_Descarda SAP\102022_F01_r01.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\09. TAX REPORT NATURA SEPTIEMBRE.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\2022.08_NonCash&Leasing&Capex (1).xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\2022.08b_Natura FCFF (2) (1).xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\2022.08b_Natura FCFF (2).xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\3Year BGT_FP&A.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\AP_Hispanic_OTL_Oct_22.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\Base OTL BP_Oct22 (Reporte).xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\Contas a Pagar_LATAM_OTL_Oct_22.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\Estoque HL.xlsx
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\Fcst WC Natura HL _ Oct-Dec.msg
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\RES_ Fcst WC Natura HL _ Oct-Dec.msg
+Archivo;02_OTL\10_OTL Octubre\03_FCFF\02_Input Areas\RV_ 3Year BGT - Percentuais IR - AVON ARG y URU.msg
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda
+Carpeta;02_OTL\11_OTL Noviembre\03_FCFF
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\04_FX
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\06_Previa Cierre
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Base construcción Prometeo_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -21,0%_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -22,0%_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -22,0%_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -22,5% 10Dic_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -22,5%_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -24,1% 10Dic_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile pesimista -24,1%_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Construcción OTL Chile realista -20,4%_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_DRE Retail comparativo_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL pesimista -22,0%_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL pesimista -22,0%_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL pesimista -22,0%_r04.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL pesimista -22,0%_r05.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_Escenarios Comparativo OTL_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_OTL RETAIL_r01 v2.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_OTL RETAIL_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_RB x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\112022_RB-Ebitda x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\Maestro Prometeo Fcst P&l Noviembre 2022 con 2021 act sin proyectos.xlsb
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\112022_Monitoreo Ciclal FCST -22,0% vs -24,5%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\112022_Simulación escenarios impacto en ebitda_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\112022_Simulación escenarios impacto en ebitda_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\112022_Simulación escenarios impacto en ebitda_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\Comparartivo Escenarios NS 4°Q -24,1% O&L_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\Comparartivo Escenarios NS 4°Q -24,1%_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\Comparartivo Escenarios NS 4°Q.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\00_Revisión escenarios probables\Comparartivo Escenarios NS 4°Q_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\015_Escenarios OTL VD.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\016_OV_2023_Base Pesimista -21,0%.xlsm
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\016_OV_2023_Base Pesimista -22,0%.xlsm
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\016_OV_2023_Realista -20,4%.xlsm
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\017_OV_2023_Pesimista 22,5%.xlsm
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\07112022_TendenciaSemanal.pptx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Alineamiento OTL - 26.10.2022 VOL.pptx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Comparativo RL 2esc_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Monitoreo Ciclal FCST -20,4%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Monitoreo Ciclal FCST -21,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Monitoreo Ciclal FCST -22,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Monitoreo Mensual Retail VOL FCST_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida VOL_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida VOL_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida_Retail base_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida_Retail entregado_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida_VOL CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_OTL RB RL MB Perdida_VOL CONSOLIDADO_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -21,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -22,0% Dic10_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -22,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -22,5% Dic10_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -22,5%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -24,1% Dic10_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD pesimista -24,1%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\112022_Proyección RB VD realista -20,4%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\Check decrecimiento x escenario_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\01_RB\OTL Q4 FY 2022 26-10-2022 ultimo.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB\112022_Proyección MB Anual pesimista -20,4%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB\112022_Proyección MB Anual pesimista -22,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB\112022_Simulador Hispana Monetización -20,4%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB\112022_Simulador Hispana Monetización -22,0%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\02_MB\2. Template monetización CMV OTL Noviembre 2022.xlsx
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\02_Explicaciones
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\112022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\112022_Control OTLs IFRS Areas 2022_r01-CLLSCN005257.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\112022_Control OTLs IFRS Areas 2022_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\112022_OTL Pérdidas Noviembre a Diciembre.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\112022_OTL Pérdidas_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\OTL Pérdidas Noviembre a Diciembre.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r04.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r05.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r05-CLLSCN005257.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\Sem462022_Gestion Gastos Chile_r06.xlsx
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\112022_Esfuerzo TD_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\112022_M MKT_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\112022_OTL Publicidad_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\112022_OTL Publicidad_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\112022_Publicidad_.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes Gerenciales Octubre 2022 - Esfuerzo TD Hispana.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Contabilidad Nov 22.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\FCST NOV 2022 - CDP.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL 2022 en base a RL _ Collection Chile.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL Departamentales 02112022_xlsx.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL Natura Retail Chile 2022.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL Nómina y Provisiones Noviembre 2022.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL Publicidad Noviembre.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\OTL_Finanzas_Noviembre_22.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Archivo Gestión de gastos .msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Contrato regional Service Desk y Soporte en Sitio AVON.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Forecast Noviembre - Diciembre Alexa.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ Forecast Noviembre - Diciembre.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL 2022 en base a RL _ Collection Chile VF.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL Publicidad Noviembre.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL Tributario.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RITUALES.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RV_ OTL ESPACIOS 02112022_xlsx.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\RV_ OTL Producción .msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ AJUAR OCTUBRE_2022.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST C&C __ INCREMENTO 281_3 M.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST C&C __ INCREMENTO 281_3 M-CLLSCN005252.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST MKT Producto__Incremento 83_1 M.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST NOV 2022 - CDP.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST O&L VOL __ Eficiencia.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST Propaganda__Incremento 87_5 M.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST Rituales __ Incremento 105_5 M.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST Sustentabilidad __ Incremento 13_8.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ FCST Ventas __ Incremento 46_8 M.msg
+Carpeta;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Alexa.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Confirmación Forecast Nov 2022.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\FFOI.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\OTL PL COMERCIAL.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\RE_ OTL Contabilidad.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\RE_ OTL Tributario.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\RV_ OTL VOL.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Activacion (1).xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Amazonas.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Atencion.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Atraccion y Bienvenida.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Borboleta.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Calidad.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Cobranza.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Comercial.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Compras.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Comunicacion.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Contabilidad Nov 22.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Contabilidad.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\CX.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\DDP.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Desarrollo y Entrenamiento.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Eventos.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\FOFI.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Forecast Muestras Noviembre.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Forecast VOL Nov-22.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\G.General.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Infraestructura -VD.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Inventario.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Juridico.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\LNN.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\MKT Producto.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Muestras.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Nehuen.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Nómina.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\Notebook.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre\Noviembre\noviembre- juridico.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\03_Gastos\02_Explicaciones\RE_ Forecast Noviembre - Diciembre.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\04_FX\112022_Fx_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\04_FX\112022_Fx_r02.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\04_FX\2022.10_RealYTDOct_Índices Macroeconômicos.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\04_FX\RES_ Índices Macroeconômicos -Outubro 2022.msg
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\018_OV_2023_Pesimista 24,1%.xlsm
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\1. Template Prometeo Fcst P&l Noviembre 2022 CHILE_r01.xlsb
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\1. Template Prometeo Fcst P&l Noviembre 2022.xlsb
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_ Template RO Fcst 2022 CHILE_r04.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Dash Board slide fcst Octubre 2022.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Forecast 4Q_r01.pptx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Forecast 4Q_r02.pptx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Indicadores Canal VD CHILE_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Monitoreo Ciclal FCST -22,0% vs -24,5%_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Template Fcst nomina CHILE_r04.xlsx
+Archivo;02_OTL\11_OTL Noviembre\02_Ebitda\05_FNH\112022_Template NS Fcst y pedidos Octubre 2022 CHILE_r01.xlsx
+Carpeta;02_OTL\11_OTL Noviembre\03_FCFF\01_Descarda SAP
+Carpeta;02_OTL\11_OTL Noviembre\03_FCFF\02_Input Areas
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\112022_Construcción OTL BP con IFRS BGT_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\112022_Construcción OTL BP con IFRS BGT_r04.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\112022_OTL FCF formato hispana_r03.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\2022.10b_Natura FCFF.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\2022.11_FCFF Hispanic_Chile_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\2022.11_FCFF Hispanic_Consolidado.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\2022.11_FCFF Hispanic_modelo.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\01_Descarda SAP\102022_Dinámica_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\01_Descarda SAP\102022_F01_r01.XLS
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\01_Descarda SAP\102022_F01_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\01_Descarda SAP\2022.10- MAPEO BP.XLSX
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\02_Input Areas\112022_Contas a Pagar_LATAM_OTL_Nov_22.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\02_Input Areas\112022_Estoque HL_r01.xlsx
+Archivo;02_OTL\11_OTL Noviembre\03_FCFF\02_Input Areas\Base OTL BP_Nov22 (Reporte).xlsx
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda
+Carpeta;02_OTL\12_OTL Diciembre\03_FCFF
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\02_MB
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Base construcción Prometeo_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Construcción OTL Chile con Omni_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Construcción OTL Chile realista -23,1%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Construcción OTL Chile realista -23,1%_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Construcción OTL Chile realista -23,1%_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Construcción OTL Chile realista -23,6%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Control OTLs IFRS Areas 2022_r06.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_DRE Retail comparativo_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Escenarios Comparativo OTL realista -23,1%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Escenarios Comparativo OTL realista -23,1%_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Escenarios Comparativo OTL realista -23,1%_r04.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_Escenarios Comparativo OTL realista -23,1%_r04-CLLSCN005257.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_FCST rsmn Chile_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_OTL O&L_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_OTL RETAIL_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_RB x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\122022_RB-Ebitda x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\Maestro Prometeo fcst P&L Diciembre 2022 v2.xlsb
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\Mantener premisas de monetización y LI OTL anterior para Fcst de Dic 22_ .msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\019_OV_2023_Pesimista -23,6%.xlsm
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\019_OV_2023_Planeación -23,1%.xlsm
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Monitoreo Ciclal FCST -23,1%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Monitoreo Ciclal FCST -23,1%_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Monitoreo Mensual Retail VOL FCST_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_OTL RB RL MB Perdida VOL_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_OTL RB RL MB Perdida_Retail entregado_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_OTL RB RL MB Perdida_VOL CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Proyección RB VD realista -23,1% mes_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Proyección RB VD realista -23,1%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\122022_Proyección RB VD realista -23,6%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\Escenarios OTL VD.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\OTL 25.11.2022.pptx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\OTL Q4 FY 2022 26-10-2022 ultimo.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\RE_ Urgente__ Incremento OTL Eventos 41 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\01_RB\RV_ OTL Actualizado.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\02_MB\122022_Proyección MB Anual pesimista -23,1%_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\02_MB\122022_Simulador Hispana Monetización -23,1%_r01.xlsx
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r03-CLLSCN005257.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r04.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control OTLs IFRS Areas 2022_r05.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_Control%20OTLs%20IFRS%20Areas%202022_r05 (version 1).xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\122022_OTL Pérdidas_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\Sem482022_Gestion Gastos Chile_r08 OTL.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\Sem492022_Gestion Gastos Chile_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\Sem492022_Gestion Gastos Chile_r01-CLLSCN005252.xlsx
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\01. Ajustes Gerenciales OTL Noviembre 2022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\12. Diciembre - Presupuesto de premios 2022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\122022_DDP_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\122022_Esfuerzo TD_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\122022_M MKT_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\122022_OTL Pérdidas Diciembre 2022 (sin impacto ajuste).xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\122022_OTL Publicidad_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\5. MMKT Alocada - 11.2022 envio paises.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes Gerenciales Noviembre 2022 - Esfuerzo TD Hispana.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Cierre OTL Publi Diciembre 2022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Construcción OTL T11.2022 Retail.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\FOFI OTL.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Fondos Legales a REC.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Forecast consolidado Natura. DIC O&L.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Forecast Noviembre - Finanzas Muestras.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Calidad.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Departamentales 02122022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Departamentales 02122022_xlsx.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL DICIEMBRE - PRODUCCIÓN.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL ESPACIOS 02122022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL ESPACIOS 02122022_xlsx.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Nómina finanzas 02122022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Nómina y Provisiones Diciembre 2022.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL PRODUCCION DICIEMBRE 2023.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Renting 02122022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OTL Renting 02122022_xlsx.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\PL COM_Diciembre.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\RE_ OTL CDP.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\FCST DIC 2022 - CDP.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\Forecast REC.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ OTL CDP.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ OTL diciembre Natura Retail.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ OTL Publicidad Diciembre.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente __ Incremento Fcst REC 13_2 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\Re_ URGENTE __ Incremento OTL Jurídico $22_8 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__ Incremento OTL Atracción y Bienvenida $17_4 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__ Incremento OTL Comunicación $54_8 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__ Incremento OTL Desarrollo y Entrenamieto $9_1 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\Re_ Urgente__ Incremento OTL Eventos 41 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__ Incremento OTL RRHH 42_6 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__ Incremento OTL Ventas $36_2 M.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RE_ Urgente__Incremento Propaganda mail adjunto.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RV_ Forecast Diciembre__DEADLINE HOY.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\Ajustes\RV_ Forecast Diciembre__DEADLINE HOY-CLLSCN005252.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Activacion (1).xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Amazonas.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Atencion.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Atraccion y Bienvenida.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Borboleta.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Calidad.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Cobranza.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Comercial.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Compras.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Comunicacion.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Contabilidad.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\CX.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\DDP.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Desarrollo y Entrenamiento.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Eventos.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\FOFI.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\G.General.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Infraestructura -VD.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Inventario.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Juridico.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\LNN.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\MKT Producto.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Muestras.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Nehuen.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Nómina.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Notebook.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\O&L VOL.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Oasis.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Omnicanalidad.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\03_Gastos\01_Inputs\OneDrive_2_4-12-2022\Picking.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX\122022_Fx_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX\122022_Fx_r01-CLLSCN005257.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX\122022_Fx_r01-CLLSCN005257-2.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX\2022.11_RealYTDNov_Índices Macroeconômicos.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\04_FX\Índices Macroeconômicos -Novembro 2022.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\1. Template Maestro Prometeo fcst P&L Diciembre 2022.xlsb
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\1. Template Maestro Prometeo fcst P&L Diciembre 2022_CHILE_r01.xlsb
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_ Template RO Fcst 2022 CHILE_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Dash Board slide fcst Noviembre 2022.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Forecast 4Q_r01.pptx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Forecast 4Q_r02.pptx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Indicadores Canal VD CHILE_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Template Fcst nomina_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\05_FNH\122022_Template NS Fcst y pedidos Diciembre 2022 CHILE_r01.xlsx
+Carpeta;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r04.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r05.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r06.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\122022_Proyeccion Cierre Chile DRE_r07.xlsx
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones\RE_ Preliminar Cierre CLNN.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones\RE_ Preliminar Cierre Comunicación.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones\RE_ Preliminar Cierre G_ General.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones\RE_ Preliminar Cierre Infraestructura- VD.msg
+Archivo;02_OTL\12_OTL Diciembre\02_Ebitda\06_Previa Cierre\Variaciones\RE_ Preliminar Cierre VOL.msg
+Carpeta;02_OTL\12_OTL Diciembre\03_FCFF\01_Descarda SAP
+Carpeta;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas
+Carpeta;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic
+Carpeta;02_OTL\12_OTL Diciembre\03_FCFF\04_VF
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\122022_Construcción OTL BP con IFRS BGT_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\122022_Construcción OTL BP con IFRS BGT_r04.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\2022.12_FCFF Hispanic_Chile_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\2022.12_FCFF Hispanic_Chile_r04.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\01_Descarda SAP\112022_Dinámica_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\01_Descarda SAP\112022_F01_r02.XLS
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\01_Descarda SAP\112022_F01_r02.XLS.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas\AP_Hispanic_OTL_Dez_22.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas\Base OTL BP_Dic22 (Reporte).xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas\Contas a Pagar_LATAM_OTL_Dez_22.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas\Estoque HL Fcst.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\02_Input Areas\RES_ FP&A N&Co Latam - Alinhamento Mensal Cronograma.msg
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\2022.10b_Natura FCFF.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\2022.11_FCFF Hispanic_Consolidado.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\2022.12_FCFF Hispanic_Consolidado.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\FW_ Status Postergaciones de pagos Dic 2022.msg
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\R&O FCFF Dec 22.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\R&O FCFF Dec 22_Chile_r01.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\R&O FCFF Dec 22_Chile_r02.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\03_R&O Dic\R&O FCFF Dec 22_Chile_r03.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\04_VF\_Forecast Dec_22_ Natura LatAm FCFF --- Final.msg
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\04_VF\2022.11b_Natura FCFF.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\04_VF\2022.12_FCFF Hispanic_Consolidado.xlsx
+Archivo;02_OTL\12_OTL Diciembre\03_FCFF\04_VF\2022.12_NonCash_Natura Hispanic.xlsx
+Archivo;02_OTL\13_Cierre Año\122022_Escenarios Comparativo OTL cierre con PLR y Ajuste.xlsx
+Archivo;02_OTL\13_Cierre Año\122022_F01 VB_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\122022_F01_r01.XLS
+Archivo;02_OTL\13_Cierre Año\2022_Cierre MB Anual_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Cierre MB Anual_r02 .xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Cierre O&L_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Cierre O&L_r01-CLLSCN005257.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Cierre O&L_r02.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Cierre RETAIL_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Construcción OTL BP con IFRS Cierre_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Construcción OTL con PLR_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Construcción OTL con PLR+ajuste hispana_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Construcción OTL_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Control OTLs IFRS Areas 2022_01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Dinámica_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_DRE Retail Comparativo cuadrado_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Escenarios Comparativo OTL con PLR_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Escenarios Comparativo OTL Retail_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Escenarios Comparativo OTL Retail_r02.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Escenarios Comparativo OTL_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Escenarios Comparativo OTL_r03 Grafico LI.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_FCFF Hispanic_Chile_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Fx_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_OTL RB RL MB Perdida_Retail CONSOLIDADO_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_OTL RB RL MB Perdida_Retail entregado_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_OTL RB RL MB Perdida_Retail entregado_r02.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_OTL RETAIL NS_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_Proyección RB VD_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\2022_RB x Modelo Comercial_Chile sin IFRS_r01.xlsx
+Archivo;02_OTL\13_Cierre Año\Resumen resultados 2022.pptx
+Carpeta;03_Cierre\00_Carpetas
+Carpeta;03_Cierre\01_Enero
+Carpeta;03_Cierre\02_Febrero
+Carpeta;03_Cierre\03_Marzo
+Carpeta;03_Cierre\04_Abril
+Carpeta;03_Cierre\05_Mayo
+Carpeta;03_Cierre\06_Junio
+Carpeta;03_Cierre\07_Julio
+Carpeta;03_Cierre\08_Agosto
+Carpeta;03_Cierre\09_Septiembre
+Carpeta;03_Cierre\10_Octubre
+Carpeta;03_Cierre\11_Noviembre
+Carpeta;03_Cierre\12_Diciembre
+Carpeta;03_Cierre\13_Ajuste Cierre
+Carpeta;03_Cierre\00_Carpetas\01_Previa RB
+Carpeta;03_Cierre\00_Carpetas\02_Previa DRE
+Carpeta;03_Cierre\00_Carpetas\03_FX
+Carpeta;03_Cierre\00_Carpetas\04_Ajustes Gerenciales
+Carpeta;03_Cierre\00_Carpetas\05_Proyectos
+Carpeta;03_Cierre\00_Carpetas\06_mapeos
+Carpeta;03_Cierre\00_Carpetas\07_DRE CH
+Carpeta;03_Cierre\00_Carpetas\08_DRE Int
+Carpeta;03_Cierre\00_Carpetas\09_DRE Mensual
+Carpeta;03_Cierre\00_Carpetas\10_DRE CPV
+Carpeta;03_Cierre\00_Carpetas\11_FCFF
+Carpeta;03_Cierre\00_Carpetas\12_Retail VOL
+Carpeta;03_Cierre\00_Carpetas\13_Variación de Gastos
+Carpeta;03_Cierre\01_Enero\01_Previa RB
+Carpeta;03_Cierre\01_Enero\02_Previa DRE
+Carpeta;03_Cierre\01_Enero\03_FX
+Carpeta;03_Cierre\01_Enero\04_Ajustes Gerenciales
+Carpeta;03_Cierre\01_Enero\06_mapeos
+Carpeta;03_Cierre\01_Enero\07_DRE CH
+Carpeta;03_Cierre\01_Enero\11_FCF
+Carpeta;03_Cierre\01_Enero\12_Retail
+Carpeta;03_Cierre\01_Enero\13_DRE Chile con BP ajustado x PLR 2021
+Archivo;03_Cierre\01_Enero\Analisis RB 28.01 Cierre Gera_r01.xlsx
+Archivo;03_Cierre\01_Enero\Reporte VOL Resultados Enero.pdf
+Archivo;03_Cierre\01_Enero\01_Previa RB\012022_Cierre VD (Proyección RB VD 0,36%)_r01.xlsx
+Archivo;03_Cierre\01_Enero\01_Previa RB\012022_Cierre VD (Proyección RB VD 0,36%)_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\01_Previa RB\Entregas - 31-01-2022.pdf
+Archivo;03_Cierre\01_Enero\01_Previa RB\Entregas - 31-01-2022-CLLSCN005257.pdf
+Archivo;03_Cierre\01_Enero\01_Previa RB\Entregas al 31-01-2022.pdf
+Archivo;03_Cierre\01_Enero\01_Previa RB\Entregas al 31-01-2022-CLLSCN005257.pdf
+Archivo;03_Cierre\01_Enero\01_Previa RB\Template Previa RL y RB - Cierre Enero 2022_r01.xlsx
+Archivo;03_Cierre\01_Enero\01_Previa RB\Template Previa RL y RB - Cierre Enero 2022_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_cierre.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_cierre-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r01}.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r01}-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r03.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r03-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r04.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r04-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r05.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa DRE Revisión_r05-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa Retail_r01.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa Retail_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa Venta Online_r01.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\012022_Previa Venta Online_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022 Cierre.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022 Cierre-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_03.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_03-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_04.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_04-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_05.xlsx
+Archivo;03_Cierre\01_Enero\02_Previa DRE\DRE Enero 2022_05-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\012022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\012022_Gestión Ajustes Gerenciales_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\012022_Gestión Ajustes Gerenciales_r02.xlsx
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\012022_Gestión Ajustes Gerenciales_r02-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022.xlsx
+Archivo;03_Cierre\01_Enero\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\06_mapeos\Mapa Enero 2022.xlsx
+Archivo;03_Cierre\01_Enero\06_mapeos\Mapa Enero 2022-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\06_mapeos\TM1_MAP_MN.xlsx
+Archivo;03_Cierre\01_Enero\06_mapeos\TM1_MAP_MN-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022 DRE VOL_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_Cierre RETAIL_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE Enero _r01.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE Enero _r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE IFRS 16 con CTA Aperturado sin donación_r01.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE IFRS 16 con CTA Aperturado sin donación_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE O&L_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\07_DRE CH\012022_DRE Retail comparativo_r01.xlsx
+Archivo;03_Cierre\01_Enero\11_FCF\2022 01 BOOK + RESP. + PTOS CSC.XLSM
+Archivo;03_Cierre\01_Enero\11_FCF\2022 01 BOOK + RESP. + PTOS CSC-CLLSCN005257.XLSM
+Archivo;03_Cierre\01_Enero\11_FCF\2022.01- MAPEO BP (Actualizado) - AM.xlsx
+Archivo;03_Cierre\01_Enero\11_FCF\2022.01- MAPEO BP (Actualizado) - AM-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r02.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r02-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r03.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r03-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r04.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\Cierre RB RL MB Perdida_Retail_r04-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\RB Report_consolidado - envio CHILE.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\RB Report_consolidado - envio CHILE-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\RB Report_consolidado - envio.xlsx
+Archivo;03_Cierre\01_Enero\12_Retail\RB Report_consolidado - envio-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\13_DRE Chile con BP ajustado x PLR 2021\012022_DRE Enero IFRS con CTA Aperturado sin donación_r02.xlsx
+Archivo;03_Cierre\01_Enero\13_DRE Chile con BP ajustado x PLR 2021\012022_DRE Enero IFRS con CTA Aperturado sin donación_r02-CLLSCN005257.xlsx
+Archivo;03_Cierre\01_Enero\13_DRE Chile con BP ajustado x PLR 2021\Chile DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\01_Enero\13_DRE Chile con BP ajustado x PLR 2021\Chile DRE 2022 con IFRS y CTA-CLLSCN005257.xlsx
+Carpeta;03_Cierre\02_Febrero\01_Previa RB
+Carpeta;03_Cierre\02_Febrero\02_Previa DRE
+Carpeta;03_Cierre\02_Febrero\03_FX
+Carpeta;03_Cierre\02_Febrero\04_Ajustes Gerenciales
+Carpeta;03_Cierre\02_Febrero\06_mapeos
+Carpeta;03_Cierre\02_Febrero\07_DRE CH
+Carpeta;03_Cierre\02_Febrero\12_Retail
+Archivo;03_Cierre\02_Febrero\Reporte VOL Febrero 2022.pdf
+Archivo;03_Cierre\02_Febrero\01_Previa RB\Analisis GERA VD_r01.xlsx
+Archivo;03_Cierre\02_Febrero\01_Previa RB\Entregas - Feb 2022.pdf
+Archivo;03_Cierre\02_Febrero\01_Previa RB\Entregas al 28-02-2022.pdf
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\022022_Previa DRE Revisión_r01.xlsx
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\022022_Previa DRE Revisión_r02.xlsx
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\022022_Previa DRE Revisión_r04.xlsx
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\2022 Apertura gastos DRE v2.xlsx
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\DRE v-2022.03.04 14.53.xlsx
+Archivo;03_Cierre\02_Febrero\02_Previa DRE\Dre v-2022.03.07 17.37.xlsx
+Archivo;03_Cierre\02_Febrero\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\02_Febrero\04_Ajustes Gerenciales\022022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\02_Febrero\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022.xlsx
+Archivo;03_Cierre\02_Febrero\06_mapeos\Mapeo Modelo.xlsx
+Archivo;03_Cierre\02_Febrero\06_mapeos\Mapeo Realizado.xlsx
+Carpeta;03_Cierre\02_Febrero\07_DRE CH\Explicaciones
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022 DRE VOL_r02.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_Cierre RETAIL_r02.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_Cierre RETAIL_r03.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_DRE IFRS con CTA Aperturado sin donación_r01.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_DRE IFRS con CTA Aperturado sin donación_r02.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_DRE O&L_r02.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\022022_DRE O&L_r03.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Dre Chile Febrero 2022.xlsx
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Alerta Superación Gastos Infraestructura.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ HS y OC pendientes.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Previa Cierre febrero 2022-Social Selling.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Previa Cierre Febrero.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Previa Cierre Gastos - TD.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Previa Cierre Servicio al Cliente Febrero.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Provisión Perdida - Inicios.msg
+Archivo;03_Cierre\02_Febrero\07_DRE CH\Explicaciones\RE_ Variación Retail - Línea Comunicación .msg
+Archivo;03_Cierre\02_Febrero\12_Retail\Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\02_Febrero\12_Retail\Cierre RB RL MB Perdida_Retail_r02.xlsx
+Archivo;03_Cierre\02_Febrero\12_Retail\RB Report_consolidado - envio.xlsx
+Carpeta;03_Cierre\03_Marzo\01_Previa RB
+Carpeta;03_Cierre\03_Marzo\02_Previa DRE
+Carpeta;03_Cierre\03_Marzo\03_FX
+Carpeta;03_Cierre\03_Marzo\04_Ajustes Gerenciales
+Carpeta;03_Cierre\03_Marzo\06_mapeos
+Carpeta;03_Cierre\03_Marzo\07_DRE CH
+Carpeta;03_Cierre\03_Marzo\11_FCF
+Carpeta;03_Cierre\03_Marzo\12_Retail
+Carpeta;03_Cierre\03_Marzo\13_Variacion Gastos
+Archivo;03_Cierre\03_Marzo\Reporte VOL Marzo 2022.pdf
+Archivo;03_Cierre\03_Marzo\01_Previa RB\Entregas - 31-03-2022.pdf
+Archivo;03_Cierre\03_Marzo\01_Previa RB\Entregas - Mar 2022.pdf
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\032022_Previa DRE 04042308.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\032022_Previa DRE 04051125.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\032022_Previa DRE 04051740.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\032022_Previa DRE 04051952.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\Dre pais V-2022.04.04 23.08.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\Dre pais V-2022.04.05 11.25.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\Dre pais V-2022.04.05 17.40.xlsx
+Archivo;03_Cierre\03_Marzo\02_Previa DRE\Dre pais V-2022.04.05 19.52.xlsx
+Archivo;03_Cierre\03_Marzo\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\03_Marzo\04_Ajustes Gerenciales\032022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\03_Marzo\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022.xlsx
+Archivo;03_Cierre\03_Marzo\06_mapeos\Mapeo Modelos.xlsx
+Archivo;03_Cierre\03_Marzo\06_mapeos\Mapeo Realizado.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_Cierre RETAIL_r02.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r03.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r04.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_DRE Enero IFRS con CTA Aperturado sin donación_r01.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\032022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\03_Marzo\07_DRE CH\Dre Chile Mar 22.xlsx
+Archivo;03_Cierre\03_Marzo\11_FCF\2022 03 BOOK + RESP. + PTOS CSC.XLSM
+Archivo;03_Cierre\03_Marzo\12_Retail\Cierre RB RL MB Perdida_Retail_r03.xlsx
+Archivo;03_Cierre\03_Marzo\12_Retail\Cierre RB RL MB Perdida_Retail_r04.xlsx
+Archivo;03_Cierre\03_Marzo\12_Retail\Cierre RB RL MB Perdida_Retail_r05.xlsx
+Archivo;03_Cierre\03_Marzo\12_Retail\Cierre RB RL MB Perdida_Retail_r06.xlsx
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RE_ Justificación Cierre Publicidad VD.msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RE_ Justificación Variación Forecast Marzo 2022 Relacionamiento __ deadline 04-04 (hoy).msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RE_ Pre Cierre O&L.msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RE_ Preliminar Cierre CLNN.msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RE_ Preliminar Cierre TD.msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RV_ Ajustes Gerenciais Brasil x OIs - 1º Tri 2022 - CRM as a Service.msg
+Archivo;03_Cierre\03_Marzo\13_Variacion Gastos\RV_ Pre Cierre O&L Transporte.msg
+Carpeta;03_Cierre\04_Abril\01_Previa RB
+Carpeta;03_Cierre\04_Abril\02_Previa DRE
+Carpeta;03_Cierre\04_Abril\03_FX
+Carpeta;03_Cierre\04_Abril\04_Ajustes Gerenciales
+Carpeta;03_Cierre\04_Abril\06_mapeos
+Carpeta;03_Cierre\04_Abril\07_DRE CH
+Carpeta;03_Cierre\04_Abril\12_Retail
+Carpeta;03_Cierre\04_Abril\13_Variación de Gastos
+Archivo;03_Cierre\04_Abril\01_Previa RB\042022_Análisis avance RB VD CHILE CIERRE_r08.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\042022_Análisis avance RB VD CHILE CIERRE_r09.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\042022_Cierre Ciclal_r01.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\042022_Proyección RB VD Realista2 PREVIA_r02.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\Analisis RB 26.04.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\Analisis RB cierre abril.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\Analisis RB cierre marzo.xlsx
+Archivo;03_Cierre\04_Abril\01_Previa RB\Entregas - Abr 2022.pdf
+Archivo;03_Cierre\04_Abril\01_Previa RB\Receta Modelo DRE.xlsx
+Archivo;03_Cierre\04_Abril\02_Previa DRE\042022_Previa Cierre 05.04. 10.04.xlsx
+Archivo;03_Cierre\04_Abril\02_Previa DRE\042022_Previa Cierre 05.04. 17.11.xlsx
+Archivo;03_Cierre\04_Abril\02_Previa DRE\042022_Previa Cierre_r01.xlsx
+Archivo;03_Cierre\04_Abril\02_Previa DRE\Dre Chile v2022.05.04 10.04.xlsx
+Archivo;03_Cierre\04_Abril\02_Previa DRE\Dre Chile v2022.05.04 17.11.xlsx
+Archivo;03_Cierre\04_Abril\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\04_Abril\04_Ajustes Gerenciales\042022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\04_Abril\04_Ajustes Gerenciales\042022_Gestión Ajustes Gerenciales_r02.xlsx
+Archivo;03_Cierre\04_Abril\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Archivo;03_Cierre\04_Abril\06_mapeos\Mapeo Modelos.xlsx
+Archivo;03_Cierre\04_Abril\06_mapeos\Mapeo Realizado.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_Cierre RETAIL_r02.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_Cierre RETAIL_r03.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r03.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r04.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\042022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\Dre Chile Abr 22.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\Resumo de Resultados.xlsx
+Archivo;03_Cierre\04_Abril\07_DRE CH\Sem222022_Gestion Gastos Chile_r10.xlsx
+Archivo;03_Cierre\04_Abril\12_Retail\042022_Cierre RB RL MB Perdida_Retail_r01 Abril.xlsx
+Archivo;03_Cierre\04_Abril\12_Retail\042022_Cierre RB RL MB Perdida_Retail_r02 Abril.xlsx
+Archivo;03_Cierre\04_Abril\12_Retail\042022_RB Report_consolidado - envio.xlsx
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\Outlook de Atención Chile May 22.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\Preliminar Cierre Abril - MKT Producto.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\Provision - Estrategia y Exp_ Varejo.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Outlook de Atención Chile May 22.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Preliminar Cierre Abril - CLNN.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Preliminar Cierre Abril - RRHH.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Preliminar Cierre Abril - Sustentabilidad.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\Re_ RE_ Preliminar Cierre Abril - Retail.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Variación Cierre Abril SISTEMAS.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Variación Cierre Calidad.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Variaciones Cierre Abril Distribución y Separación INVENTARIO.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\RE_ Variaciones Cierre Abril Distribución y Separación PICKING.msg
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\Sem182022_Gestion Gastos Chile_r06.xlsx
+Archivo;03_Cierre\04_Abril\13_Variación de Gastos\TD- ppto.msg
+Carpeta;03_Cierre\05_Mayo\01_Previa RB
+Carpeta;03_Cierre\05_Mayo\02_Previa DRE
+Carpeta;03_Cierre\05_Mayo\03_FX
+Carpeta;03_Cierre\05_Mayo\06_mapeos
+Carpeta;03_Cierre\05_Mayo\07_DRE CH
+Carpeta;03_Cierre\05_Mayo\08_DRE Int
+Carpeta;03_Cierre\05_Mayo\12_Retail
+Carpeta;03_Cierre\05_Mayo\13_Variación de Gastos
+Archivo;03_Cierre\05_Mayo\Reporte VOL Mayo 2022.pdf
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Cierre Mayo_RB VD & VOL Gera_r01.xlsx
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Cronograma Mayo 2022 - Principales Hitos.msg
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Daily Report RB & RL 30_05.msg
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Entregas - May 2022.pdf
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Panel de NC - Cierre Mayo.msg
+Archivo;03_Cierre\05_Mayo\01_Previa RB\Panel Perfect Order 2022.msg
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\052022_Previa Chile_r01.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\052022_Previa Chile_r02.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\052022_Previa Chile_r03.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\052022_Previa Chile_r05.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\Dre Chile v2022.06.03 10.24.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\Dre Chile v2022.06.03 11.49.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\Dre Chile v2022.06.03 16.54.xlsx
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\Propuesta Cierre Chile Mayo 2022.msg
+Archivo;03_Cierre\05_Mayo\02_Previa DRE\Sem222022_Gestion Gastos Chile_r06.xlsx
+Archivo;03_Cierre\05_Mayo\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\05_Mayo\06_mapeos\Mapeo Modelos.xlsx
+Archivo;03_Cierre\05_Mayo\06_mapeos\Mapeo Realizado.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\052022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\052022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\052022_DRE Enero IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\052022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\Dre Chile Cierre May 22.xlsx
+Archivo;03_Cierre\05_Mayo\07_DRE CH\Sem222022_Gestion Gastos Chile (cierre)_r10.xlsx
+Archivo;03_Cierre\05_Mayo\08_DRE Int\Resumo de Resultados.xlsx
+Archivo;03_Cierre\05_Mayo\12_Retail\052022_Cierre RB RL MB Perdida_Retail_r01 Mayo.xlsx
+Archivo;03_Cierre\05_Mayo\12_Retail\052022_Cierre RB RL MB Perdida_Retail_r03.xlsx
+Archivo;03_Cierre\05_Mayo\12_Retail\052022_Cierre RB RL MB Perdida_Retail_r04.xlsx
+Archivo;03_Cierre\05_Mayo\12_Retail\052022_Cierre RB RL MB Perdida_Retail_r05.xlsx
+Archivo;03_Cierre\05_Mayo\12_Retail\052022_RB Report_consolidado - envio.xlsx
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\Prov Material Promocional - Inicios.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ 50347714 LUMINA MASCARA WB0007_WB0006 AJUSTE GERENCIAL.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Cierre Mayo - Nómina__URGENTE.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Preliminar Cierre Calidad.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Preliminar cierre CLNN.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Preliminar Cierre REC.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ PROVISIONES DE SERVICIOS 05_2022.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Reporte O&L - Cierre (Abril) '22 TRANSPORTE.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RE_ Reporte O&L - Cierre (Abril) '22 VOL.msg
+Archivo;03_Cierre\05_Mayo\13_Variación de Gastos\RV_ Colombia - Ajuste Gerencial MLF Enero_ Febrero_ Marzo_ Abril de 2022 actualizado.msg
+Carpeta;03_Cierre\06_Junio\01_Previa RB
+Carpeta;03_Cierre\06_Junio\02_Previa DRE
+Carpeta;03_Cierre\06_Junio\03_FX
+Carpeta;03_Cierre\06_Junio\04_Ajustes Gerenciales
+Carpeta;03_Cierre\06_Junio\05_Proyectos
+Carpeta;03_Cierre\06_Junio\06_mapeos
+Carpeta;03_Cierre\06_Junio\07_DRE CH
+Carpeta;03_Cierre\06_Junio\08_DRE Int
+Carpeta;03_Cierre\06_Junio\09_DRE Mensual
+Carpeta;03_Cierre\06_Junio\10_DRE CPV
+Carpeta;03_Cierre\06_Junio\11_FCF
+Carpeta;03_Cierre\06_Junio\12_Retail
+Carpeta;03_Cierre\06_Junio\13_Variación de Gastos
+Archivo;03_Cierre\06_Junio\Reporte Junio VOL Comunidad + Comercial.pdf
+Archivo;03_Cierre\06_Junio\01_Previa RB\062022_Proyección RB VD Cierre.xlsx
+Archivo;03_Cierre\06_Junio\01_Previa RB\Pedido Analisis CN 28.06.xlsx
+Archivo;03_Cierre\06_Junio\01_Previa RB\Preliminar Cierre Daily Report RB & RL 28_06 .msg
+Archivo;03_Cierre\06_Junio\01_Previa RB\RE_ Urgente cierre Retail.msg
+Archivo;03_Cierre\06_Junio\01_Previa RB\RE_ Urgente Cierre VOL.msg
+Archivo;03_Cierre\06_Junio\02_Previa DRE\062022_Previa Cierre 07 05 09 29_r01.xlsx
+Archivo;03_Cierre\06_Junio\02_Previa DRE\062022_Previa Cierre 07 05 18 21_r01.xlsx
+Archivo;03_Cierre\06_Junio\02_Previa DRE\062022_Previa Cierre 07 05 21 14_r01.xlsx
+Archivo;03_Cierre\06_Junio\02_Previa DRE\Dre v2022.07.05 09.29.xlsx
+Archivo;03_Cierre\06_Junio\02_Previa DRE\Dre v2022.07.05 18.21.xlsx
+Archivo;03_Cierre\06_Junio\02_Previa DRE\Dre v2022.07.05 21.14.xlsx
+Archivo;03_Cierre\06_Junio\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\06_Junio\04_Ajustes Gerenciales\062022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\06_Junio\04_Ajustes Gerenciales\Ajustes Gerenciales - junio 2022.msg
+Archivo;03_Cierre\06_Junio\06_mapeos\Mapeos Nuevos v2022_07_01 21_27.msg
+Archivo;03_Cierre\06_Junio\07_DRE CH\062022_DRE IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\06_Junio\07_DRE CH\AJUSTE INVERSION TBS.msg
+Archivo;03_Cierre\06_Junio\07_DRE CH\Dre Chile Junio 2022 Reportado.msg
+Archivo;03_Cierre\06_Junio\07_DRE CH\Dre Chile Junio 2022 vF.xlsx
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\PROVISIONES 06_2022.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ Aumento Gera Anual - IPCA.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ Patentes Municipales.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ PLR NATURA & AVON 2Q.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ Preliminar cierre Atención.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ Preliminar cierre Calidad.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RE_ Preliminar cierre Eventos.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RV_ Aumento Gera Anual - IPCA.msg
+Archivo;03_Cierre\06_Junio\13_Variación de Gastos\RV_ Oficinas CD Bodenor_.msg
+Carpeta;03_Cierre\07_Julio\01_Previa RB
+Carpeta;03_Cierre\07_Julio\02_Previa DRE
+Carpeta;03_Cierre\07_Julio\03_FX
+Carpeta;03_Cierre\07_Julio\04_Ajustes Gerenciales
+Carpeta;03_Cierre\07_Julio\05_Proyectos Provisiones
+Carpeta;03_Cierre\07_Julio\06_mapeos
+Carpeta;03_Cierre\07_Julio\07_DRE CH
+Carpeta;03_Cierre\07_Julio\08_DRE Int
+Carpeta;03_Cierre\07_Julio\09_DRE Mensual
+Carpeta;03_Cierre\07_Julio\10_DRE CPV
+Carpeta;03_Cierre\07_Julio\11_FCF
+Carpeta;03_Cierre\07_Julio\12_Retail
+Carpeta;03_Cierre\07_Julio\13_Variación de Gastos
+Archivo;03_Cierre\07_Julio\072022_Cierre RB RL MB Perdida_Retail_r05.xlsx
+Archivo;03_Cierre\07_Julio\Reporte VOL Julio 2022.pdf
+Archivo;03_Cierre\07_Julio\01_Previa RB\072022_Previa Monitoreo Ciclal_r01.xlsx
+Archivo;03_Cierre\07_Julio\01_Previa RB\Daily Report RB & RL Cierre Julio.msg
+Archivo;03_Cierre\07_Julio\01_Previa RB\Entregas - Jul 2022.pdf
+Archivo;03_Cierre\07_Julio\01_Previa RB\OV_2023_Base Realista.xlsm
+Archivo;03_Cierre\07_Julio\01_Previa RB\Pedido 01-08 (Info hasta el 27-07).xlsx
+Archivo;03_Cierre\07_Julio\01_Previa RB\Pedidos 26-07 (Informacion hasta el 25-07).xlsx
+Archivo;03_Cierre\07_Julio\01_Previa RB\Pedidos 27-07 (Informacion hasta el 26-07).xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\072022_Previa Cierre 0803 2039_r01.xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\072022_Previa Cierre 08031113.r01.xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\072022_Previa Cierre 08031113.r02.xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\Dre Chile v2022.08.03 11.13.xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\Dre Chile v2022.08.03 20.39.xlsx
+Archivo;03_Cierre\07_Julio\02_Previa DRE\GASTOSCL.XLSX
+Archivo;03_Cierre\07_Julio\02_Previa DRE\Sem312022_Gestion Gastos Chile_r06.xlsx
+Archivo;03_Cierre\07_Julio\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\07_Julio\04_Ajustes Gerenciales\072022_Gestión Ajustes Gerenciales_r02.xlsx
+Archivo;03_Cierre\07_Julio\04_Ajustes Gerenciales\Ajustes Gerenciales - julio 2022.msg
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\202207 Calculo PDD Chile.xlsx
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\202207 Cálculo Provisión - Nuevo Modelo.xlsx
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\PROVISION FOFI.xlsx
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\Provision MP.xlsx
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\RE_ PROVISIONES STOCK CHILE - JULIO 2022.msg
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\TEMPLATE PROVISION +60 DIAS.xlsx
+Archivo;03_Cierre\07_Julio\05_Proyectos Provisiones\TEMPLATE PROVISION EN TRANSITO.xlsx
+Archivo;03_Cierre\07_Julio\06_mapeos\NUEVOS MAPEOS.msg
+Archivo;03_Cierre\07_Julio\06_mapeos\RE_ NUEVOS MAPEOS.msg
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022_DRE IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022_DRE IFRS con CTA Aperturado sin donación + TBS_r03.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022_DRE IFRS con CTA Aperturado sin donación + TBS_r04.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\072022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\Dre Chile Jullio 2022 vF_r03.xlsx
+Archivo;03_Cierre\07_Julio\07_DRE CH\Sem312022_Gestion Gastos Chile_r08.xlsx
+Archivo;03_Cierre\07_Julio\11_FCF\2022 07 BOOK + RESP. + PTOS CSC.XLSM
+Archivo;03_Cierre\07_Julio\12_Retail\072022_Cierre RB RL MB Perdida_Retail_r05.xlsx
+Archivo;03_Cierre\07_Julio\12_Retail\072022_Cierre RB RL MB Perdida_Retail_r06.xlsx
+Archivo;03_Cierre\07_Julio\12_Retail\072022_Detalle Ajuste CMV_r01.xlsx
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\Inventario.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\Justificación Variación Muestras Julio.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Dudas de gastos gestionados desde Conta1.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Dudas de gastos gestionados desde Conta2.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Dudas variación FCST-Real__Urgente Felicidad.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Explicación Ahorro Retail.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Explicación Incremento Gastos TD__importante hoy.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Explicación Superación gasto Revista __ URGENTE.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Explicación variación fcst-real__Urgente Rituales.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ LINEA DE PERDIDAS JULIO 2022.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Perdida de Eficiencia Crédito__EXPLICACIÓN URGENTE HOY.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Pre Cierre O&L Julio 2022 __ Validar Atención.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Preliminar Cierre CLNN.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Preliminar Cierre TD.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Preliminar Cierre VOL O&L.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Solicitud Explicaciones FCST_Real Julio 2022.msg
+Archivo;03_Cierre\07_Julio\13_Variación de Gastos\RE_ Variable GN__Respuesta Cierre Julio 2022.msg
+Carpeta;03_Cierre\08_Agosto\01_Previa RB
+Carpeta;03_Cierre\08_Agosto\02_Previa DRE
+Carpeta;03_Cierre\08_Agosto\03_FX
+Carpeta;03_Cierre\08_Agosto\05_Proyectos AG
+Carpeta;03_Cierre\08_Agosto\06_mapeos
+Carpeta;03_Cierre\08_Agosto\07_DRE CH
+Carpeta;03_Cierre\08_Agosto\08_DRE Int
+Carpeta;03_Cierre\08_Agosto\09_DRE Mensual
+Carpeta;03_Cierre\08_Agosto\10_DRE CPV
+Carpeta;03_Cierre\08_Agosto\11_FCF
+Carpeta;03_Cierre\08_Agosto\12_Retail VOL
+Carpeta;03_Cierre\08_Agosto\13_Variación de Gastos
+Archivo;03_Cierre\08_Agosto\01_Previa RB\082022_Proyección Cierre VD_r01.xlsx
+Archivo;03_Cierre\08_Agosto\01_Previa RB\Proyección Cierre NS Agosto 2022.msg
+Archivo;03_Cierre\08_Agosto\01_Previa RB\RECETA AGOSTO 2022.msg
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Previa 05092022_1959_r01.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Previa 06092022_11.43_r02.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Previa 06092022_11.43_r03.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Previa 06092022_19.00_r04.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Previa 06092022_19.00_r05.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r02.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r03.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r04.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r05.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r06.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r07.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\082022_Proyeccion Cierre Chile DRE_r08.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\Dre Chile v2022.09.05 19.59.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\Dre Chile v2022.09.06 11.43.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\Dre Chile v2022.09.06 19.00.xlsx
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\Propuesta cierre Chile Agsoto 2022.msg
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\Re_ Propuesta cierre Chile Agsoto 2022.msg
+Archivo;03_Cierre\08_Agosto\02_Previa DRE\RECLASIFICACION FOLLETOS MUESTRAS REVISTAS.msg
+Archivo;03_Cierre\08_Agosto\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\08_Agosto\05_Proyectos AG\082022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\08_Agosto\05_Proyectos AG\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Carpeta;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE IFRS con CTA Aperturado .xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE IFRS con CTA Aperturado_r05.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE IFRS con CTA Aperturado_r06.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\082022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Dre Chile Cierre Agosto 2022.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\Argentina DRE 2022 con AxI.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\Argentina DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\Chile DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\Colombia DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\México DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\08_Agosto\07_DRE CH\Reportes NHL\Perú DRE 2022 con IFRS y CTA.xlsx
+Archivo;03_Cierre\08_Agosto\08_DRE Int\DRE Internacional - Agosto 2022 Plan econo.xlsx
+Archivo;03_Cierre\08_Agosto\11_FCF\_Ago_22 Closing_ Free Cash Flow Natura LatAm.msg
+Archivo;03_Cierre\08_Agosto\11_FCF\2022 08 BOOK.XLSM
+Archivo;03_Cierre\08_Agosto\11_FCF\2022.08_Overview Working Capital Natura LatAm CHILE_r01.xlsx
+Archivo;03_Cierre\08_Agosto\11_FCF\2022.08b_Natura FCFF.xlsx
+Archivo;03_Cierre\08_Agosto\12_Retail VOL\082022_Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\08_Agosto\12_Retail VOL\082022_Cierre RB RL MB Perdida_Retail_r02.xlsx
+Archivo;03_Cierre\08_Agosto\12_Retail VOL\Reporte VOL Agosto 2022.pdf
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\OTL Publicidad Septiembre.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Activación.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre CLNN.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Cobranza.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Comunicación.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre CX.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\Re_ Preliminar Cierre Desarrollo y Entrenamiento.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Infraestructura VD.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Retail.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre Rituales y Eventos.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre RRHH.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre VOL departamental.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Preliminar Cierre VOL.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Previa cierre Perdidas__URGENTE.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Previa Cierre Rituales__URGENTE.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Previa Cierre Variable__URGENTE.msg
+Archivo;03_Cierre\08_Agosto\13_Variación de Gastos\RE_ Previa Cierre Ventas__URGENTE.msg
+Carpeta;03_Cierre\09_Septiembre\01_Previa RB
+Carpeta;03_Cierre\09_Septiembre\02_Previa DRE
+Carpeta;03_Cierre\09_Septiembre\03_FX
+Carpeta;03_Cierre\09_Septiembre\04_Ajustes Gerenciales
+Carpeta;03_Cierre\09_Septiembre\05_Proyectos
+Carpeta;03_Cierre\09_Septiembre\06_mapeos
+Carpeta;03_Cierre\09_Septiembre\07_DRE CH
+Carpeta;03_Cierre\09_Septiembre\08_DRE Int
+Carpeta;03_Cierre\09_Septiembre\09_DRE Mensual
+Carpeta;03_Cierre\09_Septiembre\10_DRE CPV
+Carpeta;03_Cierre\09_Septiembre\11_FCFF
+Carpeta;03_Cierre\09_Septiembre\12_Retail VOL
+Carpeta;03_Cierre\09_Septiembre\13_Variación de Gastos
+Carpeta;03_Cierre\09_Septiembre\14_Reclasificaciones
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\092022_Monitoreo Ciclal Cierre_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\092022_Monitoreo Ciclal Cierre_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\092022_Pedidos Mes_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\Escenarios potenciales ciclo cn_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\OTL 26.09.2022.pptx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\Pedido 03-10-2022 (Cierre Septiembre 23-08-22 hasta 20-09-22).xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\Pedido 26-09-2022 (Info hasta 25-09-2022).xlsx
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\Previa NS NHL - Septiembre 2022.msg
+Archivo;03_Cierre\09_Septiembre\01_Previa RB\RE_ Urgente_ Reporte de Entregas - Natura Sep 22.msg
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Previa.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r03.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r04.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r05.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r06.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE con TM1_r07.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE_r03.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE_r04.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\092022_Proyeccion Cierre Chile DRE_r05.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\Dre Chile 2022.10.05 19.48.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\Dre Chile 2022.10.05 21.02.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\Dre Chile v2022.10.05 03.01.xlsx
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\Propuesta cierre Chile Septiembre 2022.msg
+Archivo;03_Cierre\09_Septiembre\02_Previa DRE\RE_ Propuesta cierre Chile Septiembre 2022.msg
+Archivo;03_Cierre\09_Septiembre\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\09_Septiembre\04_Ajustes Gerenciales\Ajustes Gerenciales - setembro 2022.msg
+Archivo;03_Cierre\09_Septiembre\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Archivo;03_Cierre\09_Septiembre\06_mapeos\Mapeo Modelos.xlsx
+Archivo;03_Cierre\09_Septiembre\06_mapeos\Mapeo Realizado.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\072022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\082022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022_DRE C&C_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022_DRE C&C_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022_DRE IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\092022_DRE O&L_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\Dre Aperturado C&C Septiembre.xlsx
+Archivo;03_Cierre\09_Septiembre\07_DRE CH\Dre Chile Septiembre 2022.xlsx
+Archivo;03_Cierre\09_Septiembre\08_DRE Int\Resumo de Resultados (7).xlsx
+Archivo;03_Cierre\09_Septiembre\11_FCFF\2022 09 BOOK + RESP. + PTOS CSC.XLSM
+Archivo;03_Cierre\09_Septiembre\11_FCFF\2022.09_Overview Working Capital Natura LatAm CHILE_r01.xlsx
+Archivo;03_Cierre\09_Septiembre\11_FCFF\2022.09_Overview Working Capital Natura LatAm.xlsx
+Archivo;03_Cierre\09_Septiembre\12_Retail VOL\092022_Cierre RB RL MB Perdida_Retail_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\12_Retail VOL\092022_Cierre RB RL MB Perdida_Retail_r03.xlsx
+Archivo;03_Cierre\09_Septiembre\12_Retail VOL\092022_Cierre RB RL MB Perdida_Retail_r03-CLLSCN005257.xlsx
+Archivo;03_Cierre\09_Septiembre\12_Retail VOL\Indicadores de Negocio_r02.xlsx
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\Provisión CSI 3° TT 2022 - CHILE.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\Proyectos & CTA.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ CC Cardex II LATAM - Valor por país.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ CONGELAMIENTO STOCK SEPTIEMBRE 2022.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Desviación cierre 48 M.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar cierre Activación.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar cierre Calidad.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre CDP __ Perdida eficiencia 3_7 pp.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar cierre CLNN.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\Re_ Preliminar cierre Eventos.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre Rituales.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre RRHH.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre TD.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre TT&P.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre Ventas.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Preliminar Cierre VOL.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Provisión y Centralización Septiembre 2022 PLR.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Provisiones - Ayuda.msg
+Archivo;03_Cierre\09_Septiembre\13_Variación de Gastos\RE_ Variable GN - VD__Explicación cierre Septiembre 2022.msg
+Archivo;03_Cierre\09_Septiembre\14_Reclasificaciones\RE_ Desarrollo Xerox - envio de boleta.msg
+Archivo;03_Cierre\09_Septiembre\14_Reclasificaciones\RE_ GARANTIAS ARRIENDOS JONATHAN & YANINA.msg
+Archivo;03_Cierre\09_Septiembre\14_Reclasificaciones\RE_ OTL Septiembre (Bolsas_ Revistas_ Muestras).msg
+Carpeta;03_Cierre\10_Octubre\01_Previa RB
+Carpeta;03_Cierre\10_Octubre\02_Previa DRE
+Carpeta;03_Cierre\10_Octubre\03_FX
+Carpeta;03_Cierre\10_Octubre\04_Ajustes Gerenciales
+Carpeta;03_Cierre\10_Octubre\05_Proyectos
+Carpeta;03_Cierre\10_Octubre\06_mapeos
+Carpeta;03_Cierre\10_Octubre\07_DRE CH
+Carpeta;03_Cierre\10_Octubre\08_DRE Int
+Carpeta;03_Cierre\10_Octubre\09_DRE Mensual
+Carpeta;03_Cierre\10_Octubre\10_DRE CPV
+Carpeta;03_Cierre\10_Octubre\11_FCFF
+Carpeta;03_Cierre\10_Octubre\12_Retail VOL
+Carpeta;03_Cierre\10_Octubre\13_Variación de Gastos
+Archivo;03_Cierre\10_Octubre\01_Previa RB\10_Explicación Cierre_r02.xlsx
+Archivo;03_Cierre\10_Octubre\01_Previa RB\10_Explicación Cierre_r03.xlsx
+Archivo;03_Cierre\10_Octubre\01_Previa RB\CUT OFF 10 DIAS OCTUBRE 2022.msg
+Archivo;03_Cierre\10_Octubre\01_Previa RB\Daily Report RB & RL Cierre Octubre.msg
+Archivo;03_Cierre\10_Octubre\01_Previa RB\Pedido 02-10 ( 21-09 hasta 21-10) (1).xlsx
+Archivo;03_Cierre\10_Octubre\01_Previa RB\RE_ CC Cardex II LATAM - Valor por país.msg
+Archivo;03_Cierre\10_Octubre\01_Previa RB\RE_ Urgente_ Reporte de Entregas - Natura Oct 22.msg
+Archivo;03_Cierre\10_Octubre\01_Previa RB\RECETA OCTUBRE 2022.msg
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r01.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r02.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r03.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r03-CLLSCN005257.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r06.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\102022_Proyeccion Cierre Chile DRE con TM1 11.04 11.03_r07.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\112022_Previa O&L_r01.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\Dre Chile Octubre 2022.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\Dre Chile v2022.11.04 11.03.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\Dre Chile v2022.11.04 20.00.xlsx
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\Propuesta cierre Chile Octubre 2022.msg
+Archivo;03_Cierre\10_Octubre\02_Previa DRE\Re_ Propuesta cierre Chile Octubre 2022.msg
+Archivo;03_Cierre\10_Octubre\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\10_Octubre\04_Ajustes Gerenciales\102022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\10_Octubre\04_Ajustes Gerenciales\Ajustes Gerenciales - octubre 2022.msg
+Archivo;03_Cierre\10_Octubre\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\102022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\102022_Cierre RETAIL_r01.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\102022_DRE C&C_r01.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\102022_DRE IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\102022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\10_Octubre\07_DRE CH\Dre Chile Octubre 2022.xlsx
+Archivo;03_Cierre\10_Octubre\11_FCFF\2022 10 BOOK.XLSM
+Archivo;03_Cierre\10_Octubre\11_FCFF\2022.10_Overview Working Capital Natura LatAm.xlsx
+Archivo;03_Cierre\10_Octubre\11_FCFF\Oct22 Closing Working Capital Natura LatAm .msg
+Archivo;03_Cierre\10_Octubre\11_FCFF\RES_ _Oct_22 Closing_ Working Capital Natura LatAm .msg
+Archivo;03_Cierre\10_Octubre\12_Retail VOL\102022_Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\10_Octubre\12_Retail VOL\102022_Cierre RB RL MB Perdida_Retail_r03.xlsx
+Archivo;03_Cierre\10_Octubre\12_Retail VOL\Indicadores de Negocio_r01 Octubre.xlsx
+Archivo;03_Cierre\10_Octubre\12_Retail VOL\Indicadores de Negocio_r01.xlsx
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre Comunicación.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Ajustes Gerenciales VOL 2022.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Cierre C&C.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Cierre DDP.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Cierre VOL Octubre.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Cuadratura Lego_SAP.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Estudio Rethinking Desire - OC Chile.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Linea Antiguas 5 y 18 Chile (1).msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Linea Antiguas 5 y 18 Chile.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre Activación .msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar cierre Calidad.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar cierre CLNN.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar cierre Eventos.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre Inventario.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre Jurídico.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre REC.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre RRHH.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre TT&P.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre Ventas.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Preliminar Cierre VOL.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Provisión y Centralización Octubre 2022.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ Uegente__ SOBRANTE DE 633MM AJUSTE DE INVENTARIO.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ URGENTE __ Cierre COMUNICACIÓN.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RE_ URGENTE __ Cierre Nómina.msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RES_ Orçamento Lego __ Importante .msg
+Archivo;03_Cierre\10_Octubre\13_Variación de Gastos\RV_ C&C - VD__Explicación cierre septiembre 2022.msg
+Carpeta;03_Cierre\11_Noviembre\01_Previa RB
+Carpeta;03_Cierre\11_Noviembre\02_Previa DRE
+Carpeta;03_Cierre\11_Noviembre\03_FX
+Carpeta;03_Cierre\11_Noviembre\04_Ajustes Gerenciales
+Carpeta;03_Cierre\11_Noviembre\05_Proyectos
+Carpeta;03_Cierre\11_Noviembre\06_mapeos
+Carpeta;03_Cierre\11_Noviembre\07_DRE CH
+Carpeta;03_Cierre\11_Noviembre\08_DRE Int
+Carpeta;03_Cierre\11_Noviembre\09_DRE Mensual
+Carpeta;03_Cierre\11_Noviembre\10_DRE CPV
+Carpeta;03_Cierre\11_Noviembre\11_FCFF
+Carpeta;03_Cierre\11_Noviembre\12_Retail VOL
+Carpeta;03_Cierre\11_Noviembre\13_Variación de Gastos
+Carpeta;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\Pedido Astrid - Gera (20-10 al 23-11).xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\Pedido Astrid Gera Cierre OCT.xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\RE_ Previa Receta Venta Directa & Venta Online.msg
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\RE_ Urgente_ Reporte de Entregas - Natura Nov 22.msg
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre\112022_Análisis avance RB CHILE_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre\112022_Monitoreo Ciclal FCST vs Real_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre\112022_Proyección Cierre VD_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre\112022_Proyección RB VD pesimista -22,0% ajuste cut off de Transporte_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\01_Previa RB\01_Proyección Cierre\OV_2023_Planeación (1).xlsm
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_DRE Cierre O&L_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 03122022_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 03122022_r02.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 05122022_r03 - copia.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 05122022_r03.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 05122022_r04.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\112022_Proyeccion Cierre Chile DRE con TM1 05122022_r05.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\Dre Chile v2022.12.03 01.14.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\Dre Chile v2022.12.05 13.48.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\Dre Chile v2022.12.05 19.40.xlsx
+Archivo;03_Cierre\11_Noviembre\02_Previa DRE\Dre Chile v2022.12.05 23.21.xlsx
+Archivo;03_Cierre\11_Noviembre\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\11_Noviembre\04_Ajustes Gerenciales\112022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\04_Ajustes Gerenciales\112022_Gestión Ajustes Gerenciales_r02.xlsx
+Archivo;03_Cierre\11_Noviembre\04_Ajustes Gerenciales\Ajustes Gerenciales - noviembre 2022.msg
+Archivo;03_Cierre\11_Noviembre\04_Ajustes Gerenciales\RE_ Ajustes Gerenciales - noviembre 2022.msg
+Archivo;03_Cierre\11_Noviembre\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_DRE C&C_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_DRE IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_DRE IFRS con CTA Aperturado sin donación + TBS_r02.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_DRE IFRS con CTA Aperturado sin donación + TBS_r03.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\112022_OTL RETAIL_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\122022_OTL RETAIL_r02.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\122022_OTL RETAIL_r03.xlsx
+Archivo;03_Cierre\11_Noviembre\07_DRE CH\Dre Chile Noviembre 2022.xlsx
+Archivo;03_Cierre\11_Noviembre\11_FCFF\2022 11 BOOK + RESP. + PTOS CSC.XLSM
+Archivo;03_Cierre\11_Noviembre\11_FCFF\2022.11_Overview Free Cash Flow Natura LatAm.xlsx
+Archivo;03_Cierre\11_Noviembre\12_Retail VOL\112022_Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\11_Noviembre\12_Retail VOL\112022_Cierre RB RL MB Perdida_Retail_r02.xlsx
+Archivo;03_Cierre\11_Noviembre\12_Retail VOL\Indicadores de Negocio_r01 Noviembre.xlsx
+Archivo;03_Cierre\11_Noviembre\12_Retail VOL\Reporte VOL Noviembre 2022.pdf
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Desarrollo y entrenamiento.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ OTL Publicidad Diciembre.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Activación.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Atención.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Calidad.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar cierre CLNN.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Cobranza.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Comercial.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Eventos.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Picking.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Post Venta y CX.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre Producto.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre TD.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre TT&P.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Preliminar Cierre VOL.msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RE_ Urgente __ Cobranza Perdida Eficiencia 0_5 pp .msg
+Archivo;03_Cierre\11_Noviembre\13_Variación de Gastos\RES_ FCST Contabilidad __ Incremento 4_0 M.msg
+Carpeta;03_Cierre\12_Diciembre\01_Previa RB
+Carpeta;03_Cierre\12_Diciembre\02_Previa DRE
+Carpeta;03_Cierre\12_Diciembre\03_FX
+Carpeta;03_Cierre\12_Diciembre\04_Ajustes Gerenciales
+Carpeta;03_Cierre\12_Diciembre\05_Proyectos
+Carpeta;03_Cierre\12_Diciembre\06_mapeos
+Carpeta;03_Cierre\12_Diciembre\07_DRE CH
+Carpeta;03_Cierre\12_Diciembre\08_DRE Int
+Carpeta;03_Cierre\12_Diciembre\09_DRE Mensual
+Carpeta;03_Cierre\12_Diciembre\10_DRE CPV
+Carpeta;03_Cierre\12_Diciembre\11_FCFF
+Carpeta;03_Cierre\12_Diciembre\12_Retail VOL
+Carpeta;03_Cierre\12_Diciembre\13_Variación de Gastos
+Archivo;03_Cierre\12_Diciembre\01_Previa RB\122022_Cierre Daily_r01.pdf
+Archivo;03_Cierre\12_Diciembre\01_Previa RB\122022_Cierre RB Gera-Ciclal_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\01_Previa RB\122022_Cierre RB VD realista -23,1%_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\01_Previa RB\122022_Monitoreo Ciclal FCST -23,1%_r02.xlsx
+Archivo;03_Cierre\12_Diciembre\01_Previa RB\Pedido Astrid Gera (24-11 al 25-12).xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Cuadratura gastos_01.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0104 1629_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0104 1629_r01-CLLSCN005252.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0104 1629_r01-CLLSCN005257.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0104 2158.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0105 0904.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0105 1139.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 0105 1347.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\122022_Proyeccion Cierre Chile DRE con TM1 final.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile Diciembre 2022.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile v2023.01.04 16.29.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile v2023.01.04 21.58.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile v2023.01.05 09.04.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile v2023.01.05 11.39.xlsx
+Archivo;03_Cierre\12_Diciembre\02_Previa DRE\Dre Chile v2023.01.05 13.47.xlsx
+Archivo;03_Cierre\12_Diciembre\03_FX\BD Cambio - 2022.xls
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\122022_Gestión Ajustes Gerenciales_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\122022_Gestión Ajustes Gerenciales_r02.xlsx
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\122022_Gestión Ajustes Gerenciales_r03.xlsx
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\122022_Gestión Ajustes Gerenciales_r04 ajustes .xlsx
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\RE_ Ajustes Gerenciales - diciembre 2022.msg
+Archivo;03_Cierre\12_Diciembre\04_Ajustes Gerenciales\Template Ajustes Gerenciais-2022 - FINAL.xlsx
+Archivo;03_Cierre\12_Diciembre\06_mapeos\Mapeo Modelos.xlsx
+Archivo;03_Cierre\12_Diciembre\06_mapeos\Mapeo Realizado.xlsx
+Carpeta;03_Cierre\12_Diciembre\07_DRE CH\Off
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022 DRE VOL_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022_DRE C&C_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022_DRE IFRS con CTA Aperturado sin donación + TBS_r03.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022_DRE O&L_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022_DRE Retail comparativo_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\122022_OTL RETAIL_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\Dre Chile Diciembre 2022.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\RE_ Dre Chile Diciembre 2022.msg
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\RE_ DRE Diciembre 2022 Chile.msg
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\Off\122022_DRE IFRS con CTA Aperturado sin donación + TBS_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\Off\122022_DRE IFRS con CTA Aperturado sin donación 0904 + TBS_r02.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\Off\122022_DRE IFRS con CTA Aperturado sin donación 1148 + TBS_r02.xlsx
+Archivo;03_Cierre\12_Diciembre\07_DRE CH\Off\122022_DRE IFRS con CTA Aperturado sin donación 1347 + TBS_r02.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\2022.12_NonCash&Leasing&Capex.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\2022.12_Overview Free Cash Flow Natura LatAm.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\2022.12_Overview Working Capital Natura LatAm_Explicación Chile.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\2022.12b_Natura FCFF.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\2022.12b_Natura FCFF_Bridge Explicaciones Chile_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\11_FCFF\ENC_ Composição de Estoque Latam_ Mexico e Chile_Dezembro_2022.msg
+Archivo;03_Cierre\12_Diciembre\12_Retail VOL\122022_Cierre RB RL MB Perdida_Retail_r01.xlsx
+Archivo;03_Cierre\12_Diciembre\12_Retail VOL\2022.12_Overview Working Capital Natura LatAm_Explicación Chile.xlsx
+Archivo;03_Cierre\12_Diciembre\12_Retail VOL\Indicadores de Negocio_r01 Diciembre.xlsx
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\Cierre Natura Dic O&L.xlsx
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\Cierre Natura-Explicaciones DIC 2022.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Cierre C&C Diciembre.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Atención Mal informado.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Calidad.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre CLNN.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Comunicación.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Desarrollo y Entrenamiento.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Diciembre CDP.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Diciembre CDP__URGENTE.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre G Comercial.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre G_ General ULTIMO.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre G_ General.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Infraestructura- VD.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Picking.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre PL Omnicanal 1.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre PL Omnicanal 2.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\Re_ Preliminar Cierre Post Venta y CX.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Producto.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Publicidad.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre REC.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Rituales.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre RRHH.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre TT&P.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre Ventas.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Preliminar Cierre VOL.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Previa Cierre VOL__IMPORTANTE.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Reclasificación - Descuentos Concedidos 2022.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Recortes Dic 2022.msg
+Archivo;03_Cierre\12_Diciembre\13_Variación de Gastos\RE_ Urgente __ Incremento Fcst REC 13_2 M.msg
+Archivo;03_Cierre\13_Ajuste Cierre\2022 12 BOOK + RESP. + PTOS CSC v2.XLSM
+Archivo;03_Cierre\13_Ajuste Cierre\2022_DRE IFRS con CTA Aperturado sin donación + TBS con ajuste PLR_r01.xlsx
+Archivo;03_Cierre\13_Ajuste Cierre\Ajuste Gastos 2022_r01.xlsx
+Archivo;03_Cierre\13_Ajuste Cierre\Dre Chile Diciembre 2022 v04.02.2023.xlsx
+Carpeta;04_Resultados\01_Enero
+Carpeta;04_Resultados\02_Febrero
+Carpeta;04_Resultados\03_Marzo
+Carpeta;04_Resultados\04_Abril
+Carpeta;04_Resultados\05_Mayo
+Carpeta;04_Resultados\06_Junio
+Carpeta;04_Resultados\07_Julio
+Carpeta;04_Resultados\08_Agosto
+Carpeta;04_Resultados\09_Septiembre
+Carpeta;04_Resultados\10_Octubre
+Carpeta;04_Resultados\11_Noviembre
+Carpeta;04_Resultados\12_Diciembre
+Carpeta;04_Resultados\cmv
+Carpeta;04_Resultados\ML
+Archivo;04_Resultados\01_Enero\012021_BridgeRB_Chile_r03.xlsx
+Archivo;04_Resultados\01_Enero\012022_Analisis Variación Costos_r01 con ajuste VOL.xlsx
+Archivo;04_Resultados\01_Enero\012022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\01_Enero\012022_ARF_r01.pptx
+Archivo;04_Resultados\01_Enero\012022_MB Chile_r02.xlsx
+Archivo;04_Resultados\01_Enero\012022_RR Local_r01.pptx
+Archivo;04_Resultados\02_Febrero\022021_BridgeRB_Chile_r02.xlsx
+Archivo;04_Resultados\02_Febrero\022022_Analisis Variación Costos_r01 Con ajuste VOL.xlsx
+Archivo;04_Resultados\02_Febrero\022022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\02_Febrero\022022_ARF_r01.pptx
+Archivo;04_Resultados\02_Febrero\022022_MB Chile_r01.xlsx
+Archivo;04_Resultados\02_Febrero\022022_RR Local_r01.pptx
+Archivo;04_Resultados\03_Marzo\032021_BridgeRB_Chile_r01.xlsx
+Archivo;04_Resultados\03_Marzo\032022_Analisis Variación Costos_r01 con ajuste VOL.xlsx
+Archivo;04_Resultados\03_Marzo\032022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\03_Marzo\032022_ARF Marzo 2022_r03.pptx
+Archivo;04_Resultados\03_Marzo\032022_MB Chile_r01.xlsx
+Archivo;04_Resultados\03_Marzo\032022_Reunion de Resultados Chile - Marzo 2022_r02.pptx
+Archivo;04_Resultados\03_Marzo\032022_Reunion de Resultados Chile - Marzo 2022_r03.pptx
+Archivo;04_Resultados\03_Marzo\Comentarios ARF_r01.xlsx
+Archivo;04_Resultados\03_Marzo\Explicaciones 1°Q en ARF_r03.pptx
+Archivo;04_Resultados\03_Marzo\Explicaciones 1°Q en ARF_r04.pptx
+Archivo;04_Resultados\03_Marzo\GG Latam MAR 22.pptx
+Archivo;04_Resultados\03_Marzo\Resultados mensuales VOL Marzo.pptx
+Archivo;04_Resultados\04_Abril\042021_BridgeRB_Chile_r02.xlsx
+Archivo;04_Resultados\04_Abril\042022_Analisis Variación Costos_r01 con ajuste VOL.xlsx
+Archivo;04_Resultados\04_Abril\042022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\04_Abril\042022_MB Chile_r02.xlsx
+Archivo;04_Resultados\04_Abril\042022_Reunion de Resultados Chile - Abril 2022 ARF.pptx
+Archivo;04_Resultados\04_Abril\042022_Reunion de Resultados Chile - Abril 2022 ARF_r02.pptx
+Archivo;04_Resultados\04_Abril\042022_Reunion de Resultados Chile - Abril 2022.pptx
+Archivo;04_Resultados\04_Abril\Rsmn ARF_r01.xlsx
+Archivo;04_Resultados\05_Mayo\052022_Analisis Variación Costos_r01 (1).xlsx
+Archivo;04_Resultados\05_Mayo\052022_Analisis Variación Costos_r01 con ajuste VOL.xlsx
+Archivo;04_Resultados\05_Mayo\052022_BridgeRB_Chile_r02.xlsx
+Archivo;04_Resultados\05_Mayo\052022_MB Chile_r01.xlsx
+Archivo;04_Resultados\05_Mayo\052022_MB Chile_r02.xlsx
+Archivo;04_Resultados\05_Mayo\052022_Reunion de Resultados Chile - Mayo 2022 ARF_r03.pptx
+Archivo;04_Resultados\05_Mayo\Flash de Resultados Chile - Mayo 2022.msg
+Archivo;04_Resultados\05_Mayo\Legal Expenses - Chile Junio.xlsx
+Archivo;04_Resultados\05_Mayo\Reporte VOL Mayo 2022.pdf
+Archivo;04_Resultados\05_Mayo\RV_ Provisão PLR _ ajuste provisão.msg
+Archivo;04_Resultados\06_Junio\062022_Analisis Variación Costos_r02.xlsx
+Archivo;04_Resultados\06_Junio\062022_Analisis Variación Costos_r03 con ajuste VOL.xlsx
+Archivo;04_Resultados\06_Junio\062022_BridgeRB_Chile_r01.xlsx
+Archivo;04_Resultados\06_Junio\062022_MB Chile_r04.xlsx
+Archivo;04_Resultados\06_Junio\Consolidado Julio NS NHL Preview 2022 V2.xlsx
+Archivo;04_Resultados\06_Junio\Consolidado Julio NS NHL Preview 2022.xlsx
+Carpeta;04_Resultados\07_Julio\01_Inputs+
+Archivo;04_Resultados\07_Julio\072022_Analisis Variación Costos_r02.xlsx
+Archivo;04_Resultados\07_Julio\072022_Analisis Variación Costos_r03.xlsx
+Archivo;04_Resultados\07_Julio\072022_Analisis Variación Costos_r04 con ajuste vol.xlsx
+Archivo;04_Resultados\07_Julio\072022_BridgeRB_Chile_r04.xlsx
+Archivo;04_Resultados\07_Julio\072022_MB Chile_r02.xlsx
+Archivo;04_Resultados\07_Julio\2022.07_Overview Working Capital Natura LatAm_chile_R01.xlsx
+Archivo;04_Resultados\07_Julio\202206 Cálculo Provisión - Nuevo Modelo.xlsx
+Archivo;04_Resultados\07_Julio\PROVISION MATERIAL PROMOCIONAL.msg
+Archivo;04_Resultados\07_Julio\Template G&A CHILE.msg
+Archivo;04_Resultados\07_Julio\01_Inputs+\072022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Carpeta;04_Resultados\08_Agosto\01_MB
+Archivo;04_Resultados\08_Agosto\082022_BridgeRB_Chile_r03.xlsx
+Archivo;04_Resultados\08_Agosto\082022_Reunión de Resultados Chile - Agosto 2022.pptx
+Archivo;04_Resultados\08_Agosto\082022_RR Local_r04.pptx
+Archivo;04_Resultados\08_Agosto\4100_Análise Variação_Chile_Cierre_2022.xlsb
+Archivo;04_Resultados\08_Agosto\Template G&A Agosto Chile_r02.xlsx
+Archivo;04_Resultados\08_Agosto\01_MB\08. Variação de Compras OIs_August2022.xlsb
+Archivo;04_Resultados\08_Agosto\01_MB\082022_Analisis Variación Costos_r03.xlsx
+Archivo;04_Resultados\08_Agosto\01_MB\082022_Analisis Variación Costos_r04.xlsx
+Archivo;04_Resultados\08_Agosto\01_MB\082022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\08_Agosto\01_MB\082022_MB Chile_r02.xlsx
+Archivo;04_Resultados\08_Agosto\01_MB\082022_MB Chile_r03.xlsx
+Carpeta;04_Resultados\09_Septiembre\MB
+Archivo;04_Resultados\09_Septiembre\092022_BridgeRB_Chile_r02.xlsx
+Archivo;04_Resultados\09_Septiembre\092022_Presentación Operación Chile - Diego 17-10.pptx
+Archivo;04_Resultados\09_Septiembre\092022_Reunion de Resultados Chile - Septiembre 2022..pdf
+Archivo;04_Resultados\09_Septiembre\092022_RR Local_r01.pptx
+Archivo;04_Resultados\09_Septiembre\4100_Análise Variação_Chile_Prévia_26_Septiembre_2022.xlsb
+Archivo;04_Resultados\09_Septiembre\Índices Macroeconômicos -Setembro 2022.msg
+Archivo;04_Resultados\09_Septiembre\RR Local Consolidada - Septiembre 2022.msg
+Archivo;04_Resultados\09_Septiembre\Template G&A Septiembre Chile_r03.xlsx
+Archivo;04_Resultados\09_Septiembre\MB\092022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\09_Septiembre\MB\092022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\09_Septiembre\MB\092022_DRE IFRS con CTA Aperturado_r01.xlsx
+Archivo;04_Resultados\09_Septiembre\MB\092022_MB Chile_r06.xlsx
+Archivo;04_Resultados\09_Septiembre\MB\Consulta_Q919_P10802979_20221005103714597.xls
+Archivo;04_Resultados\09_Septiembre\MB\RE_ CUT OFF distribuido por Modelo de Negocios Septiembre 2022.msg
+Carpeta;04_Resultados\10_Octubre\Bridge RB
+Carpeta;04_Resultados\10_Octubre\G&A
+Carpeta;04_Resultados\10_Octubre\MB
+Archivo;04_Resultados\10_Octubre\102022_RR Local_r01.pptx
+Archivo;04_Resultados\10_Octubre\4100_Análise Variação_Chile_Cierre_Octobre_2022.xlsb
+Archivo;04_Resultados\10_Octubre\RE_ Performance CHI - Consultas cierre October + YTD '22.msg
+Archivo;04_Resultados\10_Octubre\RES_ Previa Material Ledger – Chile Prévia Cierre de outubro_.msg
+Archivo;04_Resultados\10_Octubre\Bridge RB\014_OV_2023_Base Pesimista riesgo -19,32%.xlsm
+Archivo;04_Resultados\10_Octubre\Bridge RB\102022_BridgeRB_Chile_r04.xlsx
+Archivo;04_Resultados\10_Octubre\Bridge RB\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA Hisp_r05.xlsx
+Archivo;04_Resultados\10_Octubre\Bridge RB\OV_2023_Planeación.xlsm
+Archivo;04_Resultados\10_Octubre\G&A\Maestro Prometeo Resultados P&l Octubre 2022 con 2021.xlsb
+Archivo;04_Resultados\10_Octubre\G&A\Modelo Template GA_Natura Hispana_Octubre_r01.xlsx
+Archivo;04_Resultados\10_Octubre\G&A\Sem462022_Gestion Gastos Chile_r04.xlsx
+Archivo;04_Resultados\10_Octubre\G&A\Template G&A Chile Octubre_r01.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r02 - copia.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r02.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r03 con ajuste VOL.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r03.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Analisis Variación Costos_r04 con ajuste VOL.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Construcción OTL Chile pesimista esc riesgo -19,32 EscA Hisp_r05.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_MB Chile_r01.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_MB Chile_r02.xlsx
+Archivo;04_Resultados\10_Octubre\MB\102022_Proyección MB Anual pesimista -19,3% Hisp_r05.xlsx
+Archivo;04_Resultados\10_Octubre\MB\2022.10 CUT OFF CMV.xlsx
+Archivo;04_Resultados\10_Octubre\MB\2022.10 CUT OFF VENTAS.xlsx
+Archivo;04_Resultados\10_Octubre\MB\portafolio skus no.xls
+Archivo;04_Resultados\10_Octubre\MB\09. Variação de Compras OIs_Outubro (1).xlsb
+Carpeta;04_Resultados\11_Noviembre\Destaques y Oportunidades
+Carpeta;04_Resultados\11_Noviembre\FCFF
+Carpeta;04_Resultados\11_Noviembre\G&A
+Carpeta;04_Resultados\11_Noviembre\MB
+Carpeta;04_Resultados\11_Noviembre\RR Local
+Archivo;04_Resultados\11_Noviembre\4100_Analise_Variación_Chile_Noviembre_2022_Final.xlsb
+Archivo;04_Resultados\11_Noviembre\Maestro Prometeo P&l Closing Noviembre 2022 V3.xlsb
+Archivo;04_Resultados\11_Noviembre\RES_ Previa Material Ledger - Chile Prévia Cierre Noviembre.msg
+Archivo;04_Resultados\11_Noviembre\Destaques y Oportunidades\Re_ Destaques_Oportunidades Noviembre 2022.msg
+Archivo;04_Resultados\11_Noviembre\FCFF\112022_Explicación variación AP.xlsx
+Archivo;04_Resultados\11_Noviembre\FCFF\112022_FCFF Var_Chile_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\G&A\Maestro Prometeo P&l Closing Noviembre 2022 V3.xlsb
+Archivo;04_Resultados\11_Noviembre\G&A\Modelo Template GA_Natura Hispana_Noviembre_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\G&A\Sem492022_Gestion Gastos Chile_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\G&A\Template G&A Chile Noviembre_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_Analisis Variación Costos_r02.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_Analisis Variación Costos_r03 con Ajuste VOL.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_Analisis Variación Costos_r03.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_MB Chile_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_MB Chile_r02.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\112022_MB Chile_r03.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\4100_Analise_Variación_Chile_Noviembre_2022_Final.xlsb
+Archivo;04_Resultados\11_Noviembre\MB\Consulta_Q919_P10802979_20221201133003460.xls
+Archivo;04_Resultados\11_Noviembre\MB\Portafolio kit sí_r01.xls
+Archivo;04_Resultados\11_Noviembre\MB\Portafolio kit sí_r01.xlsx
+Archivo;04_Resultados\11_Noviembre\MB\RE_ CUT OFF distribuido por Modelo de Negocios Noviembre 2022.msg
+Archivo;04_Resultados\11_Noviembre\MB\Revisión MB.xlsx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r01.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r01-CLLSCN005257.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r02.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r03.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r03-CLLSCN005252.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r04.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r05.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Presentacion RR Local Finanzas_r06.pptx
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_reunion de Resultados Chile - Noviembre 2022.pdf
+Archivo;04_Resultados\11_Noviembre\RR Local\112022_Reunion de Resultados Chile - Noviembre 2022.pptx
+Carpeta;04_Resultados\12_Diciembre\Asertividad
+Carpeta;04_Resultados\12_Diciembre\Bridge RB
+Carpeta;04_Resultados\12_Diciembre\G&A
+Carpeta;04_Resultados\12_Diciembre\MB
+Carpeta;04_Resultados\12_Diciembre\RR Local
+Archivo;04_Resultados\12_Diciembre\122022_RB Report Natura CL YTD.xlsx
+Archivo;04_Resultados\12_Diciembre\2022_Escenarios Comparativo OTL_r02 Grafico ebitda 2021.xlsx
+Archivo;04_Resultados\12_Diciembre\2022_Escenarios Comparativo OTL_r03 Grafico LI.xlsx
+Archivo;04_Resultados\12_Diciembre\4100_Analise_Variación_Chile_Cierre_Deciembre_2022.xlsb
+Archivo;04_Resultados\12_Diciembre\Asertividad.xlsx
+Archivo;04_Resultados\12_Diciembre\ZCO0098_CHILE_Cierre_dezembro.XLSX
+Archivo;04_Resultados\12_Diciembre\Asertividad\2022_Cierre Asertividad.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\001_OV_2023_Planeación (1).xlsm
+Archivo;04_Resultados\12_Diciembre\Bridge RB\019_OV_2023_Planeación -23,1%.xlsm
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_MB Chile_r02.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_MB Chile_r02-CLLSCN005257.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_MB Chile_r02-CLLSCN005257-CLLSCN005257.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_Template Chile RR Local ARF_r03.pptx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_Template Chile RR Local ARF_r03-CLLSCN005257.pptx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_Template Chile RR Local_r03.pptx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122021_Template Chile RR Local_r03-CLLSCN005257.pptx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122022_BridgeRB_Chile_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\122022_Construcción OTL Chile realista -23,1%_r03.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\Comentarios VD Canal Dic.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\Comentarios VD Canal Dic-CLLSCN005257.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\Comentarios VD Canal Dic-CLLSCN005257-CLLSCN005257.xlsx
+Archivo;04_Resultados\12_Diciembre\Bridge RB\Previa NS NHL - Diciembre 2022.msg
+Archivo;04_Resultados\12_Diciembre\Bridge RB\RE_ Previa NS NHL - Diciembre 2022.msg
+Carpeta;04_Resultados\12_Diciembre\G&A\EX G&A
+Carpeta;04_Resultados\12_Diciembre\G&A\Nuevo Tmplate
+Archivo;04_Resultados\12_Diciembre\G&A\Explicación cierre año.xlsx
+Archivo;04_Resultados\12_Diciembre\G&A\EX G&A\Modelo Template GA_Natura Hispana_Diciembre_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\G&A\EX G&A\Template G&A Chile Diciembre_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\G&A\Nuevo Tmplate\Template G&A Diciembre- HL - Natura Latam.xlsx
+Archivo;04_Resultados\12_Diciembre\G&A\Nuevo Tmplate\Template G&A Diciembre_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_Analisis Variación Costos_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_Analisis Variación Costos_r02 Con ajuste VOL.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_Analisis Variación Costos_r02.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_Analisis Variación Costos_r03 Con ajuste VOL.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_MB Chile_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_MB Chile_r02.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\122022_MB Chile_r03.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\2022.12 CUT OFF CMV.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\2022.12 CUT OFF VENTAS.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\Consulta_Q919_P10802979_20230104091906153.xls
+Archivo;04_Resultados\12_Diciembre\MB\Portafolio No Kit Gera_r01.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\RE_ CUT OFF distribuido por Modelo de Negocios Noviembre 2022.msg
+Archivo;04_Resultados\12_Diciembre\MB\Receta liquida x Modelo.xlsx
+Archivo;04_Resultados\12_Diciembre\MB\Revisión MB.xlsx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Hitos 2022_r01.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Hitos 2022_r02.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Presentacion RR Local Finanzas_r01.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Presentacion RR Local Finanzas_r02.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Presentacion RR Local Finanzas_r02-CLLSCN005252.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Presentacion RR Local Finanzas_r02-CLLSCN005257.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Presentacion RR Local Finanzas_r03.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Reunion de Resultados Chile Diciembre_r01.pdf
+Archivo;04_Resultados\12_Diciembre\RR Local\122022_Reunion de Resultados Chile Diciembre_r01.pptx
+Archivo;04_Resultados\12_Diciembre\RR Local\Resultados mensuales VOL Diciembre.pptx
+Archivo;04_Resultados\cmv\CMV Querie Contable DINAMICA Cierre_r01.xlsx
+Archivo;04_Resultados\cmv\Consulta_Q919_01.xls
+Archivo;04_Resultados\cmv\Consulta_Q919_02.xls
+Archivo;04_Resultados\cmv\Consulta_Q919_03.xls
+Archivo;04_Resultados\cmv\Consulta_Q919_04.xls
+Archivo;04_Resultados\cmv\Consulta_Q919_05.xls
+Archivo;04_Resultados\cmv\Consulta_Q919_06.xls
+Archivo;04_Resultados\ML\Sem012023_4100_Analise_Variación_Chile_Cierre_Deciembre_2022.xlsb
+Archivo;04_Resultados\ML\Sem05_4100_Análise Variação_Chile_Cierre_Enero_2022.xlsb
+Archivo;04_Resultados\ML\Sem07_4100_Análise Variação_Chile_14_Febrero_2022.xlsb
+Archivo;04_Resultados\ML\Sem09_4100_Análise Variação_Chile_Previa_Cierre_Febrero_2022.xlsb
+Archivo;04_Resultados\ML\Sem14_4100_Análise Variação_Chile_Cierre_Marzo_2022.xlsb
+Archivo;04_Resultados\ML\Sem18_4100_Análise Variação_Chile_Cierre_Abril_2022.xlsb
+Archivo;04_Resultados\ML\Sem22_4100_Análise Variação_Chile_Cierre_Mayo_2022.xlsb
+Archivo;04_Resultados\ML\Sem27_4100_Análise Variação_Chile_Cierre_Junio_2022.xlsb
+Archivo;04_Resultados\ML\Sem31_4100_Análise Variação_Chile_Cierre_Julio_2022.xlsb
+Carpeta;10_Retail\03_Cornershop
+Carpeta;10_Retail\04_Transbank
+Carpeta;10_Retail\05_Centralizacion
+Carpeta;10_Retail\03_Cornershop\2022
+Archivo;10_Retail\03_Cornershop\122022_Cornershop_r01.xlsx
+Archivo;10_Retail\03_Cornershop\2022\102022_Cornershop_r01.xlsx
+Archivo;10_Retail\03_Cornershop\2022\112022_Cornershop_r01.xlsx
+Archivo;10_Retail\03_Cornershop\2022\Cornershop Dic.msg
+Archivo;10_Retail\03_Cornershop\2022\Cornershop_ Redelcom y Depositos de Efectivo nov.msg
+Archivo;10_Retail\03_Cornershop\2022\Cornershop_ Redelcom y Depositos de Efectivo oct.msg
+Carpeta;10_Retail\04_Transbank\11 Noviembre
+Carpeta;10_Retail\04_Transbank\12 Dic
+Carpeta;10_Retail\04_Transbank\11 Noviembre\Bases
+Archivo;10_Retail\04_Transbank\11 Noviembre\112021_Transbank 2021_r01 00.xlsx
+Archivo;10_Retail\04_Transbank\11 Noviembre\112021_Transbank 2021_r01.xlsx
+Archivo;10_Retail\04_Transbank\11 Noviembre\112021_Transbank 2021_r02.xlsx
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\cartola-movimientos-202111(02-12-2021_22.12.36).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\cartola-movimientos-202111(03-12-2021_09.10.46).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\extraccion-masiva-credito-pesos-1-al-30-11-2021(02-12-2021_23.24.30).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\extraccion-masiva-credito-pesos-1-al-3-12-2021(03-12-2021_09.27.11).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\extraccion-masiva-debito-pesos-1-al-30-11-2021(02-12-2021_23.24.30).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\extraccion-masiva-debito-pesos-1-al-3-12-2021(03-12-2021_09.27.11).dat
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (1).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (2).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (3).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (4).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (5).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA (6).pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_FACTURA_DE_VENTA.pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_NOTA_DE_CREDITO_CR.pdf
+Archivo;10_Retail\04_Transbank\11 Noviembre\Bases\FACTURAS_Y_NOTAS_DE__01112021_30112021_965752803_NOTA_DE_CREDITO_REDC (1).pdf
+Archivo;10_Retail\04_Transbank\12 Dic\112021_Transbank 2021_r02.xlsx
+Archivo;10_Retail\04_Transbank\12 Dic\122021_Transbank 2021_r01 PARA USAR 2.xlsx
+Archivo;10_Retail\04_Transbank\12 Dic\122021_Transbank 2021_r01.xlsx
+Archivo;10_Retail\04_Transbank\12 Dic\122021_Transbank 2021_r01.zip
+Carpeta;10_Retail\05_Centralizacion\2022
+Archivo;10_Retail\05_Centralizacion\2022\012022_Centralización_r04.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\022022_Centralización_r02.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\032022_Centralización_r02.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\042022_Centralización_r02.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\052022_Centralización_r01.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\052022_Centralización_r02.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\062022_Centralización_r02.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\072022_Centralización_r01 08 no oficial- copia.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\072022_Centralización_r01.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\092022_Centralización_r01 10 no oficial- copia.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\092022_Centralización_r01.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\112022_Centralización_r01 12 no oficial.xlsx
+Archivo;10_Retail\05_Centralizacion\2022\112022_Centralización_r01.xlsx
+Carpeta;99_documentos\01_Base de Ventas
+Carpeta;99_documentos\01_Base de Ventas\2022
+Archivo;99_documentos\01_Base de Ventas\2022\22.08.xls
+Archivo;99_documentos\01_Base de Ventas\2022\22.10.xls
+Archivo;99_documentos\01_Base de Ventas\2022\22.12.xls
+Archivo;99_documentos\01_Base de Ventas\2022\base ventas 2022.xlsx

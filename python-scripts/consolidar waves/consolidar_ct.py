@@ -6,7 +6,7 @@ import shutil
 from datetime import datetime, timedelta
 
 # --- CONFIGURACIÓN ---
-ruta_carpeta = r"C:\Users\331642\Desktop\problema de fase\jeremy\06"
+ruta_carpeta = r"C:\Users\331642\Desktop\harrys\interfaz\procesar cartoning pendientes"
 
 # IMPORTANTE: Define aquí cómo empiezan los archivos que quieres leer.
 # Si tus archivos de cartoning se llaman "Wave_Confirm...", deja "Wave".

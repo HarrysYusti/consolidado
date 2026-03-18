@@ -1,0 +1,1 @@
+# py -m playwright codegen --load-storage="auth_completo.json" "https://naturabr.sharepoint.com/teams/Macros/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fteams%2FMacros%2FDocumentos%20Compartilhados%2F02%2E%20DICCIONARIOS&viewid=14ddb0f3%2De090%2D4042%2Db88c%2Dd02eb956fa2f"
