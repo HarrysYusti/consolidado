@@ -63,6 +63,7 @@ def doc_type_para_nombre(nombre: str) -> str | None:
 
 async def obtener_fuentes_existentes(session: ClientSession) -> tuple[set[str], set[str]]:
     """Devuelve (ids_existentes, nombres_existentes) ya vinculados al notebook."""
+    # 1. Obtener lista desde Drive Sync API
     result = await session.call_tool(
         "source_list_drive",
         arguments={"notebook_id": NOTEBOOK_ID}
@@ -75,29 +76,42 @@ async def obtener_fuentes_existentes(session: ClientSession) -> tuple[set[str], 
 
     ids = set()
     nombres = set()
+    
+    # Fuentes sincronizables (Docs/Slides)
     for f in data.get("syncable_sources", []):
-        doc_id = f.get("document_id") or f.get("id", "")
+        # 'drive_doc_id' es el ID de Google Drive
+        doc_id = f.get("drive_doc_id") or f.get("document_id")
         titulo = f.get("title", "")
-        if doc_id:
-            ids.add(doc_id)
-        if titulo:
-            nombres.add(titulo.strip().lower())
+        if doc_id: ids.add(doc_id)
+        if titulo: nombres.add(titulo.strip().lower())
+
+    # Otras fuentes (PDFs, Excels subidos como WordDoc...)
+    for f in data.get("other_sources", []):
+        titulo = f.get("title", "")
+        if titulo: nombres.add(titulo.strip().lower())
             
-    # Extraemos todos los strings del resultado raw de notebook_get para atrapar PDFs subidos
+    # 2. Escaneo profundo con notebook_get para capturar IDs de Drive "escondidos" (como en PDFs/Excels)
     try:
         get_res = await session.call_tool("notebook_get", arguments={"notebook_id": NOTEBOOK_ID})
         nb_data = json.loads(get_res.content[0].text)
         
-        def extract_strings(obj):
-            if isinstance(obj, str) and len(obj) > 3:
-                nombres.add(obj.strip().lower())
+        # Regex para detectar IDs de Drive (cadenas de ~33-44 chars alfanuméricas)
+        drive_id_pattern = re.compile(r"^[a-zA-Z0-9_-]{25,50}$")
+        
+        def deep_scan(obj):
+            if isinstance(obj, str):
+                s = obj.strip()
+                if len(s) > 3:
+                    nombres.add(s.lower())
+                if drive_id_pattern.match(s):
+                    ids.add(s)
             elif isinstance(obj, list):
-                for item in obj: extract_strings(item)
+                for item in obj: deep_scan(item)
             elif isinstance(obj, dict):
-                for val in obj.values(): extract_strings(val)
+                for val in obj.values(): deep_scan(val)
                 
         if "notebook" in nb_data:
-            extract_strings(nb_data["notebook"])
+            deep_scan(nb_data["notebook"])
             
     except Exception:
         pass
@@ -220,16 +234,28 @@ async def run():
                 fuentes_ids, fuentes_nombres = await obtener_fuentes_existentes(session)
                 print(f"   → Se detectaron {len(fuentes_nombres)} nombres / {len(fuentes_ids)} IDs únicos ya presentes.")
 
-                # Omitir si el ID exacto ya existe, O si el string nombre (con o sin extensión) coincide
+                # Omitir si el ID exacto ya existe, O si el nombre coincide (incluso como prefijo)
                 nuevos = []
                 for p in procesados:
+                    # A. Prioridad 1: ID de Drive (está presente en notebook_get incluso para Excels/PDFs)
                     if p["id"] in fuentes_ids:
                         continue
                     
+                    # B. Prioridad 2: Nombre (Fuzzy para manejar sufijos tipo " - Hoja 1")
                     nombre_completo = p["nombre"].strip().lower()
                     nombre_sin_ext = os.path.splitext(nombre_completo)[0]
                     
-                    if nombre_completo in fuentes_nombres or nombre_sin_ext in fuentes_nombres:
+                    duplicado_por_nombre = False
+                    for existente in fuentes_nombres:
+                        if nombre_completo == existente or nombre_sin_ext == existente:
+                            duplicado_por_nombre = True
+                            break
+                        # Si el título en NotebookLM empieza con nuestro nombre (ej. "Excel - Hoja1" contiene "Excel")
+                        if existente.startswith(nombre_sin_ext) and len(nombre_sin_ext) > 5:
+                            duplicado_por_nombre = True
+                            break
+                    
+                    if duplicado_por_nombre:
                         continue
                     
                     nuevos.append(p)
@@ -258,7 +284,8 @@ async def run():
 
                     print(f"  ⬆️  {nombre} [{doc_type}]", end=" ", flush=True)
                     try:
-                        resultado = await agregar_fuente(session, doc_id, nombre, doc_type)
+                        nombre_visual = os.path.splitext(nombre)[0].strip()
+                        resultado = await agregar_fuente(session, doc_id, nombre_visual, doc_type)
                         estado = resultado.get("status", "")
                         
                         # MCP devuelve success/added o simplemente los datos de la fuente originada

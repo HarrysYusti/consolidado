@@ -56,24 +56,26 @@ async def run():
                 except Exception:
                     pass
 
-                # 2. Extracción recursiva de TODOS los UUIDs dentro del Notebook crudo para cazar PDFs
+                # 2. Extracción recursiva de TODOS los IDs de Drive y UUIDs dentro del Notebook
                 try:
                     res_nb = await session.call_tool("notebook_get", arguments={"notebook_id": NOTEBOOK_ID})
                     data_nb = json.loads(res_nb.content[0].text)
                     
-                    # Buscamos cuerdas que parezcan un UUID de 36 caracteres típico de NotebookLM
-                    uuid_regex = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$")
+                    # IDs de Drive (~33-44 chars) y UUIDs (36 chars)
+                    id_pattern = re.compile(r"^[a-zA-Z0-9_-]{25,50}$")
                     
-                    def extraer_uuids(obj):
-                        if isinstance(obj, str) and uuid_regex.match(obj):
-                            posibles_source_ids.add(obj)
+                    def extraer_ids(obj):
+                        if isinstance(obj, str):
+                            s = obj.strip()
+                            if id_pattern.match(s):
+                                posibles_source_ids.add(s)
                         elif isinstance(obj, list):
-                            for item in obj: extraer_uuids(item)
+                            for item in obj: extraer_ids(item)
                         elif isinstance(obj, dict):
-                            for val in obj.values(): extraer_uuids(val)
+                            for val in obj.values(): extraer_ids(val)
                             
                     if "notebook" in data_nb:
-                        extraer_uuids(data_nb["notebook"])
+                        extraer_ids(data_nb["notebook"])
                 except Exception:
                     pass
                 
