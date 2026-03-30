@@ -11,14 +11,14 @@
 # Cómo obtenerlo: abre la libreta en https://notebooklm.google.com/
 # y copia el UUID final de la URL:
 #   https://notebooklm.google.com/notebook/<ESTE-ES-EL-ID>
-NOTEBOOK_ID = "8415491e-0767-4276-a934-d4f8f7ce8f80"
+NOTEBOOK_ID = "ac7afa96-6061-421e-ae22-e79b71d6bf61"
 
 # ── Google Drive (Carga Manual por IDs) ───────────────────────
 # ── Google Drive (Manifiesto Local) ───────────────────────
 # Ruta en tu computadora a la carpeta de Google Drive donde está
 # guardado tu archivo "manifiesto_*.txt". El script leerá de 
 # ese archivo de texto qué documentos subir.
-RUTA_CARPETA_LOCAL_DRIVE = r"G:\Unidades compartidas\TD Chile\Proyectos\HY\CEG Localidad"
+RUTA_CARPETA_LOCAL_DRIVE = r"G:\Unidades compartidas\TD Chile\Proyectos\HY\Monitoreo SGI"
 
 
 # =============================================================
